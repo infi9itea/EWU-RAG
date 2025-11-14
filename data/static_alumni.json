@@ -1,0 +1,115 @@
+{
+  "university": "East West University (EWU), Bangladesh",
+  "alumni_portal": "https://alumniportal.ewubd.edu",
+  "total_alumni": "600+",
+  "alumni_foundation": "EWUIAN Foundation",
+  "founded_year": 1996,
+  "notable_alumni": [
+    {
+      "id": 1,
+      "name": "Md. Abir Hasan",
+      "department": "Department of Economics",
+      "achievement": "Prime Minister's Fellowship for Ph.D.",
+      "details": "Awarded as the only non-government Ph.D. applicant from Bangladesh for the Prime Minister's Fellowship for Ph.D. under the Public Administration Skills Enhancement Project for Sustainable Development Goals. Currently pursuing Ph.D. at Oxford University, UK.",
+      "year_awarded": 2023
+    },
+    {
+      "id": 2,
+      "name": "Md. Nazmul Khan",
+      "department": "Department of Economics",
+      "achievement": "Fulbright Scholarship",
+      "details": "Selected for Master's Program in Economics at New York University (NYU), USA, under the Full Bright Scholarship of the United States Government.",
+      "destination": "New York University, USA",
+      "scholarship": "Fulbright Scholarship"
+    },
+    {
+      "id": 3,
+      "name": "Fatima Tasnim",
+      "department": "Department of Computer Science and Engineering",
+      "achievement": "Google Job Offer",
+      "details": "Received job offer letter from Google, the world's largest tech giant, as a Software Engineer.",
+      "position": "Software Engineer",
+      "company": "Google"
+    },
+    {
+      "id": 4,
+      "name": "Redoan Rony",
+      "department": "Department of Media and Communication",
+      "achievement": "Film Director, CEO, National Film Award Winner",
+      "details": "Bangladeshi film director, producer, and media executive who is the Chief Executive Officer of Chorki. Has spent over a decade in Bangladesh's media industry and directed popular TV series including Housefull, Fnf, Behind The Scene, and Pata Jharar Din.",
+      "awards": [
+        "Bangladesh National Film Award for Best Dialogue",
+        "Meril-Prothom Alo Award",
+        "CJFB Award",
+        "Bachsach Award"
+      ],
+      "position": "CEO of Chorki",
+      "notable_work": "Chorabali (directorial debut - 5 National Awards)"
+    },
+    {
+      "id": 5,
+      "name": "MD Fahim",
+      "department": "Department of Computer Science and Engineering",
+      "achievement": "Business Leader",
+      "position": "CEO",
+      "company": "GETSVIEW"
+    },
+    {
+      "id": 6,
+      "name": "Md. Shafayat Hossain",
+      "department": "Department of Computer Science and Engineering",
+      "achievement": "Senior Technical Role",
+      "position": "Lead Software Engineer",
+      "company": "GETSVIEW"
+    },
+    {
+      "id": 7,
+      "name": "Miraj Ahmed",
+      "department": "Department of Electrical and Electronic Engineering",
+      "achievement": "Engineering Professional",
+      "position": "Assistant DFT Engineer",
+      "company": "Ulkasemi"
+    },
+    {
+      "id": 8,
+      "name": "Mohammad Sajjad Islam Shejan",
+      "department": "Department of Business Administration",
+      "achievement": "Finance Professional",
+      "position": "Accounts & Finance",
+      "company": "BOFL"
+    },
+    {
+      "id": 9,
+      "name": "Rubana Huq",
+      "department": "Unknown",
+      "achievement": "Notable Alumnus",
+      "status": "Listed as notable alumnus on official records"
+    },
+    {
+      "id": 10,
+      "name": "Afran Nisho",
+      "department": "Unknown",
+      "achievement": "Notable Alumnus",
+      "status": "Listed as notable alumnus on official records"
+    }
+  ],
+  "alumni_network": {
+    "global_presence": "Worldwide",
+    "career_sectors": [
+      "Technology/IT",
+      "Finance",
+      "Media and Entertainment",
+      "Education",
+      "Government",
+      "Entrepreneurship",
+      "Multinational Corporations"
+    ],
+    "foundation": {
+      "name": "EWUIAN Foundation",
+      "established": "January 11, 2019",
+      "annual_day": "2nd Friday of January",
+      "mission": "Support current students, networking, mentorship, scholarships, and community building"
+    }
+  },
+  "note": "This list represents notable alumni achievements documented as of 2025. EWU has thousands of alumni worldwide. For complete alumni information and to connect with the community, visit https://alumniportal.ewubd.edu"
+}

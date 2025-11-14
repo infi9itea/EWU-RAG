@@ -1,0 +1,242 @@
+{
+    "institution": {
+        "name": "East West University (EWU)",
+        "location": "Dhaka, Bangladesh"
+    },
+    "scholarships_overview": {
+        "annual_amount": "11 Crores BDT",
+        "percentage_of_earnings": "9% of total earnings annually",
+        "student_coverage": "20% or more of regular students",
+        "legal_requirement": "6% of enrolled students (Private University Act 2010)",
+        "freedom_fighter_quota": "3% reserved for wards of freedom fighters",
+        "effective_from": "Spring Semester 2025 onwards"
+    },
+    "merit_scholarships": {
+        "admission_test_top_scorers": {
+            "requirement": "Minimum 75% marks in admission test",
+            "allocation": {
+                "business_economics": 5,
+                "sciences_engineering": 4,
+                "liberal_arts_social_sciences": 2
+            },
+            "continuation_requirement": "Minimum CGPA 3.50"
+        },
+        "graduate_admission": {
+            "requirement": "Minimum 75% marks in graduate admission test",
+            "allocation": "One from MBA program (minimum 20 students admitted)",
+            "continuation_requirement": "Minimum CGPA 3.50"
+        },
+        "perfect_grades_undergraduate": {
+            "ssc_hsc_requirement": "A+ in all subjects (including 4th subject)",
+            "scholarship": "100% tuition free for 4 years",
+            "continuation_requirement": "Minimum GPA 3.50 each semester"
+        },
+        "o_a_level_students": {
+            "requirement": "7 A's in O-level (one sitting), 3 A's in A-level (one year)",
+            "scholarship": "100% tuition free for 4 years",
+            "continuation_requirement": "Minimum GPA 3.50 each semester"
+        },
+        "district_quota": {
+            "eligibility": "One poor and meritorious student per district",
+            "requirement": "GPA 5.00 in both SSC and HSC",
+            "scholarship": "Full tuition free with lodging for 4 years",
+            "continuation_requirement": "Minimum CGPA 2.60"
+        },
+        "gpa_5_holders": {
+            "requirement": "GPA 5.00 in SSC (2022) & HSC (2024)",
+            "scholarship": "50% tuition waiver for first year",
+            "continuation_requirement": "Minimum GPA 3.50 each semester"
+        },
+        "ewu_graduates": {
+            "requirement": "CGPA 4.00 from EWU undergraduate",
+            "scholarship": "100% tuition free for graduate programs (max 2 years)",
+            "continuation_requirement": "CGPA 3.50"
+        },
+        "foreign_students": {
+            "scholarship": "50% tuition waiver"
+        },
+        "top_performers": {
+            "eligibility": "Top 10% of each batch per department",
+            "requirement": "Completed 1/4 of degree with CGPA 3.90+",
+            "scholarship": "Full tuition free for equal number of credits in next 3 semesters"
+        },
+        "graduate_programs_2024_onward": {
+            "cgpa_4_00": "100% scholarship",
+            "cgpa_3_90_to_3_99": "75% scholarship",
+            "cgpa_3_80_to_3_89": "50% scholarship",
+            "continuation_requirement": "Minimum CGPA 3.50, register at least 6 credits per semester"
+        }
+    },
+    "credit_requirements_by_program": {
+        "undergraduate": {
+            "computer_science": {
+                "total_credits": 140,
+                "scholarship_requirement": 35
+            },
+            "electrical_engineering": {
+                "total_credits": 140,
+                "scholarship_requirement": 35
+            },
+            "pharmacy": {
+                "total_credits": 158,
+                "scholarship_requirement": 39
+            },
+            "mathematics": {
+                "total_credits": 130,
+                "scholarship_requirement": 33
+            },
+            "business_administration": {
+                "total_credits": {
+                    "admitted_up_to_fall_2024": 123,
+                    "admitted_from_spring_2025": 130
+                },
+                "scholarship_requirement": {
+                    "admitted_up_to_fall_2024": 30,
+                    "admitted_from_spring_2025": 33
+                }
+            },
+            "civil_engineering": {
+                "total_credits": {
+                    "admitted_up_to_fall_2024": 156.5,
+                    "admitted_from_spring_2025": 145
+                },
+                "scholarship_requirement": {
+                    "admitted_up_to_fall_2024": 37,
+                    "admitted_from_spring_2025": 35
+                }
+            },
+            "genetic_engineering": {
+                "total_credits": {
+                    "admitted_up_to_fall_2025": 133,
+                    "admitted_from_spring_2026": 140
+                },
+                "scholarship_requirement": {
+                    "admitted_up_to_fall_2025": 33,
+                    "admitted_from_spring_2026": 35
+                }
+            },
+            "law": {
+                "total_credits": {
+                    "admitted_up_to_fall_2024": 135,
+                    "admitted_from_spring_2025": 130
+                },
+                "scholarship_requirement": 33
+            }
+        }
+    },
+    "trustees_scholarship": {
+        "per_trustee_allocation": "500% tuition fee waiver (100% each to 5 students or distributed at discretion)",
+        "alternative": "Maximum 45 credits tuition waiver per semester",
+        "carryover": "Unutilized credits can be carried forward within same academic year"
+    },
+    "financial_assistance": {
+        "general": {
+            "undergraduate_requirement": "Completed at least 12 credits with minimum CGPA 2.60",
+            "graduate_requirement": "Completed 6 credits with minimum CGPA 2.80",
+            "basis": "Need-cum-merit basis",
+            "continuation": "Subject to maintaining requirements and demonstrated financial need"
+        },
+        "family_concession": {
+            "eligibility": "Two siblings or husband-wife studying simultaneously",
+            "benefit": "50% tuition waiver for second sibling/spouse",
+            "continuation_requirement": "Both maintain minimum passing CGPA",
+            "extension": "May extend to third sibling",
+            "mutual_exclusivity": "Cannot receive other scholarships simultaneously"
+        },
+        "freedom_fighters_scholarship": {
+            "quota": "3% admission quota for wards of freedom fighters",
+            "scholarship": "Up to 100% tuition waiver for wards of wounded/deceased/financially distressed freedom fighters",
+            "continuation_requirement": "CGPA 2.60 or above each semester",
+            "documentation": "Proof of parent's freedom fighter status required"
+        }
+    },
+    "ewu_employee_benefits": {
+        "children": "50% tuition waiver for one child during employee's tenure",
+        "employees": "50% tuition waiver for employee studying at EWU",
+        "continuation": "Subject to maintaining minimum passing CGPA"
+    },
+    "medha_lalon_scholarship": {
+        "fund_establishment": "2002",
+        "initial_endowment": "1.5 crore BDT",
+        "additional_contribution": "1.3 crore BDT from university operating surplus",
+        "external_contributions": "27.5 lakh BDT from philanthropic donors",
+        "deans_list_scholarship": {
+            "cgpa_requirement": 3.75,
+            "amount": "55,000 BDT per year"
+        },
+        "medha_lalon_scholarship_amount": {
+            "cgpa_requirement": 3.50,
+            "amount": "45,000 BDT per year"
+        },
+        "continuation_requirement": "CGPA must not fall below 2.75",
+        "named_scholarships": [
+            {
+                "name": "Sujat Ali Mazumder Scholarship",
+                "sponsor": "Mr. Jalaluddin Ahmed (deceased)",
+                "amount": "45,000 BDT per year"
+            },
+            {
+                "name": "Anjuman Ara Begum Scholarship",
+                "sponsor": "Mr. Jalaluddin Ahmed (deceased)",
+                "amount": "45,000 BDT per year"
+            },
+            {
+                "name": "M. A. Mumin Scholarship",
+                "sponsor": "Mr. Mansoor Mumin",
+                "amount": "180,000 BDT per year"
+            },
+            {
+                "name": "Dutch-Bangla Bank Ltd. Scholarship",
+                "sponsor": "Dutch-Bangla Bank Ltd.",
+                "amount": "45,000 BDT per year",
+                "count": 3
+            },
+            {
+                "name": "Standard Chartered Bank Scholarship",
+                "sponsor": "Standard Chartered Bank",
+                "amount": "45,000 BDT per year",
+                "count": 2
+            },
+            {
+                "name": "Eastern Bank Ltd. Scholarship",
+                "sponsor": "Eastern Bank Ltd.",
+                "amount": "45,000 BDT per year",
+                "count": 2
+            },
+            {
+                "name": "East West University Scholarship",
+                "sponsor": "East West University",
+                "amount": "45,000 BDT per year",
+                "count": 10
+            }
+        ],
+        "abdul_latif_khan_fund": {
+            "sponsor": "Mrs. Rehana Akhtar Khanam (former UN official)",
+            "fund_name": "Abdul Latif Khan-Jahanara Khanam Chowdhury Scholarship Fund",
+            "amount": "50 lakh BDT endowment",
+            "target": "Lower-middle-class families"
+        }
+    },
+    "general_conditions": {
+        "simultaneous_benefits": "Students cannot receive multiple scholarships/financial assistance simultaneously",
+        "study_time_limit": "Benefits only available during regular study time required for degree",
+        "retaking_courses": "Students retaking courses not eligible for scholarships",
+        "disciplinary_action": "Benefits discontinued for violation of University Disciplinary Code",
+        "minimum_registration": {
+            "undergraduate": "At least 3 courses (9 credits) per semester",
+            "pharmacy_law": "At least 4 courses (12 credits) per semester",
+            "graduate": "At least 2 courses (6 credits) per semester"
+        }
+    },
+    "historical_data": {
+        "2023_2024_distribution": "22,87,61,468 BDT (22 crore 87 lakh 61 thousand 468 BDT)",
+        "covid_support": "20% tuition waiver for all students (Spring 2020 - 2023)",
+        "student_activity_fee": "Remitted during COVID period"
+    },
+    "application_process": {
+        "method": "Prescribed forms available",
+        "evaluation": "Need-cum-merit basis",
+        "selection": "Computerized system for transparency",
+        "committee": "Financial Assistance Committee"
+    }
+}

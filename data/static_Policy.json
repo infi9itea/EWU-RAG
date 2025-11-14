@@ -1,0 +1,472 @@
+{
+    "policies": [
+    {
+      "name": "Sustainability Climate Action Policy",
+      "purpose": "The policy aims to address environmental degradation and the challenges of climate change by integrating sustainability principles across university administration, education, research, and community engagement efforts. [cite: 78, 80]",
+      "scope": "The policy applies to all university community members, including students, faculty, staff, and contractors. It encompasses all aspects of university operations, such as teaching, research, infrastructure, waste management, and energy usage. [cite: 82, 83]",
+      "principles": [
+      {
+        "name": "Energy Use Efficiency",
+        "details": "Achieve energy efficiency by mitigating waste and switching to alternative technology, which includes converting all lighting to energy-saving devices with sensory panels, installing solar panels, and ensuring all new construction maximizes natural lighting and utilizes energy-saving devices."
+      },
+      {
+        "name": "Water Use Efficiency",
+        "details": "Minimize water consumption and maximize recycling/reuse of water resources through strategies like installing automated sensory water dispensers, regularly monitoring for zero leakage, recycling all wastewater for gardening, and ensuring new construction includes provision for rainwater harvesting."
+      },
+      {
+        "name": "Paper Use Reduction",
+        "details": "Minimize paper usage by reducing reliance on printed material, adopting a Learning Management System (LMS) for classes, discouraging unnecessary printing, adopting ERP systems to streamline operations, and creating archives for thesis work."
+      },
+      {
+        "name": "Responsible Waste Management",
+        "details": "Manage and process all university waste according to health and environmental practices. This involves installing color-coded bins, sorting and processing all recyclable waste (especially paper), installing a Sewage Treatment Plant, and ensuring proper disposal of all hazardous waste."
+      }
+      ],
+      "key_actions": [
+        "Prioritize sourcing locally grown, seasonal, and organic food in the cafeteria to minimize the carbon footprint.",
+        "Reduce food waste through careful portioning and donation of surplus food to local charities.",
+        "Minimize the use of single-used plastics by offering reusable or biodegradable alternatives in the cafeteria.",
+        "Design all new construction and development under the umbrella of green-architecture, including provisions for rainwater harvesting and solar panels.",
+        "Increase green spaces, gardens, and green roofs on campus to enhance biodiversity, and use recycled water for gardening practices.",
+        "Align the university’s procurement policy with climate action goals by prioritizing environmentally sustainable and ethically sourced products and favoring local suppliers."
+      ],
+      "committee_members": [
+        "Convener: Dr. Biva Arani Mallik, Associate Professor, Department of Economics [cite: 1475]",
+        "Members: Air Cdre (Retd) Ishfaq Ilahi Choudhury, Treasurer [cite: 1476]",
+        "A.K.M. [cite_start]Maniruzzaman, Chief Engineer, EMD [cite: 1477]",
+        "Dr. [cite_start]Md. Naimul Haque, Associate Professor & Chairperson, Department of Civil Engineering [cite: 1478]",
+        "Professor Dr. Ahmed Wasif Reza, Additional Director, IQAC [cite: 1479]"
+      ]
+    },
+    {
+      "name": "Sustainable Procurement Policy",
+      "purpose": "The policy, also known as the East West University Procurement Manual 2021 (EWUPM 2021), ensures the procurement of high-quality sustainable goods, works, and services at the most competitive price. [cite: 275, 276]",
+      "scope": "It provides operational guidance for employees involved in procurement activities and applies to the procurement of goods, works, or related services using university funds, as well as under loan, credit, or grant agreements. [cite: 277, 278, 205, 206]",
+      "principles": [
+      {
+        "name": "Alignment with Climate Action Goals",
+        "details": "The procurement process is designed to align with the university's climate action goals by prioritizing environmentally sustainable and ethically sourced products and services."
+      },
+      {
+        "name": "Favoring Sustainable Suppliers",
+        "details": "The policy shall favor suppliers and vendors that demonstrate a commitment to sustainability, such as those offering energy-efficient equipment, renewable materials, and products with minimal environmental impact."
+      },
+      {
+        "name": "Promoting Local Sourcing",
+        "details": "The policy encourages the purchase of locally sourced goods to reduce transportation emissions and support local economies."
+      },
+      {
+        "name": "Waste Reduction in Procurement",
+        "details": "Emphasis is placed on reducing waste by selecting products with minimal packaging and promoting the use of reusable or recyclable materials."
+      }
+      ],
+      "key_actions": [
+        "Ensure the procurement process is fair and non-discriminatory, ensuring transparency, neutrality, objectivity, integrity, and sustainability at all steps.",
+        "Ensure 'Best Value for Money' is the motto in procuring goods, services, and works, guaranteeing procurement at the evaluated lowest prices without compromising quality.",
+        "Make the procurement process simpler so that the participation of a larger number of vendors is encouraged.",
+        "Assign responsibilities and ensure accountabilities through delegation of financial powers to various levels of officials of the university."
+      ],
+      "committee_members": [
+        "Convener: Md. Jahangir Alam Khan, Chief, HR & Logistics [cite: 284]",
+        "Members: Air Cdre (Retd) Ishfaq Ilahi Choudhury, Treasurer [cite: 285]",
+        "Professor Dr. Jashim Uddin, Department of Business Administration [cite: 286]",
+        "Md. Touhidul Islam, FCA, Director of Finance [cite: 287]",
+        "Dr. Basanta Kumar Barmon, Additional Director, IQAC [cite: 288]"
+      ]
+    },
+    {
+      "name": "Sustainable Investment Policy",
+      "purpose": "The policy establishes objectives and principles for the university's investments and provides guidelines for maintaining environmental, social, and governance (ESG) issues while ensuring financial stability. [cite: 425, 426]",
+      "scope": "It ensures that all university funds are utilized responsibly and covers all investments and savings made by or on behalf of the university. [cite: 428]",
+      "principles": [
+      {
+        "name": "ESG and Ethical Standards Alignment",
+        "details": "Ensure that all investment operations reflect East West University's ethical standards and its commitment to environmental, social, and governance (ESG) issues."
+      },
+      {
+        "name": "Long-Term Sustainable Return",
+        "details": "Ensure a successful long-term investment return and guarantee a better return at a lower risk through sustainable investment practices."
+      },
+      {
+        "name": "Screening for Societal Harm",
+        "details": "Apply a combination of negative and positive screens to exclude companies that may be harmful to society and/or the environment and to invest in businesses with good governance."
+      },
+      {
+        "name": "Contribution to SDGs",
+        "details": "Embrace the university's unique role in contributing to the United Nations Sustainable Development Goals (SDGs)."
+      }
+      ],
+      "key_actions": [
+        "Conduct a thorough assessment of the financial, legal, and reputational risks associated with any proposed investment before making a decision.",
+        "Give preference to investments in projects that promote respect for human rights, diversity, inclusion, and high ethical standards of operation.",
+        "Prohibit investment in Fixed Deposit Receipts (FDR) with commercial banks having poor credit ratings or any non-banking financial institutions (NBFI).",
+        "Avoid making any investment in the volatile stock market.",
+        "Limit investment exposure with a single bank to not exceed 30% of the overall investment.",
+        "Prohibit affiliation or investment with any organizations whose operations cause harm to society and/or the environment, specifically those that compromise the needs of future generations."
+      ],
+      "committee_members": [
+        "Convener: Professor Dr. Tanbir Ahmed Chowdhury, Department of Business Administration [cite: 432]",
+        "Members: Professor Dr. Anup Chowdhury, Dean, Faculty of Business and Economics [cite: 433]",
+        "Dr. A.M. [cite_start]Tanvir Hussain, Associate Professor, Department of Economics [cite: 434]",
+        "Md. [cite_start]Touhidul Islam, FCA, Director of Finance [cite: 435]",
+        "Professor Dr. Ahmed Wasif Reza, Additional Director, IQAC [cite: 436]"
+      ]
+    },
+    {
+    "name": "Equity, Diversity, and Inclusion Policy of East West University",
+    "purpose": "East West University (EWU) is committed to fostering a diverse, equitable, and inclusive community where everyone is valued and supported[cite: 10]. [cite_start]This policy outlines EWU's approach to issues related to socio-economic class, race, gender, ethnicity, and opportunity[cite: 11].",
+    "scope": "It reflects the institution's commitment to equity at all levels so that all members of our community, faculty, staff, and stakeholders can thrive[cite: 12]. [cite_start]The policy is expected to be conformed to by all university members[cite: 87].",
+    "principles": [
+        {
+        "name": "Non-Discrimination and Anti-Harassment",
+        "details": "Enforce zero tolerance for any acts of discrimination, harassment, or inequity [cite: 21][cite_start], and implement policies conforming to national legislation and international standards on human rights[cite: 22]."
+        },
+        {
+        "name": "Inclusive Recruitment and Retention",
+        "details": "Actively recruit and retain diverse talents across faculty, staff, and students [cite: 24][cite_start], while ensuring equitable access to professional development and leadership opportunities[cite: 25]."
+        },
+        {
+        "name": "Accessible Learning and Working Environments",
+        "details": "Ensure physical and digital accessibility for all, including those with special needs [cite: 27][cite_start], offer necessary accommodations [cite: 28][cite_start], and provide supportive facilities for women, such as daycare, a maternity leave policy, and specialized accommodation/transportation[cite: 30, 31]."
+        },
+        {
+        "name": "Education and Awareness",
+        "details": "Integrate EDI concepts into curriculum, research, and training [cite: 33][cite_start], and organize workshops, seminars, and campaigns for awareness and sensitization on EDI issues[cite: 34, 40]."
+        }
+    ],
+    "key_actions": [
+        "Setting targets for the assurance of diversity within the hiring process[cite: 43].",
+        "Establish scholarships and financial aid packages for underrepresented groups[cite: 44].",
+        "Review the curriculum for diversity of content and approach[cite: 46].",
+        "Establish mechanisms for funding projects and activities focused on systemic inequities in research and innovation[cite: 49]."
+    ],
+    "committee_members": [
+        "Convener: Professor Dr. Fouzia Mannan, Department of Sociology [cite: 95, 96, 97]",
+        "Member: Professor Dr. Moriam Quadir, Department of English [cite: 98, 99]",
+        "Member: Professor Dr. Nikhil Chandra Shil, Department of Business Administration [cite: 98, 100]",
+        "Member: Dr. Nabaat Tasnima Mahbub, Assistant Professor, Department of Law [cite: 101, 102]",
+        "Member: Professor Dr. Sufia Islam, Director, IQAC [cite: 103, 104, 105]"
+    ]
+    },
+    {
+      "name": "Anti-Bribery and Anti-Corruption Policy",
+      "purpose": "The policy defines the university's stance on bribery and corruption and provides mechanisms for preventing and addressing such activities, in compliance with national laws. [cite: 530, 531, 532]",
+      "scope": "It applies to all individuals associated with the university, including members of statutory committees, faculty, staff, students, and external stakeholders. [cite: 534, 535, 536, 537]",
+      "principles": [
+      {
+        "name": "Zero-Tolerance Policy and Integrity",
+        "details": "East West University (EWU) upholds a zero-tolerance approach to bribery and corruption, committing to conducting all operations ethically, transparently, and in compliance with all relevant anti-corruption laws."
+      },
+      {
+        "name": "Absolute Prohibition of Bribery and Corruption",
+        "details": "The university prohibits any form of direct or indirect bribery (offering, giving, receiving, or soliciting anything of value to influence actions) and corrupt practices (abuse of power, fraud, embezzlement, or misuse of authority). This includes prohibiting the giving of undue academic advantage to any student."
+      },
+      {
+        "name": "Prohibition of Facilitation Payments",
+        "details": "EWU strictly prohibits the offering, making, demanding, or accepting of any form of facilitation payment, as these are considered illegal forms of bribery, with no exceptions, even if they are customary in certain contexts."
+      },
+      {
+        "name": "Strict Rules on Gifts and Hospitality",
+        "details": "Gifts, hospitality, or donations are prohibited if they are lavish, offered with the expectation of a business advantage, or given during negotiations/tenders. Acceptable practices require all gifts to be reasonable, proportionate, and properly documented for transparency."
+      }
+      ],
+      "key_actions": [
+        "All employees, students, and associated parties are required to avoid situations that may give rise to corruption and refuse any form of bribe or improper inducement.",
+        "Individuals must promptly report any suspected instances of bribery or corruption to the designated department or committee.",
+        "EWU commits to protecting whistleblowers from retaliation, harassment, or negative consequences, ensuring the confidentiality of the individual.",
+        "The university will maintain accurate and transparent records of all financial transactions, which must be available for audits, and strictly prohibits false or misleading records.",
+        "EWU will provide regular seminars, discussions, and training sessions to ensure all associated individuals understand their anti-bribery and anti-corruption responsibilities.",
+        "Any individual found to violate this policy may face disciplinary actions up to termination or expulsion, and be subject to legal action under the relevant laws (e.g., Penal Code 1860, Anti-Corruption Commission Act 2004)."
+      ],
+      "committee_members": [
+        "Convener: Air Cdre (Retd) Ishfaq Ilahi Choudhury, Treasurer [cite: 543]",
+        "Members: Professor Dr. Md. Mozammel Huq Azad Khan, Department of Computer Science and Engineering [cite: 544]",
+        "Dr. [cite_start]Md. Mehedi Hasan, Assistant Professor, Department of Law [cite: 545]",
+        "Mr. [cite_start]Dipak Kumar Roy, Chief, Internal Audit Unit [cite: 546]",
+        "Dr. [cite_start]Basanta Kumar Barmon, Additional Director, IQAC [cite: 547]"
+      ]
+    },
+    {
+      "name": "Outreach Projects Policy",
+      "purpose": "The policy is designed to foster meaningful partnerships between students and various communities, including government and non-governmental organizations. [cite: 693]",
+      "objectives": "The objectives include raising awareness of community service, establishing community bonding, and improving students' understanding of socio-cultural contexts. [cite: 699, 700, 701, 702]",
+      "principles": [
+      {
+        "name": "Meaningful Partnerships and Community Improvement",
+        "details": "The policy is designed to promote meaningful partnerships between EWU students and diverse communities (including government and non-governmental organizations), enriching student experiences while nurturing goodwill, driving community improvement, and creating sustainable benefits for all involved."
+      },
+      {
+        "name": "Raising Community Service Awareness and Connectivity",
+        "details": "To raise the level of awareness and interest in community service programs for all students through active and regular engagements, which strengthens connectivity among the university, its students, and the community."
+      },
+      {
+        "name": "Socio-Cultural Understanding and Sustainable Society",
+        "details": "To establish community bonding that helps students empathize with others, appreciate diversity, improve their understanding of the socio-cultural context, and acquire practical knowledge, ultimately contributing to building a more sustainable society."
+      },
+      {
+        "name": "Skill Development and Future Opportunities",
+        "details": "To help students connect with fellow volunteers, mentors, professionals, and community leaders for guidance and opportunities, enabling them to gain knowledge and develop self-confidence and self-esteem to thrive in complex societal challenges."
+      }
+      ],
+      "key_actions": [
+        "Mentoring/Tutoring/Teaching: Students can participate in volunteer teaching or mentoring in any community school or relevant organization to share their knowledge and skills.",
+        "Science, Technology, Engineering and Mathematics (STEM) Education: Students can volunteer in STEM education initiatives to reinforce their understanding of concepts and develop communication and problem-solving skills.",
+        "Art and Culture: Students can volunteer for arts and cultural organizations by organizing events, performing shows, or workshops to promote diversity, inclusion, and innovation.",
+        "Environmental Protection: Students can volunteer for environmental projects such as planting trees, cleaning areas, recycling waste, awareness campaigns, and participating in community gardening projects.",
+        "Disaster Relief: Students can participate in community-based emergency response efforts, including providing first aid, distributing essential supplies, participating in rebuilding efforts, and taking part in disaster preparedness training."
+      ],
+      "committee_members": [
+        "Convener: Professor Dr. Mobarak Hossain Khan, Department of Social Relations [cite: 708]",
+        "Members: Professor Dr. Dilara Begum, Department of Information Studies [cite: 709]",
+        "Dr. [cite_start]Mumita Tanjeela, Associate Professor, Department of Sociology [cite: 710]",
+        "Dr. [cite_start]Touhida Tasnima, Assistant Professor, Department of Social Relations [cite: 711]",
+        "Professor Dr. Sufia Islam, Director, IQAC [cite: 712]"
+      ]
+    },
+    {
+      "name": "Social and Environmental Training Policy",
+      "purpose": "This policy aims to incorporate structured programs to promote student, faculty, and staff engagement in social and environmental initiatives, aligning with global Sustainable Development Goals (SDGs). [cite: 839]",
+      "objectives": "Objectives include developing a culture of environmental and social responsibility, equipping students with practical knowledge, and integrating these aspects into academic curricula and research. [cite: 840, 841, 842]",
+      "principles": [
+      {
+        "name": "Culture Development and Responsibility",
+        "details": "Develop a culture of environmental and social responsibility within the university community and promote student, faculty, and staff engagement in social and environmental initiatives."
+      },
+      {
+        "name": "Skill Acquisition and Practical Knowledge",
+        "details": "Equip students with practical knowledge and skills in sustainable development and social welfare, ensuring they are prepared to address real-world social and environmental challenges."
+      },
+      {
+        "name": "Academic and Co-Curricular Integration",
+        "details": "Integrate social and environmental aspects into academic curricula, research, and extracurricular activities to align with global Sustainable Development Goals (SDGs)."
+      },
+      {
+        "name": "Reputation and Global Citizenship",
+        "details": "Enhance global reputation and ranking through active participation in SDG-related metrics and community impact projects, reflecting the university's commitment to global citizenship."
+      }
+      ],
+      "key_actions": [
+        "Integrate **mandatory courses** on sustainability, social responsibility, and environmental sciences into undergraduate and graduate programs.",
+        "Develop **specialized electives** on topics such as climate change, renewable energy, and Corporate Social Responsibility (CSR).",
+        "Establish **active student clubs** focusing on environmental conservation, community service, and social entrepreneurship.",
+        "Organize **annual flagship events** such as Social Impact Week, Green Campus Day, and Sustainability Hackathons.",
+        "Provide **incentives** such as awards, certificates, and credits for participation in social and environmental activities.",
+        "Allocate **research grants** for projects targeting sustainability, renewable energy, biodiversity conservation, and social welfare."
+      ],
+      "committee_members": [
+        "Convener: Professor Dr. Mohammad Ashik Mosaddik, Pro-Vice Chancellor [cite: 849]",
+        "Members: Professor Dr. M. Ruhul Amin, Dean, Faculty of Sciences and Engineering [cite: 850]",
+        "Professor Dr. Anup Chowdhury, Dean, Faculty of Business and Economics [cite: 851]",
+        "Professor Dr. Farzana Akhter, Dean, Faculty of Liberal Arts and Social Sciences [cite: 852]",
+        "Professor Dr. Sufia Islam, Director, IQAC [cite: 853]"
+      ]
+    },
+    {
+      "name": "Disciplinary Policy",
+      "purpose": "The policy, officially titled 'Disciplinary Policy of East West University for Members, 2025,' is framed to maintain and uphold the standards of conduct for all employees and students. [cite: 1024, 1025, 1028]",
+      "scope": "It applies to any employee or student at the university. [cite: 1043]",
+      "principles": [
+      {
+        "name": "Policy Goals and Academic Integrity",
+        "details": "The Disciplinary Policy is aimed at upholding the name and reputation of the University, maintaining order, discipline, safety, and security, and ensuring the integrity and quality of all academic and assessment processes at the University."
+      },
+      {
+        "name": "General Conduct and Duty",
+        "details": "Every member must conform to and abide by all rules, observe and obey all orders and directions from the University, discharge their assigned duties faithfully, honestly, and diligently, and use their utmost endeavors to promote the interests of the University."
+      },
+      {
+        "name": "Professional Decorum and Secrecy",
+        "details": "Members must observe proper decorum and show courtesy in all matters. They must also maintain strict secrecy regarding the affairs of the University and not divulge the contents of any document, except to their section head, the Vice Chancellor, and persons involved in processing the document."
+      }
+      ],
+      "key_actions": [
+        "A member shall not associate with any political organization or front organization of political parties, or otherwise take an active part in politics.",
+        "A member shall not keep herself/himself absent from duties or leave her/his station without obtaining permission from the controlling officer.",
+        "A member shall not accept or seek any other employment or part-time work, whether paid or honorary, nor engage in any trade or business without prior sanction and specific approval of the appointing authority.",
+        "A member shall not make any public statement pertaining to EWU through any media (press, radio, or television) unless specifically authorized to do so by the University.",
+        "A member shall not indulge in parochialism, favoritism, victimization, willful abuse of office, seizure (Gherao) of office, or coercion to officer/staff in a body or individually.",
+        "A member shall not demonstrate sexually oriented behavior (indecent gestures, teasing through abusive language, stalking, or joking having sexual implications) or attempt to establish a physical relationship with sexual implication by abuse of administrative or professional powers.",
+        "No member or their relative shall accept any gift or concession from, or enter into a pecuniary obligation (lend or borrow money) with, any person or firm having or likely to have dealings with the University."
+      ],
+      "committee_members": [
+        "Convener: Dr. Anisur Rahman, Proctor & Associate Professor, Department of Computer Science and Engineering [cite: 1051]",
+        "Members: Professor Dr. Ahmed Wasif Reza, Dean, Faculty of Sciences and Engineering, Additional Director, IQAC [cite: 1052]",
+        "Professor Dr. Anindita Paul, Department of Mathematical and Physical Sciences [cite: 1053]",
+        "Dr. [cite_start]Farzan Pamela Islam, Assistant Proctor & Associate Professor, Department of English [cite: 1054]",
+        "Dr. [cite_start]Shawkat Md. Aminul Islam, Assistant Proctor & Assistant Professor, Department of Pharmacy [cite: 1055]"
+      ]
+    },
+    {
+      "name": "Plagiarism Policy",
+      "purpose": "The policy is a commitment to upholding the highest standards of academic integrity and honesty. [cite: 1235]",
+      "scope": "It applies to all university community members, including students, faculty, researchers, and staff, and covers all forms of academic submissions. [cite: 1241, 1242]",
+      "principles": [
+      {
+        "name": "Upholding Academic Integrity",
+        "details": "East West University is committed to upholding the highest standards of academic integrity and honesty. Plagiarism is defined as using another person's ideas, words, or work without properly acknowledging the source."
+      },
+      {
+        "name": "Comprehensive Definition of Plagiarism",
+        "details": "Plagiarism includes, but is not limited to, reproducing lecture notes or copying/pasting text without citation, fabricating or using incorrect references, using figures, codes, or images without acknowledgment, using phrases without quotation marks, paraphrasing without proper attribution, and submitting someone else's work as one's own."
+      },
+      {
+        "name": "Universal Scope and Application",
+        "details": "This policy applies to all University community members, including undergraduate and postgraduate students, faculty, researchers, and staff. It covers all academic submissions such as assignments, research papers, theses, dissertations, publications, projects, and creative compositions."
+      }
+      ],
+      "key_actions": [
+        "Academic staff must actively prevent plagiarism by educating students, providing clear guidelines on referencing, and utilizing plagiarism checking software to ensure original work.",
+        "Students are responsible for maintaining honesty in all academic work, understanding the penalties for misconduct, and ensuring all submitted work is original and properly referenced.",
+        "Any suspected case of plagiarism must be reported to the Academic Integrity Committee (AIC) for a thorough investigation, considering the context and intent of the offense.",
+        "The university shall apply penalties for plagiarism based on the severity and context of the offense, ranging from warnings to suspension or expulsion.",
+        "Students and faculty have the right to appeal decisions related to plagiarism accusations by submitting a written appeal to the EWU Plagiarism Policy (EWUPP) Committee within 14 days of the decision."
+      ],
+      "committee_members": [
+        "Convener: Professor Dr. Muhammed Shahriar Haque, Executive Director, CRT [cite: 1261]",
+        "Members: Professor Dr. M. Ruhul Amin, Dean, Faculty of Sciences and Engineering [cite: 1262]",
+        "Professor Dr. Anup Chowdhury, Dean, Faculty of Business and Economics [cite: 1263]",
+        "Professor Dr. Farzana Akhter, Dean, Faculty of Liberal Arts and Social Sciences [cite: 1264]",
+        "Professor Dr. Fouzia Mannan, Chairperson, Department of Sociology [cite: 1265]",
+        "Professor Dr. Farhana Ferdousi, Chairperson, Department of Business Administration [cite: 1266]",
+        "Dr. [cite_start]Akhter Jahan, Chairperson & Associate Professor, Department of English [cite: 1267]"
+      ]
+    },
+    {
+      "name": "Artificial Intelligence Policy",
+      "purpose": "The policy provides guidelines for the ethical and transparent use of AI, especially Generative AI, in the university's academic, research, development, and administrative activities. [cite: 1380, 1381, 1382]",
+      "scope": "It applies to all individuals associated with the university. [cite: 1386]",
+      "principles": [
+      {
+        "name": "Ethical, Transparent, and Compliant Use",
+        "details": "East West University (EWU) encourages ethical, innovative, and productive use of AI tools, while strictly considering misuse and abuse of AI tools as a punishable offense. All activities must be ethical, transparent, and in compliance with all related legal and societal norms, policies, and laws."
+      },
+      {
+        "name": "Academic Integrity and Citation Mandate",
+        "details": "The policy requires proper citation and permission for all permitted AI-generated content. A maximum of one percent of raw GenAI-generated sentences or two percent of sentences rephrased using a second GenAI tool may be used in any report or publication, with full disclosure of the tools and dates used."
+      },
+      {
+        "name": "Prohibition of Deception and Harmful Content",
+        "details": "Strictly prohibits using AI tools for impersonation, completing assignments without explicit permission from the supervisor, generating misinformation or unethical elements, and creating content subversive to the interests of any person, community, society, nation, politics, culture, religion, or public health."
+      },
+      {
+        "name": "Intellectual Property and Legal Compliance",
+        "details": "Users must not violate intellectual property laws or any related national and international laws when using AI tools. AI research and tools development must be guided by national and international norms, conventions, and laws."
+      }
+      ],
+      "key_actions": [
+        "**Permitted Uses (with Citation/Permission):** Brainstorming, refining research questions, finding relevant information (literature surveys), drafting outlines, checking grammar and writing style, and using visual/audio GenAI content that does not constitute clear plagiarism.",
+        "**Prohibited Uses (Without Exception):** Impersonating, completing assigned work (individual or group) without explicit permission, writing the first draft of any writing assignment, using more than the stated percentage limits of GenAI text, performing a literature review (not survey) using AI tools, defaming any person/organization, and unauthorized use of any AI tools.",
+        "**Administrative Restriction:** Prohibits the use of GenAI tools for preparing any administrative documents, news reports, or any form of communication items.",
+        "**Consequences:** Violation of this policy will be dealt with under EWU's students' code of conduct, employees' service rule, plagiarism policy, and related national/international laws (e.g., copyright law, cyber law).",
+        "**Reporting:** Any suspected violation must be confidentially reported to the concerned authority, and EWU is committed to protecting whistleblowers from adverse consequences."
+      ],
+      "committee_members": [
+        "Convener: Professor Dr. Md. Mozammel Huq Azad Khan, Department of Computer Science and Engineering [cite: 1391]",
+        "Members: Professor Dr. Mohammad Mojammel Al Hakim, Department of Electrical and Electronic Engineering [cite: 1392]",
+        "Professor Dr. Dilara Begum, Department of Information Studies [cite: 1393]",
+        "Dr. [cite_start]Md. Atiqur Rahman Sarker, Associate Professor, Department of Business Administration [cite: 1394]",
+        "Dr. [cite_start]Nabaat Tasnima Mahbub, Associate Professor, Department of Law [cite: 1395]"
+      ]
+    },
+    {
+      "name": "Carbon Emission Policy",
+      "purpose": "The policy outlines a strategic approach to addressing climate change by measuring, reducing, and offsetting the university's carbon footprint. [cite: 1511, 1512]",
+      "scope": "It encompasses all university operations, including campus infrastructure, transportation, energy consumption, and waste management. [cite_start]It applies to faculty, staff, students, and external stakeholders. [cite: 1513, 1514]",
+      "principles": [
+      {
+        "name": "Carbon Footprint Reduction",
+        "details": "To reduce the university's carbon footprint through energy-efficient and sustainable practices."
+      },
+      {
+        "name": "Renewable Energy Adoption",
+        "details": "To promote the adoption of renewable energy sources, such as solar or wind power."
+      },
+      {
+        "name": "Integration of Sustainability",
+        "details": "To integrate sustainability principles into academic curricula and research initiatives."
+      },
+      {
+        "name": "Stakeholder Engagement",
+        "details": "To actively engage students, faculty, and staff in climate action programs."
+      },
+      {
+        "name": "Compliance and Monitoring",
+        "details": "To ensure compliance with national and international environmental standards and establish a comprehensive monitoring and reporting framework for carbon emissions."
+      }
+      ],
+      "key_actions": [
+        "**Energy Consumption:** Conduct energy audits, upgrade to energy-efficient lighting and appliances, install smart monitoring systems, and integrate renewable energy (solar/wind) where feasible.",
+        "**Transportation:** Promote walking, cycling, and public transport use; encourage the use of electric/hybrid vehicles; and implement carpooling incentives for the university community.",
+        "**Procurement:** Prioritize the procurement of locally sourced, energy-efficient, and recycled-content goods and services, and favor suppliers with strong sustainability records.",
+        "**Waste Management:** Implement source segregation (color-coded bins), reduce single-use plastics, promote recycling and composting, and establish an effective overall waste management system.",
+        "**Curricula and Research:** Integrate climate change and sustainability into academic curricula, encourage research on carbon mitigation and renewable energy, and support interdisciplinary research on climate action.",
+        "**Outreach and Engagement:** Organize awareness campaigns and workshops, collaborate with external partners, and participate in global climate action initiatives.",
+        "**Monitoring and Reporting:** Establish a Carbon Emission Monitoring Committee (CEMC), conduct regular carbon footprint assessments (Scope 1, 2, 3), and ensure transparent public reporting of data.",
+        "**Offsetting:** Explore carbon offsetting options for unavoidable emissions, such as tree planting on campus or involvement in community-based climate action programs."
+      ],
+      "committee_members": [
+        "Convener: Professor Dr. Ahmed Wasif Reza, Dean, Faculty of Sciences and Engineering, Additional Director, IQAC [cite: 1520]",
+        "Members: Dr. M Sayeed Alam, Associate Professor, Department of Business Administration [cite: 1521]",
+        "Dr. [cite_start]Zubair Hasan, Associate Professor, Department of Mathematical and Physical Sciences [cite: 1522]",
+        "Dr. [cite_start]Shakil Ahmed, Assistant Professor, Department of Civil Engineering [cite: 1523]",
+        "Ms. [cite_start]Imrana Sharmin, Assistant Professor, Department of Economics [cite: 1524]"
+      ]
+    },
+
+    {
+      "name": "Academic Grading and Evaluation Policy",
+      "purpose": "To establish the Uniform Recommended Grading System, grade point equivalents, and associated rules for academic evaluation at East West University.",
+      "scope": "Applies to all undergraduate and graduate students of East West University.",
+      "grading_system": [
+        { "scores": "80% and above", "letter": "A+", "point": 4.00, "status": "Passing" },
+        { "scores": "75% to less than 80%", "letter": "A", "point": 3.75, "status": "Passing" },
+        { "scores": "70% to less than 75%", "letter": "A-", "point": 3.50, "status": "Passing" },
+        { "scores": "65% to less than 70%", "letter": "B+", "point": 3.25, "status": "Passing" },
+        { "scores": "60% to less than 65%", "letter": "B", "point": 3.00, "status": "Passing" },
+        { "scores": "55% to less than 60%", "letter": "B-", "point": 2.75, "status": "Passing" },
+        { "scores": "50% to less than 55%", "letter": "C+", "point": 2.50, "status": "Passing" },
+        { "scores": "45% to less than 50%", "letter": "C", "point": 2.25, "status": "Passing" },
+        { "scores": "40% to less than 45%", "letter": "D", "point": 2.00, "status": "Passing" },
+        { "scores": "Less than 40%", "letter": "F", "point": 0.00, "status": "Failing" }
+      ],
+      "evaluation_rules": [
+        {
+          "name": "CGPA Calculation",
+          "details": "CGPA is calculated by dividing total grade points by credits attempted (A+ through F). For repeated courses, only the grade from the last attempt is used."
+        },
+        {
+          "name": "Re-Scrutiny of Scripts",
+          "details": "Re-evaluation is not allowed; only Re-Scrutiny for marking errors is permitted. A Tk.200 fee per script is charged, refunded if the faculty member is at fault."
+        },
+        {
+          "name": "Undergraduate Probation and Dismissal",
+          "details": "UG students with CGPA 1.0-2.25 are on probation for two semesters. Failure to reach 2.25 results in dismissal. CGPA below 1.0 is automatic dismissal. Failing remedial courses twice also leads to probation. Dismissed students can seek readmission to another program via the Admission Test."
+        },
+        {
+          "name": "Graduate Probation and Dismissal",
+          "details": "Graduate students with CGPA below 2.60 are on probation for a maximum of two consecutive semesters. Failure to raise CGPA to 2.60 or above results in dismissal."
+        },
+        {
+          "name": "Incomplete (I) Grade",
+          "details": "An 'I' grade is for students who completed all requirements except the final exam. If not completed within one week of the next semester, the 'I' automatically converts to an 'F'."
+        },
+        {
+          "name": "Withdrawal (W) Grade",
+          "details": "The 'W' grade is assigned for officially dropping a course within the Academic Calendar's specified date."
+        },
+        {
+          "name": "Course Retake Policy",
+          "details": "Passing grades can be retaken only once. 'F' grades can be retaken multiple times; previous 'F' becomes 'R', and the last attempt counts in CGPA. Written permission, re-registration, and fees are required. Students using this policy are ineligible for Gold Medal/Distinction."
+        },
+        {
+          "name": "Academic Honesty and Cheating",
+          "details": "The university has zero-tolerance for cheating (copying, unfair means). Disciplinary action follows. Faculty must prevent/detect cheating and report any student found cheating to the Dean."
+        },
+        {
+          "name": "Leave of Absence and Unauthorized Absence",
+          "details": "Leave (up to 3 consecutive semesters/1 year) is for students in good standing (UG: 2.25+, Grad: 2.60+). Dean grants leave. **Probationary Leave:** Possible for the 2nd semester of probation on compassionate grounds after completing the 1st. **Unauthorized Absence:** Penalties (20%-40% of 9 credits tuition) apply based on duration (1-3 semesters). Exceeding 3 semesters results in 'Officially Withdrawn' status. New students can defer the first semester for a Tk.3,000 fee."
+        }
+      ]
+    }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+  "university_name": "East West University (EWU)",
+  "policy_title": "Sexual Harassment Elimination and Prevention Policy",
+  "stance": "Zero Tolerance",
+  "rules_and_scope": {
+    "status": "Serious punishable offense and a grave breach of discipline (Social Misconduct).",
+    "applicability": [
+      "Students",
+      "Faculty members",
+      "Officials",
+      "Staff members",
+      "Applicants",
+      "Visitors"
+    ],
+    "extended_coverage": [
+      "Acts within EWU territorial limits.",
+      "Acts where the victim or perpetrator is related to EWU.",
+      "Acts committed using cyber space (e-mail, SMS, posters, etc.)."
+    ],
+    "examples_of_prohibited_conduct": [
+      "Teasing through remarks or indecent gestures (including stalking, abusive remarks, humiliation).",
+      "Exhibiting sexually offensive content (photos, digital images, cartoons).",
+      "Displaying sexually offensive behavior in or beyond the classroom.",
+      "Spreading scandals or attempting character assassination for sexual defamation."
+    ]
+  },
+  "complaint_and_investigation_steps": {
+    "designated_body": "Sexual Harassment Complaint Committee",
+    "committee_structure": {
+      "members": "Seven members",
+      "gender_representation": "Majority of members are women, head is a woman (if available).",
+      "external_members": "Includes representatives from UGC (University Grants Commission) and an organization working on gender issues."
+    },
+    "procedure": [
+      "Committee receives the complaint.",
+      "Committee conducts a prompt investigation.",
+      "Identities of complainants are kept confidential (to the extent possible).",
+      "Investigation report with recommendation is submitted to the EWU Syndicate."
+    ],
+    "timeline": "Report submission within 30 working days (extendable up to 60 days)."
+  },
+  "punishments_and_sanctions": {
+    "student_penalties_range": [
+      "Warning (written or verbal notice).",
+      "Cancellation of examination and/or an assignment.",
+      "Expulsion for one or more semesters.",
+      "Expulsion from the University (the most severe penalty)."
+    ],
+    "faculty_staff_sanctions": "Disciplinary or remedial action, which may lead to termination of employment.",
+    "record_impact": "Any imposed penalty/punishment on a student will be reflected in their Academic Transcripts/documents.",
+    "false_complaint_consequence": "If a complaint is proven to have been filed intentionally false, appropriate action will be recommended against the complainant."
+  }
+}

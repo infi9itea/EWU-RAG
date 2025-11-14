@@ -1,0 +1,45 @@
+{
+  "university_name": "East West University (EWU)",
+  "center_name": "Career Counseling Center (CCC)",
+  "established_year": 2001,
+  "mission_and_vision": {
+    "mission": "To help establish links between prospective employers and East West University students and graduates, serving as a prime service provider in human resource and career development.",
+    "objectives": [
+      "Prepare students for internship placement.",
+      "Help the career search and job placement process.",
+      "Provide information and guidance for higher study opportunities.",
+      "Foster career development action plans and enhance personal qualities.",
+      "Assist students in reaching their full potential, promoting social and intellectual growth."
+    ]
+  },
+  "core_services_and_programs": {
+    "career_development_and_advisory": [
+      "Career Counseling and Advisory Services for students and graduates.",
+      "Workshops on professional skills (e.g., CV & Cover Letter writing, Corporate Grooming).",
+      "Training sessions and Seminars (e.g., Career Talk sessions, Etiquette, Personal Behavior and Professionalism).",
+      "Providing career tips and development resources.",
+      "Connecting academic majors to career paths."
+    ],
+    "employment_and_networking": [
+      "Arranging On-Campus Recruitments.",
+      "Organizing Job Fairs (e.g., Fall Career Fair, Winter Career Fair).",
+      "Facilitating Internship Placements.",
+      "Maintaining Job Seeker Registration and Graduates' Profile Registration databases (EWU Graduates' Profile).",
+      "Liaison with the Department of Students' Welfare and student welfare clubs."
+    ],
+    "mental_wellbeing_service": {
+      "service_name": "Socio-Psyche Counseling Center",
+      "introduction_year": 2023,
+      "description": "Provides professional psychological counseling services to students to support their mental well-being, manage psychological stress, overcome difficulties in personal and family relationships, and address other social disorders.",
+      "operating_details": {
+        "days": "Sunday to Thursday",
+        "time": "10:00 AM – 4:00 PM",
+        "venue": "Room No: 306"
+      }
+    }
+  },
+  "contact_and_registration": {
+    "website": "https://ccc.ewubd.edu/",
+    "general_email": "ccc@ewubd.edu"
+  }
+}

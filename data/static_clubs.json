@@ -1,0 +1,240 @@
+{
+    "university": "East West University",
+    "department": "Students' Welfare Department",
+    "total_clubs": 22,
+    "source_url": "https://ewubd.edu/clubs",
+    "last_updated": "2025-10-02",
+    "clubs": [
+        {
+            "name": "Agro-Industrialization Club",
+            "url": "https://clubs.ewubd.edu/ewuaic",
+            "description": "Established on April 1, 2011, it is the first initiative among private universities in Bangladesh to represent the industrialization of agro products and uphold the agricultural economy globally.",
+            "mission": "To contribute to society, understand agriculture and its supply chain, develop entrepreneurial and leadership skills, and promote sustainable development.",
+            "flagship_events": [
+                "EWU MarquePrey",
+                "EWU Supply Chain Challenge",
+                "EWU Agro Biz Expo",
+                "EWU Value String Challenge"
+            ]
+        },
+        {
+            "name": "Business Club",
+            "url": "http://clubs.ewubd.edu/ewubc",
+            "description": "The first club of the university, established to promote leadership and entrepreneurship among students.",
+            "notable_events": [
+                "BriefCase 3.0",
+                "InfographiX"
+            ],
+            "milestone": "Celebrated 25th anniversary in November 2024."
+        },
+        {
+            "name": "Creative Marketing Club",
+            "url": "https://clubs.ewubd.edu/ewucmc",
+            "description": "The nation's first-ever marketing club with the motto 'Communicate to Learn'.",
+            "motto": "Communicate to Learn"
+        },
+        {
+            "name": "Computer Programming Club",
+            "url": "https://clubs.ewubd.edu/ewucopc",
+            "description": "Aims to improve computer programming skills and is open to all EWU students regardless of department.",
+            "activities": [
+                "In-house Programming Battle",
+                "Inter-University Gaming Contest",
+                "CSE FEST",
+                "CV Writing & Interview Preparation Workshop"
+            ]
+        },
+        {
+            "name": "Club for Performing Arts",
+            "url": "https://clubs.ewubd.edu/ecpa",
+            "description": "Established on November 14, 2009, it brings together musicians, actors, dancers, and designers to celebrate performing arts.",
+            "mission": "Promoting Bangladeshi Culture and Recognizing Meaningful International Cultures",
+            "slogan": "We Perform With Attitude"
+        },
+        {
+            "name": "Debating Club",
+            "url": "https://clubs.ewubd.edu/ewudc",
+            "description": "Promotes oratory skills, inspires discipline, and builds fraternity among debaters.",
+            "flagship_event": "Inter-Department Debate Championship"
+        },
+        {
+            "name": "Economics Club",
+            "url": "https://clubs.ewubd.edu/ewuecon",
+            "description": "Established in 2015 to provide a platform for students to gain real-life experience and develop academic and professional skills beyond textbooks.",
+            "focus": "Soft skills, leadership, communication through seminars, competitions, and workshops."
+        },
+        {
+            "name": "Electronics Club",
+            "url": "https://clubs.ewubd.edu/ewuec",
+            "description": "One of the oldest and most prestigious clubs, established in 2004.",
+            "motto": "Explore Electronics, Explore Ideas",
+            "events": [
+                "Electronics Fest",
+                "Signature and Significant Events"
+            ]
+        },
+        {
+            "name": "English Conversation Club",
+            "url": "https://clubs.ewubd.edu/ewuecc",
+            "description": "One of the oldest and most dynamic clubs, focused on skill development through literary and communication events.",
+            "events": [
+                "Reviewer's Fest (Intra-University)",
+                "INKSPIRATION (Inter-University Creative Writing)",
+                "National Public Speaking Competition",
+                "Let's Talk Music"
+            ],
+            "workshops": [
+                "Let's Talk Communication",
+                "The Art of Literary Engagement",
+                "Career Quest: Discover. Define. Excel.",
+                "The Art of Public Speaking"
+            ]
+        },
+        {
+            "name": "Environmental & Social Club",
+            "url": "https://clubs.ewubd.edu/ewuesc",
+            "description": "Established on October 14, 1999, with the motto 'SAVE LIFE, SAVE EARTH'.",
+            "motto": "Save Life, Save Earth",
+            "activities": [
+                "Tree Plantation",
+                "Environmental Week",
+                "Blood Donation",
+                "Medical Camps",
+                "Relief Distribution",
+                "Green Riders (Cycling Group)",
+                "Mind Gym (Psycho-Social Counseling)"
+            ],
+            "current_projects": [
+                "Kkhudro Anando",
+                "Gach bondhu",
+                "Natural Nutrition"
+            ]
+        },
+        {
+            "name": "Investment and Finance Club",
+            "url": "http://clubs.ewubd.edu/ewuifc",
+            "description": "Grooms students through corporate visits, workshops, and seminars in investment and finance.",
+            "programs": [
+                "Road 2 Fin",
+                "FINXCEL (Excel-based training and competition)"
+            ]
+        },
+        {
+            "name": "IEEE Student Branch",
+            "url": "https://clubs.ewubd.edu/ieeesb",
+            "description": "Provides networking, scholarships, and tech learning opportunities through IEEE affiliation.",
+            "activities": [
+                "IEEE Day Celebrations",
+                "Blockchain & Web Dev Workshops",
+                "Higher Study Webinars",
+                "Membership Benefit Sessions"
+            ]
+        },
+        {
+            "name": "Model United Nation Club",
+            "url": "https://clubs.ewubd.edu/ewumunc",
+            "description": "Produces diplomatic leaders by simulating UN conferences and fostering negotiation skills.",
+            "events": [
+                "East West University Intra MUN",
+                "Workshop: NegotiOn!",
+                "Seminar on Geopolitical Conflicts"
+            ],
+            "mission": "To harness diplomatic and leadership skills through simulation and discourse."
+        },
+        {
+            "name": "Photography Club",
+            "url": "https://clubs.ewubd.edu/ewupc",
+            "description": "Established in September 2000 to raise awareness about visual storytelling and photography.",
+            "events": [
+                "Intra-University Photo Competitions",
+                "Photo Fest Asia"
+            ]
+        },
+        {
+            "name": "Robotics Club",
+            "url": "https://clubs.ewubd.edu/ewurc",
+            "description": "Introduces students to robotics, IoT, and AI through hands-on learning.",
+            "workshops": [
+                "Kickstart to Robotics",
+                "Robo Soccer & Line Follower",
+                "Machine Learning in Robotics",
+                "Metaverse & SparkAR Creators' Day"
+            ]
+        },
+        {
+            "name": "Rotaract Club",
+            "url": "http://clubs.ewubd.edu/rcewu",
+            "description": "A Rotary-sponsored service club for youth (18–30) focused on community service and leadership.",
+            "initiatives": [
+                "BREATH 5.0 (Tree Plantation)",
+                "Medical Service Programs",
+                "Street Food Distribution",
+                "Volunteer Collaborations"
+            ]
+        },
+        {
+            "name": "Science Club",
+            "url": "https://clubs.ewubd.edu/ewuscc",
+            "description": "Organizes science and math-related events to promote STEM awareness.",
+            "events": [
+                "Intra University Math Olympiad (IUMO)",
+                "IQ Test Competitions",
+                "Science Fest Participation",
+                "Cultural Programs on National Themes"
+            ]
+        },
+        {
+            "name": "Sociology Club",
+            "url": "http://clubs.ewubd.edu/scewu",
+            "description": "Promotes culture, patriotism, and social awareness through academic and community events.",
+            "events": [
+                "Webinar on Language & Identity",
+                "Nobanner Ahwbane (Bengali Festival)",
+                "Seminar on Suicide Prevention",
+                "Reproductive Health Awareness",
+                "Kolorob Mobile App Workshop"
+            ]
+        },
+        {
+            "name": "Sports Club",
+            "url": "https://clubs.ewubd.edu/sportsclub",
+            "description": "One of the largest and most active clubs, promoting physical fitness and team spirit.",
+            "activities": [
+                "EWU Crickers Cup",
+                "Intra-University Badminton Tournament",
+                "EWUSC School of Karate",
+                "Flood Relief Missions",
+                "Iftar Gatherings",
+                "Common Room Upgrades"
+            ]
+        },
+        {
+            "name": "Telecommunication Club",
+            "url": "https://clubs.ewubd.edu/ewutc",
+            "description": "Enhances knowledge in telecom, IoT, data science, and IT career readiness.",
+            "programs": [
+                "CCNA Workshops",
+                "Entrepreneurship Seminars",
+                "CV Writing & Career Sessions",
+                "National Entrepreneurship Summit"
+            ]
+        },
+        {
+            "name": "Cyber Security Club",
+            "url": "https://clubs.ewubd.edu/ewucsc",
+            "description": "Dedicated to fostering cybersecurity awareness and technical proficiency.",
+            "activities": [
+                "Ethical Hacking Workshops",
+                "Capture the Flag (CTF) Competitions",
+                "Seminar: Securing the Digital Frontier",
+                "General Member Orientations"
+            ]
+        },
+        {
+            "name": "EWU Health and Well-Being Club",
+            "url": "http://clubs.ewubd.edu/ehwc",
+            "description": "Promotes physical and mental well-being among students through health awareness initiatives.",
+            "note": "Official description not available in search results; inferred from name and university context."
+        }
+    ]
+}

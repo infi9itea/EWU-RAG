@@ -1,0 +1,586 @@
+{
+  "university": "East West University",
+  "facilities": {
+    "campus_life": {
+      "available": [
+        {
+          "name": "Parking",
+          "description": "Parking facility available for students, faculty, and visitors"
+        },
+        {
+          "name": "Cafeteria",
+          "description": "On-campus cafeterias providing meals and refreshments"
+        },
+        {
+          "name": "Library",
+          "description": "Central library with online archives and physical books",
+          "url": "http://lib.ewubd.edu/"
+        },
+        {
+          "name": "Common Room",
+          "description": "Shared common rooms for student gatherings and relaxation"
+        },
+        {
+          "name": "Career Counseling Center",
+          "description": "Center for career guidance, internships, and job placement"
+        },
+        {
+          "name": "Indoor Games",
+          "description": "Indoor games facilities available for student recreation"
+        },
+        {
+          "name": "Islam Prayer Room",
+          "description": "Dedicated prayer room for Islamic worship"
+        }
+      ],
+      "not_available": [
+        {
+          "name": "Transportation System",
+          "description": "The university does not provide an internal transportation system"
+        }
+      ]
+    },
+    "ics_services": {
+      "description": "Information and Communication Services",
+      "services": [
+        "Data Center Facilities",
+        "Internet Services Available 512 Mbps",
+        "Web Services",
+        "E-mail Services",
+        "Wi-Fi Services",
+        "Domain Controller Services",
+        "Printing Facilities",
+        "Audio Visual Classroom",
+        "Software Development",
+        "Computer Labs Support",
+        "Network and Hardware Support",
+        "Multimedia Support (Classroom, Seminar, Meeting and Workshop)",
+        "IT-Related Support (Students, Faculty and Administrative Staff Members)",
+        "IP Telephony System",
+        "Monitoring Total Server Systems and Networks of EWU 24x7"
+      ]
+    },
+    "research_center": {
+      "name": "East West University Center for Research and Training (EWUCRT)",
+      "facilities": [
+        {
+          "name": "EWUCRT Research Hub",
+          "description": "Fully functioning research facility with 19 state-of-the-art computers, multimedia projector, printer, photocopier and scanner",
+          "software": [
+            "Turnitin",
+            "Endnote",
+            "NVivo",
+            "STELLA",
+            "iThink",
+            "STATA",
+            "AMOS",
+            "SPSS"
+          ],
+          "features": [
+            "19 state-of-the-art computers",
+            "1 multimedia projector",
+            "Printer, photocopier and scanner",
+            "9 research software packages",
+            "SPSS Training available"
+          ]
+        },
+        {
+          "name": "EWUCRT Seminar Room",
+          "location": "4th floor, Block-C (Room No: 560)",
+          "description": "Used to facilitate seminars, meetings, and training"
+        },
+        {
+          "name": "EWUCRT Library",
+          "description": "Small library with research-related books, journals, documents and various data sets",
+          "additional_access": "Access to university library with e-books, journals, and databases at http://lib.ewubd.edu/"
+        }
+      ]
+    },
+    "engineering_labs": {
+      "departments": [
+        "Computer Science and Engineering (CSE)",
+        "Electronics and Communications Engineering (ECE)",
+        "Electrical and Electronic Engineering (EEE)"
+      ],
+      "labs": [
+        {
+          "name": "Electrical Circuits and Machines Lab",
+          "equipment": [
+            "Lab-Volt electro-mechanical training systems",
+            "DC machines",
+            "Transformers",
+            "Induction motors",
+            "Synchronous machines",
+            "Inductor, capacitor, and resistor banks",
+            "Single and three-phase variable AC power sources",
+            "DC power supplies",
+            "Oscilloscopes",
+            "Signal generators",
+            "Various measuring instruments",
+            "High-frequency signal generators",
+            "High-frequency digital storage oscilloscopes",
+            "True RMS (AC+DC) volt and current meters",
+            "LCR meter with computer interface"
+          ]
+        },
+        {
+          "name": "High Voltage/Machine Lab",
+          "equipment": [
+            "Lab-volt electro-mechanical training systems",
+            "DC machines",
+            "Transformers",
+            "Induction motors",
+            "Synchronous machines",
+            "Inductor, capacitor and resistor banks",
+            "Single and three phase variable AC power supplies",
+            "Various measuring instruments"
+          ]
+        },
+        {
+          "name": "Power System Lab",
+          "equipment": [
+            "Advanced Transmission line training system",
+            "Symmetrical & asymmetrical fault demonstrator",
+            "Three phase variac",
+            "AC/DC voltmeters",
+            "AC/DC ammeters",
+            "Dedicated workbenches"
+          ],
+          "experiments": [
+            "Short transmission line",
+            "Medium transmission line",
+            "Long transmission line"
+          ]
+        },
+        {
+          "name": "Electrical Circuit Lab",
+          "equipment": [
+            "Inductors, capacitors and resistor banks",
+            "DC power supplies",
+            "Digital storage oscilloscopes",
+            "High frequency signal generators",
+            "Trainer boards for circuit layout design",
+            "Various measuring instruments",
+            "True RMS (AC+DC) multimeter",
+            "LCR meter with computer interface",
+            "Universal microcontroller programmer"
+          ]
+        },
+        {
+          "name": "Electronics Lab",
+          "description": "Work related to electronics and power electronics courses",
+          "equipment": [
+            "Modern digital storage oscilloscopes",
+            "Analog and digital trainer boards",
+            "Signal generators",
+            "DC power supply",
+            "IC chips (all types)",
+            "Small-signal MOSFETs",
+            "BJTs",
+            "Other semiconductor devices",
+            "Ammeters, voltmeters, digital multimeters, wattmeters"
+          ]
+        },
+        {
+          "name": "Switchgear and Control Systems Lab",
+          "description": "Experiments and project works on switchgear, controls and data acquisition",
+          "equipment": [
+            "5 sets of ADVANTECH data acquisition cards",
+            "Dual-core computers",
+            "Custom-made fault simulation boards",
+            "5 sets of Siemens PLC (S7-1200)",
+            "Input/output modules",
+            "Proprietary computer interface software tools"
+          ]
+        },
+        {
+          "name": "VLSI Lab",
+          "description": "Design and simulation type lab work",
+          "equipment": [
+            "40+ state-of-the-art dual core workstations",
+            "2 servers (MS Windows and Linux platforms)"
+          ],
+          "software": [
+            "ADS (Advanced Design System)",
+            "MAGIC",
+            "HSPICE",
+            "ANSOFT",
+            "MATLAB",
+            "PSPICE",
+            "SILVACO TCAD",
+            "Cadence tools"
+          ],
+          "capabilities": [
+            "EDA tools for design and research",
+            "Simulation of electronic and photonic devices",
+            "Layout design",
+            "Circuit design optimization",
+            "HDL designing for VLSI circuits",
+            "Virtual clean room facility emulation"
+          ]
+        },
+        {
+          "name": "Software Engineering Lab",
+          "equipment": [
+            "1 HP Server",
+            "30 Lenovo desktop computers",
+            "1 multimedia projector",
+            "CISCO switches (networked)"
+          ],
+          "supports": [
+            "Programming",
+            "Database systems",
+            "Information system design",
+            "Software engineering",
+            "Computer networking",
+            "High-performance simulation and modeling"
+          ]
+        },
+        {
+          "name": "Digital Systems Lab",
+          "equipment": [
+            "Digital storage oscilloscopes",
+            "Digital trainer boards",
+            "Micro-controllers",
+            "Interfacing adapters",
+            "Data acquisition cards",
+            "Supporting peripherals",
+            "FPGA design hardware devices"
+          ],
+          "projects": [
+            "Digital logic design",
+            "Computer interfaces",
+            "Embedded systems"
+          ]
+        },
+        {
+          "name": "Telecommunication Lab",
+          "description": "Hands-on experience for training and research in communications",
+          "equipment": [
+            "TIMS-301 basic system",
+            "PC based virtual instruments",
+            "TIMS-Interactices for simulation",
+            "Emona TIMS advanced modules",
+            "Microwave trainers",
+            "DSP trainers",
+            "Cellular mobile trainers",
+            "Analog communication trainers",
+            "Digital communication trainers",
+            "Optical fiber communication trainers"
+          ],
+          "upcoming": [
+            "RF equipment",
+            "Antenna and microwave equipment",
+            "Telecommunication switching and signaling equipment"
+          ]
+        },
+        {
+          "name": "Computer Communications and Networking Lab",
+          "description": "Recently established networking lab",
+          "equipment": [
+            "1 high performance server",
+            "20 work stations",
+            "Switches",
+            "Routers",
+            "Networking kits",
+            "Radio equipment for short distance indoor and outdoor wireless networks",
+            "Point-to-point XDSL/VDSL/HDSL equipment",
+            "Other supporting instruments"
+          ]
+        },
+        {
+          "name": "Physics Lab",
+          "equipment": [
+            "Modern instruments for everyday physics experiments",
+            "Dark room facility for optical experiments"
+          ]
+        }
+      ]
+    },
+    "pharmacy_labs": {
+      "description": "Seven laboratories for students and faculty members",
+      "departments_served": [
+        "Pharmacy",
+        "Engineering (for chemistry courses)"
+      ],
+      "major_equipment": [
+        {
+          "name": "HPLC System",
+          "description": "PC based Automated Binary Gradient High Performance Liquid Chromatography Prominence system",
+          "detectors": [
+            "Refractive Index (RI) detector",
+            "Photodiode Array (PDA) detector"
+          ]
+        },
+        {
+          "name": "FTIR Spectrophotometer",
+          "description": "Shimadzu PC based Fourier Transform Infrared Spectrophotometer (Prestige-21)",
+          "features": [
+            "RI solution software",
+            "Temperature controlled High-sensitivity DLATGS Detector",
+            "Advanced Dynamic Alignment system"
+          ]
+        },
+        {
+          "name": "Gas Chromatography System",
+          "manufacturer": "Shimadzu",
+          "detectors": [
+            "Flame Ionization Detector",
+            "Flame Thermionic Detector",
+            "Electron Capture Detector"
+          ]
+        }
+      ],
+      "other_equipment": [
+        "Thermocycler for PCR",
+        "ELISA",
+        "High Resolution Centrifuge",
+        "Gel Electrophoresis",
+        "Polarimeter",
+        "Refractometer",
+        "Karl Fisher Water Determination Apparatus",
+        "Rotary Evaporator",
+        "Single Punch Tablet Machine",
+        "Capsule Filling machine",
+        "Disintegrator",
+        "Dissolution Apparatus",
+        "UV-Visible Spectrophotometer",
+        "High Resolution Microscopes",
+        "Freeze Dryer",
+        "Filtration Pump",
+        "Incubator",
+        "Carbon Dioxide Incubator",
+        "Fundamental Chromatographic Instruments"
+      ]
+    },
+    "civil_engineering_labs": {
+      "labs": [
+        {
+          "name": "Civil Engineering Drawing Lab",
+          "location": "Second floor, Block-C",
+          "description": "Lab with specially designed state-of-art drawing tables",
+          "features": [
+            "All necessary classroom facilities",
+            "Sufficient number of drawing tables",
+            "Teaches basics of engineering drawing with emphasis on building drawing"
+          ]
+        },
+        {
+          "name": "AutoCAD Laboratory",
+          "location": "Fourth floor, Block-B",
+          "capacity": "35 students simultaneously",
+          "equipment": [
+            "Sufficient number of computers",
+            "Latest licensed version of AutoCAD software",
+            "Classroom facilities"
+          ],
+          "courses": [
+            "AutoCAD sessional course (Level-1, Term-2)",
+            "Building and bridge drawings"
+          ]
+        },
+        {
+          "name": "Surveying Laboratory",
+          "location": "Second floor, Block-D",
+          "equipment": [
+            "Total Station",
+            "Theodolite",
+            "Level",
+            "GPS"
+          ],
+          "surveys_performed": [
+            "Chain Surveying",
+            "Traverse Surveying",
+            "Plane Table Surveying",
+            "Leveling and Contouring",
+            "House Setting",
+            "Curve Setting: Simple and Transition Curves",
+            "Height and Distance Survey",
+            "Route Project",
+            "Introduction and Application of Total Station and GPS"
+          ]
+        },
+        {
+          "name": "Engineering Materials Laboratory",
+          "location": "Second basement",
+          "course": "Level-2 Term-1",
+          "equipment": [
+            "Compression testing machine",
+            "Los Angeles Abrasion testing machine",
+            "Mortar mixer",
+            "Concrete mixer",
+            "Tensile testing machine",
+            "Sieve shaker",
+            "Oven"
+          ],
+          "tests_performed": [
+            "Sampling, Efflorescence, Compressive Strength and Absorption test of Brick",
+            "Initial Setting Time of Cement",
+            "Normal Consistency of Cement",
+            "Compressive Strength of Cement Mortar and Brick Specimens",
+            "Sieve Analysis of Fine and Coarse Aggregate",
+            "Specific Gravity and Absorption Capacity of Fine Aggregate",
+            "Specific Gravity and Absorption Capacity of Coarse Aggregate",
+            "Unit Weight and Voids in Aggregate",
+            "Abrasion and Impact of Coarse Aggregate",
+            "Slump, Air Content of Concrete and Compressive Strength of Cylindrical Concrete Specimens"
+          ]
+        },
+        {
+          "name": "Strength of Materials Laboratory",
+          "location": "Second basement",
+          "course": "Level-2 Term-1",
+          "equipment": [
+            "Universal Testing Machine (UTM)",
+            "Flexure testing machine",
+            "Hardness testing machine",
+            "Impact testing machine",
+            "Torsion testing machine",
+            "Spring testing machine",
+            "Buckling testing machine"
+          ],
+          "tests_performed": [
+            "Tension Test of Metal Specimens",
+            "Compression Test of Timber Block",
+            "Direct Shear Test of Mild Steel and other Metals",
+            "Hardness Test of Metal Specimens",
+            "Impact Test of Metal Specimens",
+            "Torsion Test of Metal Specimens",
+            "Test of Helical Spring",
+            "Static Bending Test of Beam Specimens",
+            "Buckling Test of Column",
+            "Compression Test of Concrete Cylinder"
+          ]
+        },
+        {
+          "name": "Fluid Mechanics Laboratory",
+          "location": "Second basement",
+          "usage": "Undergraduate/postgraduate teaching, research, and engineering consulting",
+          "equipment": [
+            "Hydraulic bench",
+            "Venturimeter",
+            "Bernoulli's theorem apparatus",
+            "Pipe friction apparatus",
+            "V-notch",
+            "Rectangular weir",
+            "Trapezoidal weir",
+            "Center of pressure apparatus",
+            "6 meters tilting flume"
+          ],
+          "tests_performed": [
+            "Determination of the center of pressure on the immersed surface",
+            "Investigation of Bernoulli's theorem",
+            "Determination of flow through venturimeter",
+            "Determination of flow through orifice",
+            "Determination of flow through Mouthpiece",
+            "Determination of flow over sharp crested rectangular weir",
+            "Determination of flow over V-notch",
+            "Determination of fluid friction in pipe"
+          ]
+        },
+        {
+          "name": "Environmental Engineering Laboratory",
+          "location": "Lower basement",
+          "usage": "Undergraduate/postgraduate teaching, research, and engineering consulting",
+          "description": "Well-equipped with modern apparatus and reagents for water quality testing",
+          "parameters_tested": [
+            "pH",
+            "Color",
+            "Turbidity",
+            "Total solids (TS)",
+            "Total dissolved solids (TDS)",
+            "Total suspended solids (TSS)",
+            "Chemical oxygen demand (COD)",
+            "Biochemical oxygen demand (BOD)",
+            "Carbon dioxide",
+            "Alkalinity",
+            "Hardness",
+            "Chloride",
+            "Iron",
+            "Optimum coagulant dose",
+            "Chlorine demand"
+          ],
+          "tests_performed": [
+            "Determination of pH of Water",
+            "Determination of Turbidity of Water",
+            "Determination of Color of Water",
+            "Determination of Total Solids, Total Dissolved Solids and Total Suspended Solids of Water",
+            "Determination of Carbon Dioxide in Water",
+            "Determination of Alkalinity of Water",
+            "Determination of Hardness of Water",
+            "Determination of Chloride of Water",
+            "Determination of Break Point Chlorination",
+            "Determination of Optimum Coagulant Dosage/Alum Coagulation",
+            "Determination of Biochemical Oxygen Demand",
+            "Determination of Chemical Oxygen Demand",
+            "Determination of Total Iron in Water",
+            "Determination of Total and Fecal Coliform in Water"
+          ]
+        },
+        {
+          "name": "Geotechnical Engineering Laboratory",
+          "location": "Lower basement",
+          "course": "3rd year",
+          "description": "To know the physical and mechanical properties of different types of soil",
+          "equipment": [
+            "Unconfined Compression Device",
+            "Direct Shear Apparatus",
+            "Sieve Shaker",
+            "Liquid Limit Device",
+            "Shrinkage Limit Set",
+            "Drying Oven",
+            "Pycnometer",
+            "Thermometer",
+            "Balance",
+            "Stopwatch",
+            "Modified Proctor Hammer with Mold"
+          ],
+          "tests_performed": [
+            "Water Content Determination",
+            "Specific Gravity Determination",
+            "Grain Size Analysis Test (Sieve Analysis)",
+            "Particle Size Analysis Test by Hydrometer",
+            "Atterberg Limit Test",
+            "Compaction Test",
+            "Unconfined Compressive Strength Test",
+            "Direct Shear Test"
+          ]
+        },
+        {
+          "name": "Transportation Engineering Laboratory",
+          "location": "Lower basement",
+          "course": "4th year",
+          "description": "To know and analyze Bitumen & its properties, Aggregate & its properties, conduct CBR Test and Marshall Mix Design",
+          "equipment": [
+            "Marshall Test Apparatus",
+            "CBR Test Apparatus",
+            "Thin Film Oven",
+            "Ductility apparatus",
+            "Flash and Fire point Apparatus",
+            "Softening Point Apparatus",
+            "Solubility Apparatus"
+          ],
+          "tests_performed": [
+            "Determination of Aggregate Impact Value",
+            "Determination of Aggregate Crushing Value",
+            "Determination of the Ten Percent Fines",
+            "Determination of Flakiness Index",
+            "Determination of Elongation Index",
+            "Determination of Angularity Number",
+            "Determination of Roadway Capacity",
+            "Saturation Flow at Traffic Signals",
+            "Specific Gravity of Semi-Solid Bituminous Material",
+            "Loss on Heating of Oil and Asphaltic Compound",
+            "Penetration of Bituminous Material",
+            "Softening Point of Bituminous Material",
+            "Solubility of Bituminous Material",
+            "Ductility of Bituminous Material",
+            "Flash and Fire Points of Bituminous Material",
+            "Standard Test Method for CBR of Laboratory Compacted Soils",
+            "Marshall Method of Mix Design of Paving Mixtures"
+          ]
+        }
+      ]
+    }
+  }
+}

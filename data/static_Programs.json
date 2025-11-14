@@ -1,0 +1,1232 @@
+{
+    "undergraduate_programs": {
+
+        "Bachelor of Science (B.Sc.) in Computer science and Engineering (CSE)": {
+            "Department" : "Department of Computer Science and Engineering",
+            "total_credit_hours": 140,
+            "course_summary_by_category": [
+            {
+                "category": "Compulsory Language and General Education Courses",
+                "credits": 9
+            },
+            {
+                "category": "Elective General Education Courses",
+                "credits": 9
+            },
+            {
+                "category": "Compulsory Basic Science Courses",
+                "credits": 11
+            },
+            {
+                "category": "Compulsory Mathematics and Statistics Courses",
+                "credits": 15
+            },
+            {
+                "category": "Core Computer Science and Engineering Courses",
+                "credits": 62
+            },
+            {
+                "category": "Core Capstone Project",
+                "credits": 6
+            },
+            {
+                "category": "Major Compulsory and Elective Computer Science and Engineering Courses",
+                "credits": 20
+            },
+            {
+                "category": "Non-major Elective Computer Science and Engineering Courses",
+                "credits": 8
+            }
+            ],
+            "course_details": {
+            "Compulsory Language and General Education Courses": [
+                {"course": "ENG101 Basic English", "credits": 3, "prerequisite": "None"},
+                {"course": "ENG 102 Composition and Communication Skills", "credits": 3, "prerequisite": "ENG101"},
+                {"course": "GEN226 Emergence of Bangladesh", "credits": 3, "prerequisite": "ENG102"}
+            ],
+            "Elective General Education Courses": {
+                "Social Science Courses (any one course)": [
+                {"course": "ECO101 Principle of Microeconomics", "credits": 3, "prerequisite": "None"},
+                {"course": "GEN203 Ecological System and Environment", "credits": 3, "prerequisite": "None"},
+                {"course": "GEN214 Development Studies", "credits": 3, "prerequisite": "ENG102"},
+                {"course": "SOC317 Sociology of Science and Technology", "credits": 3, "prerequisite": "None"}
+                ],
+                "Arts and Humanities Courses (any one course)": [
+                {"course": "GEN201 Bangladesh Studies", "credits": 3, "prerequisite": "ENG102"},
+                {"course": "GEN204 Western Thought", "credits": 3, "prerequisite": "None"},
+                {"course": "GEN210 International Relation", "credits": 3, "prerequisite": "ENG102"},
+                {"course": "SOC211 Eastern Culture and Heritage", "credits": 3, "prerequisite": "None"},
+                {"course": "SOC217 Religion, Ethnicity, Culture and Development in South Asia", "credits": 3, "prerequisite": "ENG102"}
+                ],
+                "Business Courses (any one course)": [
+                {"course": "ACT101 Financial Accounting", "credits": 3, "prerequisite": "None"},
+                {"course": "BUS321 Business for Engineering and Technology", "credits": 3, "prerequisite": "ENG102"},
+                {"course": "BUS231 Business Communication", "credits": 3, "prerequisite": "ENG102"},
+                {"course": "MGT321 Industrial Management", "credits": 3, "prerequisite": "ENG102"},
+                {"course": "MGT337 Production Operations Management", "credits": 3, "prerequisite": "STA102"},
+                {"course": "FIN101 Principle of Finance", "credits": 3, "prerequisite": "STA102"},
+                {"course": "MKT101 Principle of Marketing", "credits": 3, "prerequisite": "None"}
+                ]
+            },
+            "Compulsory Natural Science Courses": [
+                {"course": "PHY109 Engineering Physics-I (Introductory Classical Physics)", "credits": 4, "prerequisite": "MAT102"},
+                {"course": "PHY209 Engineering Physics-II (Introductory Quantum Physics)", "credits": 3, "prerequisite": "MAT205"},
+                {"course": "CHE109 Engineering Chemistry", "credits": 4, "prerequisite": "None"}
+            ],
+            "Compulsory Mathematics and Statistics Courses": [
+                {"course": "MAT101 Differential and Integral Calculus", "credits": 3, "prerequisite": "None"},
+                {"course": "MAT102 Differential Equations and Special Functions", "credits": 3, "prerequisite": "MAT101"},
+                {"course": "MAT104 Coordinate Geometry and Vector Analysis", "credits": 3, "prerequisite": "MAT101"},
+                {"course": "MAT205 Linear Algebra and Complex Variable", "credits": 3, "prerequisite": "MAT102"},
+                {"course": "STA102 Statistics and Probability", "credits": 3, "prerequisite": "None"}
+            ],
+            "Core Computer Science and Engineering Courses": [
+                {"course": "CSE103 Structured Programming", "credits": 4.5, "prerequisite": "None"},
+                {"course": "CSE106 Discrete Mathematics", "credits": 3, "prerequisite": "CSE103"},
+                {"course": "CSE110 Object Oriented Programming", "credits": 4.5, "prerequisite": "CSE106"},
+                {"course": "CSE200 Computer-Aided Engineering Drawing", "credits": 1, "prerequisite": "None"},
+                {"course": "CSE209 Electrical Circuits", "credits": 4, "prerequisite": "None"},
+                {"course": "CSE207 Data Structures", "credits": 4, "prerequisite": "CSE110"},
+                {"course": "CSE251 Electronic Circuits", "credits": 4, "prerequisite": "CSE209"},
+                {"course": "CSE246 Algorithms", "credits": 4.5, "prerequisite": "CSE207"},
+                {"course": "CSE302 Database Systems", "credits": 4.5, "prerequisite": "CSE106"},
+                {"course": "CSE325 Operating Systems", "credits": 4, "prerequisite": "CSE207"},
+                {"course": "CSE345 Digital Logic Design", "credits": 4, "prerequisite": "CSE251"},
+                {"course": "CSE347 Information System Analysis and Design", "credits": 4, "prerequisite": "CSE302"},
+                {"course": "CSE360 Computer Architecture", "credits": 3, "prerequisite": "CSE325"},
+                {"course": "CSE405 Computer Networks", "credits": 4, "prerequisite": "CSE246"},
+                {"course": "CSE407 Green Computing", "credits": 3, "prerequisite": "CSE405"},
+                {"course": "CSE487 Cyber Security, Ethics and Law", "credits": 3, "prerequisite": "CSE405"},
+                {"course": "CSE495 IT Project Management and Entrepreneurship", "credits": 3, "prerequisite": "CSE347"}
+            ],
+            "Core Capstone Project": [
+                {"course": "CSE400 Capstone Project", "credits": 6, "prerequisite": "Completed at least 105 credit hours"}
+            ]
+            },
+            "major_areas": [
+            {
+                "name": "Intelligent Systems and Data Science",
+                "total_credits": 20,
+                "compulsory_courses": [
+                {"course": "CSE303 Statistics for Data Science", "credits": 4, "prerequisite": "STA102"},
+                {"course": "CSE366 Artificial Intelligence", "credits": 4, "prerequisite": "CSE246"}
+                ],
+                "elective_courses_any_3": [
+                {"course": "CSE420 Computer Graphics", "credits": 4, "prerequisite": "CSE246"},
+                {"course": "CSE438 Digital Image Processing", "credits": 4, "prerequisite": "CSE246"},
+                {"course": "CSE445 Computer Vision", "credits": 4, "prerequisite": "CSE246"},
+                {"course": "CSE452 Distributed Systems and Algorithms", "credits": 4, "prerequisite": "CSE325"},
+                {"course": "CSE474 Pattern Recognition", "credits": 4, "prerequisite": "CSE366"},
+                {"course": "CSE475 Machine Learning", "credits": 4, "prerequisite": "CSE366"},
+                {"course": "CSE477 Data Mining", "credits": 4, "prerequisite": "CSE366"},
+                {"course": "CSE481 Nature-Inspired Computing", "credits": 4, "prerequisite": "CSE246"},
+                {"course": "CSE486 Bioinformatics Algorithms", "credits": 4, "prerequisite": "CSE246"},
+                {"course": "CSE488 Big Data Analytics", "credits": 4, "prerequisite": "CSE302"}
+                ]
+            },
+            {
+                "name": "Software Engineering",
+                "total_credits": 20,
+                "compulsory_courses": [
+                {"course": "CSE412 Software Engineering", "credits": 4, "prerequisite": "CSE347"},
+                {"course": "CSE430 Software Testing and Quality Assurance", "credits": 4, "prerequisite": "CSE412"}
+                ],
+                "elective_courses_any_3": [
+                {"course": "CSE422 Simulation and Modeling", "credits": 4, "prerequisite": "CSE246"},
+                {"course": "CSE423 Software Architecture", "credits": 4, "prerequisite": "CSE412"},
+                {"course": "CSE428 Human Computer Interactions", "credits": 4, "prerequisite": "CSE412"},
+                {"course": "CSE452 Distributed Systems and Algorithms", "credits": 4, "prerequisite": "CSE325"},
+                {"course": "CSE464 Advanced Database System", "credits": 4, "prerequisite": "CSE302"},
+                {"course": "CSE479 Web Programming", "credits": 4, "prerequisite": "CSE302"},
+                {"course": "CSE489 Mobile Programming", "credits": 4, "prerequisite": "CSE246"}
+                ]
+            },
+            {
+                "name": "Communications and Networking",
+                "total_credits": 20,
+                "compulsory_courses": [
+                {"course": "CSE350 Data Communications", "credits": 4, "prerequisite": "CSE251"},
+                {"course": "CSE432 Digital Signal Processing", "credits": 4, "prerequisite": "CSE246"}
+                ],
+                "elective_courses_any_3": [
+                {"course": "CSE452 Distributed Systems and Algorithms", "credits": 4, "prerequisite": "CSE325"},
+                {"course": "CSE453 Wireless Networks", "credits": 4, "prerequisite": "CSE405"},
+                {"course": "CSE457 Cellular Networks", "credits": 4, "prerequisite": "CSE405"},
+                {"course": "CSE472 Advanced Network Services and Management", "credits": 4, "prerequisite": "CSE405"},
+                {"course": "CSE473 Network Security and Systems", "credits": 4, "prerequisite": "CSE405"},
+                {"course": "CSE489 Mobile Programming", "credits": 4, "prerequisite": "CSE246"}
+                ]
+            },
+            {
+                "name": "Hardware Engineering",
+                "total_credits": 20,
+                "compulsory_courses": [
+                {"course": "CSE355 Digital System Design", "credits": 4, "prerequisite": "CSE345"},
+                {"course": "CSE442 Microprocessors and Microcontrollers", "credits": 4, "prerequisite": "CSE360"}
+                ],
+                "elective_courses_any_3": [
+                {"course": "CSE406 Internet of Things", "credits": 4, "prerequisite": "CSE405"},
+                {"course": "CSE446 ASIC Design Using FPGA", "credits": 4, "prerequisite": "CSE345"},
+                {"course": "CSE491 VLSI Design", "credits": 4, "prerequisite": "CSE345"},
+                {"course": "CSE492 Robotics", "credits": 4, "prerequisite": "CSE366"},
+                {"course": "CSE494 Embedded Systems", "credits": 4, "prerequisite": "CSE442"}
+                ]
+            }
+            ],
+            "non_major_elective_computational_theory": {
+            "credits_needed": 8,
+            "courses": [
+                {"course": "CSE225 Numerical Methods", "credits": 4, "prerequisite": "CSE103"},
+                {"course": "CSE313 Theory of Computations", "credits": 3, "prerequisite": "CSE246"},
+                {"course": "CSE460 Cryptography", "credits": 3, "prerequisite": "CSE246"},
+                {"course": "CSE471 Compiler Design", "credits": 4, "prerequisite": "CSE246"},
+                {"course": "CSE483 Graph Theory", "credits": 3, "prerequisite": "CSE246"},
+                {"course": "CSE484 Computational Geometry", "credits": 3, "prerequisite": "CSE246"}
+            ]
+            }
+        },
+
+        "Bachelor of Science (B.Sc.) in Electrical and Electronic Engineering (EEE)" : {
+        "Department" : "Department of Electrical and Electronic Engineering",
+        "total_credits": 140,
+        "course_summary_by_category": {
+          "requirements": [
+            {"category": "General Education Requirement", "credits": 21},
+            {"category": "Core Requirement", "credits": 93},
+            {"category": "Elective Requirement", "credits": 20},
+            {"category": "Final Year Design Project Requirement", "credits": 6}
+          ]
+        },
+        "course_details": {
+          "General Education Requirement (21 credits)": {
+            "Compulsory General Education Courses (12 credits)": [
+              {"course": "ENG 101 Basic English", "credits": 3},
+              {"course": "ENG 102 Composition and Communication Skills", "credits": 3},
+              {"course": "GEN 226 Emergence of Bangladesh", "credits": 3},
+              {"course": "EEE 399 Engineering Project Management", "credits": 3}
+            ],
+            "Optional General Education Courses (6 credits)": "Choose any two approved General Education courses (3 credits each).",
+            "Optional Course from non-Engineering Subjects (3 credits)": "Choose one course (3 credits)."
+          },
+          "Core Course (93 credits)": [
+            {"course": "EEE 101 Electrical Circuits I", "credits": 4},
+            {"course": "EEE 102 Electronic Circuits I", "credits": 4},
+            {"course": "EEE 105 Computer Programming", "credits": 4},
+            {"course": "EEE 201 Electrical Circuits II", "credits": 4},
+            {"course": "EEE 202 Electronic Circuits II", "credits": 4},
+            {"course": "EEE 204 Numerical Analysis for Electrical Engineering", "credits": 4},
+            {"course": "EEE 205 Digital Logic Design", "credits": 4},
+            {"course": "EEE 300 Electrical Services Design", "credits": 3},
+            {"course": "EEE 301 Electrical Machines", "credits": 4},
+            {"course": "EEE 303 Signals and Linear Systems", "credits": 3},
+            {"course": "EEE 304 Electrical Power Systems", "credits": 4},
+            {"course": "EEE 305 Electromagnetic Fields and Waves", "credits": 3},
+            {"course": "EEE 306 Fundamentals of Embedded Systems", "credits": 4},
+            {"course": "EEE 307 Telecommunication Engineering", "credits": 4},
+            {"course": "EEE 308 Electronic Properties of Materials", "credits": 3},
+            {"course": "EEE 309 Digital Signal Processing", "credits": 4},
+            {"course": "EEE 402 Control Systems", "credits": 4},
+            {"course": "EEE 403 Engineer and Society", "credits": 3},
+            {"course": "CHE 101 Introduction to Chemistry", "credits": 4},
+            {"course": "MAT 101 Differential and Integral Calculus", "credits": 3},
+            {"course": "MAT 102 Differential Equations and Special Functions", "credits": 3},
+            {"course": "MAT 104 Co-ordinate Geometry and Vector Analysis", "credits": 3},
+            {"course": "MAT 205 Linear Algebra and Complex Variables", "credits": 3},
+            {"course": "PHY 109 Engineering Physics – I (Introductory Classical Physics)", "credits": 4},
+            {"course": "PHY 209 Engineering Physics – II (Introductory Quantum Physics)", "credits": 3},
+            {"course": "STA 102 Statistics and Probability", "credits": 3}
+          ],
+          "Elective Courses (20 credits)": {
+            "requirement_note": "Students must choose any six elective courses (ELTV1-ELTV6) totaling at least 20 credits. If EEE490 (Research Project) is taken, the remaining 14 credits must be completed from four elective courses.",
+            "groups": [
+              {
+                "group": "GROUP A (Electronics)",
+                "courses": [
+                  {"course": "EEE 413 Fundamentals of Nanotechnology", "credits": 3},
+                  {"course": "EEE 414 Optoelectronics", "credits": 3},
+                  {"course": "EEE 415 Semiconductor Processing and Fabrication", "credits": 4},
+                  {"course": "EEE 416 VLSI Circuits and Systems", "credits": 4},
+                  {"course": "EEE 417 Semiconductor Devices", "credits": 3},
+                  {"course": "EEE 418 Analog Integrated Circuits", "credits": 4},
+                  {"course": "EEE 419 Biomedical Electronics", "credits": 3}
+                ]
+              },
+              {
+                "group": "GROUP B (Communication Engineering and Signal Processing)",
+                "courses": [
+                  {"course": "EEE 421 RF and Microwave Engineering", "credits": 4},
+                  {"course": "EEE 422 Digital Communications", "credits": 4},
+                  {"course": "EEE 423 Wireless and Mobile Communications", "credits": 4},
+                  {"course": "EEE 425 Digital Image Processing", "credits": 3},
+                  {"course": "EEE 426 Advanced Telecommunication Engineering", "credits": 3}
+                ]
+              },
+              {
+                "group": "GROUP C (Computer Engineering)",
+                "courses": [
+                  {"course": "EEE 433 Computer Networks", "credits": 4},
+                  {"course": "EEE 434 Computer Architecture", "credits": 4},
+                  {"course": "EEE 435 Embedded Systems", "credits": 4},
+                  {"course": "EEE 436 Introduction to Machine Learning", "credits": 3}
+                ]
+              },
+              {
+                "group": "GROUP D (Power Engineering)",
+                "courses": [
+                  {"course": "EEE 441 Power Stations", "credits": 3},
+                  {"course": "EEE 442 Switchgear and Protective Relays", "credits": 4},
+                  {"course": "EEE 444 High Voltage Engineering", "credits": 3},
+                  {"course": "EEE 445 Renewable Energy", "credits": 3},
+                  {"course": "EEE 446 Power System Operation and Reliability", "credits": 3},
+                  {"course": "EEE 447 Power Electronics", "credits": 4}
+                ]
+              },
+              {
+                "group": "Special Elective Courses",
+                "courses": [
+                  {"course": "EEE 450 Special Topic in Electrical and Electronic Engineering", "credits": 3},
+                  {"course": "EEE 490 Research Project", "credits": 6}
+                ]
+              }
+            ]
+          },
+          "Final Year Design Project (6 credits)": [
+            {"course": "EEE 400A Final Year Design Project (part 1 of 3)", "credits": 1},
+            {"course": "EEE 400B Final Year Design Project (part 2 of 3)", "credits": 2},
+            {"course": "EEE 400C Final Year Design Project (part 3 of 3)", "credits": 3}
+          ]
+        }
+      },
+
+      "Bachelor of Science (B.Sc.) in Genetic Engineering and Biotechnology (GEB)":{
+        "Department" : "Department of Genetic Engineering and Biotechnology",
+        "total_credits": 140
+      },
+
+      "Bachelor of pharmacy(B. Pharm.)":{
+        "Department" : "Department of Pharmacy",
+        "total_credits": 158
+      },
+
+      "Bachelor of Science(B.Sc.) in Civil Engineering": {
+        "Department" : "Department of Civil Engineering",
+        "total_credits": 145,
+        "curriculum_summary": {
+          "categories": [
+            {"category": "General Education Courses", "credits": 48},
+            {"category": "Core Civil Engineering Courses", "credits": 83},
+            {"category": "Elective Civil Engineering Courses", "credits": 8},
+            {"category": "Final Year Project", "credits": 6}
+          ]
+        },
+        "course_details": {
+          "General Education Courses": {
+            "total_credits": 48,
+            "sub_categories": [
+              {
+                "category": "I. Compulsory Language and Humanities Courses [Three Courses]",
+                "credits": 9,
+                "courses": [
+                  {"course_title": "Basic English", "course_code": "ENG7101", "credits": 3, "prerequisite": "ENG7099 if needed"},
+                  {"course_title": "Composition and Communication Skills", "course_code": "ENG7102", "credits": 3, "prerequisite": "ENG7101"},
+                  {"course_title": "Emergence of Bangladesh", "course_code": "GEN7226", "credits": 3, "prerequisite": "ENG7102"}
+                ]
+              },
+              {
+                "category": "II. Open Humanities Courses [Any Two courses]",
+                "credits": 6,
+                "courses": [
+                  {"course_title": "Bangladesh Studies", "course_code": "GEN7201", "credits": 3, "prerequisite": "ENG7102"},
+                  {"course_title": "Introduction to Psychology", "course_code": "GEN7205", "credits": 3, "prerequisite": "ENG7102"},
+                  {"course_title": "Industrial Psychology", "course_code": "GEN7207", "credits": 3, "prerequisite": "ENG7102"},
+                  {"course_title": "Professional Ethics", "course_code": "GEN7239", "credits": 3, "prerequisite": "ENG7102"},
+                  {"course_title": "Introduction to Sociology", "course_code": "SOC7101", "credits": 3, "prerequisite": "None"},
+                  {"course_title": "Any other SOC/GEN course approved by the university", "course_code": "SOCxxxx/GENxxxx", "credits": 3, "prerequisite": "None"}
+                ]
+              },
+              {
+                "category": "III. Business, Entrepreneurship, and Economics Courses [Any Two Courses]",
+                "credits": 6,
+                "courses": [
+                  {"course_title": "Financial Accounting", "course_code": "ACT7101", "credits": 3, "prerequisite": "None"},
+                  {"course_title": "Principles of Management", "course_code": "MGT7101", "credits": 3, "prerequisite": "ENG7101"},
+                  {"course_title": "Principles of Marketing", "course_code": "MKT7101", "credits": 3, "prerequisite": "None"},
+                  {"course_title": "Principles of Microeconomics", "course_code": "ECO7101", "credits": 3, "prerequisite": "None"},
+                  {"course_title": "Basic Entrepreneurship", "course_code": "EDC7101", "credits": 3, "prerequisite": "None"}
+                ]
+              },
+              {
+                "category": "IV. Basic Science Courses [Two Courses]",
+                "credits": 8,
+                "courses": [
+                  {"course_title": "Engineering Physics", "course_code": "PHY7107", "credits": 4, "prerequisite": "None"},
+                  {"course_title": "Engineering Chemistry", "course_code": "CHE7107", "credits": 4, "prerequisite": "None"}
+                ]
+              },
+              {
+                "category": "V. Mathematics Courses [Four Courses]",
+                "credits": 12,
+                "courses": [
+                  {"course_title": "Differential and Integral Calculus", "course_code": "MAT7101", "credits": 3, "prerequisite": "None"},
+                  {"course_title": "Differential Equations and Special Functions", "course_code": "MAT7102", "credits": 3, "prerequisite": "MAT7101"},
+                  {"course_title": "Coordinate Geometry and Vector Analysis", "course_code": "MAT7104", "credits": 3, "prerequisite": "MAT7101"},
+                  {"course_title": "Statistics and Probability", "course_code": "STA7102", "credits": 3, "prerequisite": "None"}
+                ]
+              },
+              {
+                "category": "VI. Allied Engineering Courses [Two Courses]",
+                "credits": 7,
+                "courses": [
+                  {"course_title": "Numerical Methods and Computer Programming in Civil Engineering", "course_code": "CE7227", "credits": 4, "prerequisite": "None"},
+                  {"course_title": "Basic Electrical Technology", "course_code": "EEE7165", "credits": 3, "prerequisite": "None"}
+                ]
+              }
+            ]
+          },
+          "Core Civil Engineering Courses": {
+            "total_credits": 83,
+            "sub_categories": [
+              {
+                "category": "I. Basic Civil Engineering [Eleven Courses]",
+                "credits": 29,
+                "courses": [
+                  {"course_title": "Civil Engineering Drawing", "course_code": "CE7100", "credits": 1},
+                  {"course_title": "Analytic Mechanics", "course_code": "CE7101", "credits": 3},
+                  {"course_title": "Computer Aided Drafting", "course_code": "CE7102", "credits": 1},
+                  {"course_title": "Surveying and Introduction to GIS", "course_code": "CE7103", "credits": 4},
+                  {"course_title": "Details of Construction", "course_code": "CE7200", "credits": 1},
+                  {"course_title": "Engineering Materials", "course_code": "CE7201", "credits": 4},
+                  {"course_title": "Engineering Geology and Geomorphology", "course_code": "CE7203", "credits": 3},
+                  {"course_title": "Quantity Surveying and Cost Analysis", "course_code": "CE7208", "credits": 1},
+                  {"course_title": "Mechanics of Solids-I", "course_code": "CE7211", "credits": 4, "prerequisite": "CE7101"},
+                  {"course_title": "Mechanics of Solids-II", "course_code": "CE7213", "credits": 3, "prerequisite": "CE7211"},
+                  {"course_title": "Fluid Mechanics", "course_code": "CE7261", "credits": 4}
+                ]
+              },
+              {
+                "category": "II. Structural Engineering [Seven Courses]",
+                "credits": 18,
+                "courses": [
+                  {"course_title": "Structural Analysis -I", "course_code": "CE7311", "credits": 3, "prerequisite": "CE7213"},
+                  {"course_title": "Design of Concrete Structures-I", "course_code": "CE7315", "credits": 4, "prerequisite": "CE7311"},
+                  {"course_title": "Design of Concrete Structures-II", "course_code": "CE7417", "credits": 2, "prerequisite": "CE7315"},
+                  {"course_title": "Design of Steel Structures", "course_code": "CE7319", "credits": 4, "prerequisite": "CE7311"},
+                  {"course_title": "Concrete Structures Design Sessional", "course_code": "CE7410", "credits": 1, "prerequisite": "CE7315"},
+                  {"course_title": "Structural Analysis -II", "course_code": "CE7411", "credits": 3, "prerequisite": "CE7311"},
+                  {"course_title": "Computer Aided Analysis and Design of Structures Sessional", "course_code": "CE7412", "credits": 1, "prerequisite": "CE7315, CE7319"}
+                ]
+              },
+              {
+                "category": "III. Environmental Engineering [Two Courses]",
+                "credits": 7,
+                "courses": [
+                  {"course_title": "Environmental Engineering-I", "course_code": "CE7331", "credits": 4},
+                  {"course_title": "Environmental Engineering-II", "course_code": "CE7431", "credits": 3, "prerequisite": "CE7331"}
+                ]
+              },
+              {
+                "category": "IV. Geotechnical Engineering [Two Courses]",
+                "credits": 7,
+                "courses": [
+                  {"course_title": "Geotechnical Engineering-I", "course_code": "CE7341", "credits": 4, "prerequisite": "CE7203, CE7213"},
+                  {"course_title": "Geotechnical Engineering-II", "course_code": "CE7441", "credits": 3, "prerequisite": "CE7341"}
+                ]
+              },
+              {
+                "category": "V. Transportation Engineering [Two Courses]",
+                "credits": 7,
+                "courses": [
+                  {"course_title": "Transportation Engineering-I", "course_code": "CE7351", "credits": 3},
+                  {"course_title": "Transportation Engineering-II", "course_code": "CE7451", "credits": 4, "prerequisite": "CE7351"}
+                ]
+              },
+              {
+                "category": "VI. Water Resources Engineering [Two Courses]",
+                "credits": 7,
+                "courses": [
+                  {"course_title": "Water Resources Engineering-I", "course_code": "CE7361", "credits": 4, "prerequisite": "CE7261"},
+                  {"course_title": "Water Resources Engineering-II", "course_code": "CE7461", "credits": 3, "prerequisite": "CE7361"}
+                ]
+              },
+              {
+                "category": "VII. Civil Engineering Practice [Three Courses]",
+                "credits": 8,
+                "courses": [
+                  {"course_title": "Professional Practices and Communication", "course_code": "CE7301", "credits": 3},
+                  {"course_title": "Sustainability and Impact Assessment of Development Projects", "course_code": "CE7305", "credits": 2},
+                  {"course_title": "Project Planning and Construction Management", "course_code": "CE7401", "credits": 3}
+                ]
+              }
+            ]
+          },
+          "Elective Civil Engineering Courses": {
+            "total_credits": 8,
+            "selection_rule": "Select any two from the following five groups (A to E) and complete any two courses (2+2 = 4 Cr.) from each of the selected groups.",
+            "groups": [
+              {
+                "group": "Group A: Structural Engineering",
+                "courses": [
+                  {"course_title": "Introduction to Steel-Concrete Composite Structures", "course_code": "CE7413", "credits": 2, "prerequisite": "all CE7300 level courses"},
+                  {"course_title": "Prestressed Concrete", "course_code": "CE7415", "credits": 2, "prerequisite": "all CE7300 level courses"},
+                  {"course_title": "Introduction to Finite Element Method", "course_code": "CE7419", "credits": 2, "prerequisite": "all CE7300 level courses"},
+                  {"course_title": "Dynamics of Structures", "course_code": "CE7421", "credits": 2, "prerequisite": "all CE7300 level courses"},
+                  {"course_title": "Design of Concrete Structures-III", "course_code": "CE7423", "credits": 2, "prerequisite": "all CE7300 level courses"},
+                  {"course_title": "Data Analytics for Civil Infrastructures", "course_code": "CE7425", "credits": 2, "prerequisite": "all CE7300 level courses"}
+                ]
+              },
+              {
+                "group": "Group B: Environmental Engineering",
+                "courses": [
+                  {"course_title": "Solid and Hazardous Waste Management", "course_code": "CE7433", "credits": 2, "prerequisite": "all CE7300 level courses"},
+                  {"course_title": "Environmental Pollution Management", "course_code": "CE7435", "credits": 2, "prerequisite": "all CE7300 level courses"},
+                  {"course_title": "Environmental and Sustainable Management", "course_code": "CE7437", "credits": 2, "prerequisite": "all CE7300 level courses"}
+                ]
+              },
+              {
+                "group": "Group C: Geotechnical Engineering",
+                "courses": [
+                  {"course_title": "Earth Retaining Structures", "course_code": "CE7443", "credits": 2, "prerequisite": "all CE7300 level courses"},
+                  {"course_title": "Elementary Soil Dynamics", "course_code": "CE7445", "credits": 2, "prerequisite": "all CE7300 level courses"},
+                  {"course_title": "Soil-Water Interaction", "course_code": "CE7447", "credits": 2, "prerequisite": "all CE7300 level courses"}
+                ]
+              },
+              {
+                "group": "Group D: Transportation Engineering",
+                "courses": [
+                  {"course_title": "Traffic Engineering Design and Management", "course_code": "CE7455", "credits": 2, "prerequisite": "all CE7300 level courses"},
+                  {"course_title": "Pavement Management, Drainage and Airport", "course_code": "CE7457", "credits": 2, "prerequisite": "all CE7300 level courses"},
+                  {"course_title": "Urban Transportation Planning and Management", "course_code": "CE7459", "credits": 2, "prerequisite": "all CE7300 level courses"}
+                ]
+              },
+              {
+                "group": "Group E: Water Resources Engineering",
+                "courses": [
+                  {"course_title": "Flood Mitigation and Management", "course_code": "CE7465", "credits": 2, "prerequisite": "all CE7300 level courses"},
+                  {"course_title": "Groundwater Engineering", "course_code": "CE7467", "credits": 2, "prerequisite": "all CE7300 level courses"},
+                  {"course_title": "River Engineering", "course_code": "CE7469", "credits": 2, "prerequisite": "all CE7300 level courses"},
+                  {"course_title": "Hydraulic Structures", "course_code": "CE7471", "credits": 2, "prerequisite": "all CE7300 level courses"},
+                  {"course_title": "Coastal Engineering", "course_code": "CE7473", "credits": 2, "prerequisite": "all CE7300 level courses"}
+                ]
+              }
+            ]
+          },
+          "Final Year Project": {
+            "total_credits": 6,
+            "courses": [
+              {"course_title": "Capstone Project", "course_code": "CE7400", "credits": 6, "prerequisite": "102 Cr. and all CE7300 level courses"}
+            ]
+          }
+        }
+      },
+
+      "Bachelor of Science in Mathematics": {
+        "Department" : "Department of Mathematical and Physical Sciences",
+        "total_credits": 130,
+        "curriculum_summary": {
+          "categories": [
+            {"category": "Language & General Education Requirements", "credits": 21},
+            {"category": "Physics and Statistics Courses", "credits": 14},
+            {"category": "Mathematics Core Courses", "credits": 81},
+            {"category": "Mathematics Elective Courses", "credits": 12}
+          ]
+        },
+        "course_details": {
+          "Language & General Education Requirements": {
+            "total_credits": 21,
+            "Compulsory General Education Courses": {
+              "total_credits": 9,
+              "courses": [
+                {"course_code": "ENG 101", "course_title": "Basic English", "credits": 3},
+                {"course_code": "ENG 102", "course_title": "Composition & Communication Skills", "credits": 3},
+                {"course_code": "GEN 201", "course_title": "Bangladesh Studies", "credits": 3}
+              ]
+            },
+            "Optional General Education Courses": {
+              "total_credits": 6,
+              "rule": "Choose any TWO courses (OGEC 001 and OGEC 002)",
+              "options": [
+                {"course_code": "GEN 202", "course_title": "Eastern Culture & Heritage", "credits": 3},
+                {"course_code": "GEN 203", "course_title": "Ecological System & Environment", "credits": 3},
+                {"course_code": "GEN 204", "course_title": "Western Thought", "credits": 3},
+                {"course_code": "GEN 205", "course_title": "Introduction to Psychology", "credits": 3},
+                {"course_code": "GEN 206", "course_title": "Introduction to Sociology", "credits": 3},
+                {"course_code": "GEN 207", "course_title": "Industrial Psychology", "credits": 3},
+                {"course_code": "GEN 208", "course_title": "Introduction to Philosophy", "credits": 3},
+                {"course_code": "GEN 210", "course_title": "International Relations", "credits": 3},
+                {"course_code": "GEN 211", "course_title": "Concepts of Journalism & Media Studies", "credits": 3},
+                {"course_code": "GEN 239", "course_title": "Professional Ethics", "credits": 3},
+                {"course_code": "GEN 2XX", "course_title": "Any other GEN course approved by the University", "credits": 3}
+              ]
+            },
+            "Optional Courses from Business and Economics": {
+              "total_credits": 6,
+              "rule": "Choose any TWO courses (OBE 001 and OBE 002)",
+              "options": [
+                {"course_code": "BUS 101", "course_title": "Introduction to Business", "credits": 3},
+                {"course_code": "ACT 101", "course_title": "Financial Accounting", "credits": 3},
+                {"course_code": "ECO 101", "course_title": "Principles of Microeconomics", "credits": 3},
+                {"course_code": "ECO 102", "course_title": "Introduction to Macroeconomics", "credits": 3},
+                {"course_code": "FIN 101", "course_title": "Principles of Finance", "credits": 3},
+                {"course_code": "MGT 101", "course_title": "Principles of Management", "credits": 3},
+                {"course_code": "MKT 101", "course_title": "Principles of Marketing", "credits": 3}
+              ]
+            }
+          },
+          "Physics and Statistics Courses": {
+            "total_credits": 14,
+            "courses": [
+              {"course_code": "PHY 112", "course_title": "Physics I", "credits": 4},
+              {"course_code": "PHY 212", "course_title": "Physics II", "credits": 3},
+              {"course_code": "STA 104", "course_title": "Elements of Statistics & Probability", "credits": 3},
+              {"course_code": "STA 204", "course_title": "Advanced Statistics", "credits": 4}
+            ]
+          },
+          "Mathematics Core Courses": {
+            "total_credits": 81,
+            "courses": [
+              {"course_code": "MAT 111", "course_title": "Fundamentals of Mathematics", "credits": 3},
+              {"course_code": "MAT 112", "course_title": "Calculus I", "credits": 3},
+              {"course_code": "MAT 114", "course_title": "Calculus II", "credits": 3},
+              {"course_code": "MAT 115", "course_title": "Analytic and Vector Geometry", "credits": 3},
+              {"course_code": "MAT 116", "course_title": "Differential Equations I", "credits": 3},
+              {"course_code": "MAT 117", "course_title": "Programming Language I", "credits": 4},
+              {"course_code": "MAT 212", "course_title": "Differential Equations II", "credits": 3},
+              {"course_code": "MAT 213", "course_title": "Linear Algebra", "credits": 3},
+              {"course_code": "MAT 214", "course_title": "Real Analysis", "credits": 3},
+              {"course_code": "MAT 215", "course_title": "Abstract Algebra", "credits": 3},
+              {"course_code": "MAT 216", "course_title": "Data Structures and Algorithms", "credits": 4},
+              {"course_code": "MAT 312", "course_title": "Programming Language II", "credits": 3},
+              {"course_code": "MAT 313", "course_title": "Mathematical Methods", "credits": 4},
+              {"course_code": "MAT 314", "course_title": "Mechanics", "credits": 3},
+              {"course_code": "MAT 315", "course_title": "Complex Analysis", "credits": 3},
+              {"course_code": "MAT 316", "course_title": "Discrete Mathematics", "credits": 3},
+              {"course_code": "MAT 317", "course_title": "Numerical Analysis I", "credits": 4},
+              {"course_code": "MAT 318", "course_title": "Theory of Numbers", "credits": 3},
+              {"course_code": "MAT 319", "course_title": "Operations Research", "credits": 3},
+              {"course_code": "MAT 411", "course_title": "Numerical Analysis II", "credits": 4},
+              {"course_code": "MAT 412", "course_title": "Tensor Analysis", "credits": 3},
+              {"course_code": "MAT 414", "course_title": "Differential Geometry", "credits": 3},
+              {"course_code": "MAT 415", "course_title": "Fluid Mechanics", "credits": 3},
+              {"course_code": "MAT 416", "course_title": "Industrial Mathematics", "credits": 3},
+              {"course_code": "MAT 499", "course_title": "Research Project", "credits": 4}
+            ]
+          },
+          "Elective Courses": {
+            "total_credits": 12,
+            "selection_rule": "A student has to take four courses (ECM 001 – ECM 004) with a minimum of 12 credit hours from these Elective Modules.",
+            "courses": [
+              {"course_code": "MAT 421", "course_title": "Mathematical Modeling in Biology", "credits": 3},
+              {"course_code": "MAT 422", "course_title": "Mathematical Modeling in Finance and Business Management", "credits": 3},
+              {"course_code": "MAT 424", "course_title": "Applied Analysis", "credits": 3},
+              {"course_code": "MAT 425", "course_title": "Econometrics", "credits": 3},
+              {"course_code": "MAT 431", "course_title": "Fuzzy Mathematics", "credits": 3},
+              {"course_code": "MAT 432", "course_title": "Theory of Lattices", "credits": 3},
+              {"course_code": "MAT 433", "course_title": "Integral Equations", "credits": 3},
+              {"course_code": "MAT 434", "course_title": "Asymptotic Analysis and Perturbation Methods", "credits": 3},
+              {"course_code": "MAT 451", "course_title": "Plasma Physics", "credits": 3},
+              {"course_code": "MAT 452", "course_title": "Quantum Mechanics", "credits": 3},
+              {"course_code": "MAT 453", "course_title": "Classical Mechanics and Special Theory of Relativity", "credits": 3},
+              {"course_code": "MAT 454", "course_title": "Thermodynamics", "credits": 3},
+              {"course_code": "MAT 461", "course_title": "Actuarial Mathematics", "credits": 3},
+              {"course_code": "MAT 462", "course_title": "Stochastic Calculus", "credits": 3},
+              {"course_code": "MAT 471", "course_title": "Theory of Groups", "credits": 3},
+              {"course_code": "MAT 472", "course_title": "Theory of Rings and Modules", "credits": 3}
+            ]
+          }
+        }
+      },
+
+      "Bachelor of Arts in English":{
+        "Department" : "Department of English",
+        "total_credits": 130
+      },
+
+      "Bachelor of Law (LL.B.)":{
+        "Department" : "Department of English",
+        "total_credits": 130
+      },
+
+      "Bachelor of Social Science (BSS) in Population and Public Health Sciences (PPHS)":{
+        "Department" : "Department of Social Relations",
+        "total_credits": 130
+      },
+
+      "BSS in Information Studies": {
+        "Department": "Department of Information Studies",
+        "total_credits": 130,
+        "course_categories": {
+          "General Education Courses": {
+            "total_credits": 15,
+            "Compulsory Courses": [
+              {"course_code": "CSE 101", "course_title": "Introduction to Computers I", "credit": 3},
+              {"course_code": "CSE 102", "course_title": "Introduction to Computers II", "credit": 3},
+              {"course_code": "ENG 100", "course_title": "Improving Oral Communication Skills", "credit": 3},
+              {"course_code": "ENG 101", "course_title": "Basic English", "credit": 3},
+              {"course_code": "ENG 102", "course_title": "Composition and Communication Skills", "credit": 3},
+              {"course_code": "GEN 226", "course_title": "Emergence of Bangladesh", "credit": 3}
+            ],
+            "Optional General Education Courses (Any 2 courses)": {
+              "total_credits": 6,
+              "options": [
+                {"course_code": "MIS 101", "course_title": "Introduction to Management Information System", "credit": 3},
+                {"course_code": "GEN 201", "course_title": "Bangladesh Studies", "credit": 3},
+                {"course_code": "GEN 209", "course_title": "Social Psychology", "credit": 3},
+                {"course_code": "GEN 211", "course_title": "Concepts of Journalism and Media Studies", "credit": 3},
+                {"course_code": "GEN 220", "course_title": "Principles of Public Relations", "credit": 3},
+                {"course_code": "GEN 239", "course_title": "Professional Ethics", "credit": 3}
+              ]
+            }
+          },
+          "Core Courses": {
+            "total_courses": 26,
+            "courses": [
+              {"course_code": "INF 101", "course_title": "Introduction to Information Studies", "credit": 3},
+              {"course_code": "INF 102", "course_title": "New Technologies and Current Trends in Information Science", "credit": 3},
+              {"course_code": "INF 103", "course_title": "Information and Society", "credit": 3},
+              {"course_code": "INF 104", "course_title": "Information Literacy", "credit": 3},
+              {"course_code": "INF 105", "course_title": "Community Informatics", "credit": 3},
+              {"course_code": "INF 106", "course_title": "Bibliography, Reference and Citation", "credit": 3},
+              {"course_code": "INF 201", "course_title": "Information Sources and Services", "credit": 3},
+              {"course_code": "INF 202", "course_title": "Information Resources Development", "credit": 3},
+              {"course_code": "INF 203", "course_title": "Management of Information Institutions", "credit": 3},
+              {"course_code": "INF 204", "course_title": "Records and Archives Management", "credit": 3},
+              {"course_code": "INF 205", "course_title": "Information Marketing and Advocacy", "credit": 3},
+              {"course_code": "INF 206", "course_title": "Indexing and Abstracting", "credit": 3},
+              {"course_code": "INF 207", "course_title": "Automation of Information Institution", "credit": 3},
+              {"course_code": "INF 208", "course_title": "Statistical Foundations in the Information Studies", "credit": 3},
+              {"course_code": "INF 301", "course_title": "Information Architecture", "credit": 3},
+              {"course_code": "INF 302", "course_title": "Analysis and Design of Information Systems", "credit": 3},
+              {"course_code": "INF 303", "course_title": "Research Methodology", "credit": 3},
+              {"course_code": "INF 304", "course_title": "Information Security", "credit": 3},
+              {"course_code": "INF 305", "course_title": "Organization of Knowledge (Classification Theory)", "credit": 3},
+              {"course_code": "INF 306", "course_title": "Organization of Knowledge (Cataloguing Theory)", "credit": 3},
+              {"course_code": "INF 307", "course_title": "Organization of Knowledge (Classification Practical)", "credit": 4},
+              {"course_code": "INF 308", "course_title": "Organization of Knowledge (Cataloguing Practical)", "credit": 4},
+              {"course_code": "INF 401", "course_title": "Server Administration (Linux)", "credit": 4},
+              {"course_code": "INF 402", "course_title": "Content Management System", "credit": 4},
+              {"course_code": "INF 403", "course_title": "Database Design and Applications in Information Institutions", "credit": 4},
+              {"course_code": "INF 404", "course_title": "Integrated Library System Development", "credit": 4}
+            ]
+          },
+          "Elective Courses (4 courses)": {
+            "options": [
+              {"course_code": "INF 107", "course_title": "Organization of Information", "credit": 3},
+              {"course_code": "INF 108", "course_title": "Information Users and their Needs", "credit": 3},
+              {"course_code": "INF 109", "course_title": "Information Networking and Resource Sharing", "credit": 3},
+              {"course_code": "INF 209", "course_title": "Writing, Editing and Publishing", "credit": 3},
+              {"course_code": "INF 210", "course_title": "Comparative Study of Information Systems", "credit": 3},
+              {"course_code": "INF 211", "course_title": "Leadership and Ethics of Information Professional", "credit": 3},
+              {"course_code": "INF 309", "course_title": "Documentation and Communication", "credit": 3},
+              {"course_code": "INF 310", "course_title": "Research Data Management", "credit": 3},
+              {"course_code": "INF 405", "course_title": "Introduction to Human Computer Interaction", "credit": 3},
+              {"course_code": "INF 406", "course_title": "Web Technologies and Web-based Information Services", "credit": 3},
+              {"course_code": "INF 407", "course_title": "Computer Hardware Maintenance and Troubleshooting", "credit": 3}
+            ]
+          },
+          "Individual Research/ Internship (Choose either one)": {
+            "options": [
+              {"course_code": "INF 498", "course_title": "Project/Research Monograph", "credit": 3},
+              {"course_code": "INF 499", "course_title": "Internship in Information Institutions", "credit": 3}
+            ]
+          }
+        }
+      },
+
+      "Bachelor of Social Science (BSS) in Sociology": {
+      "Department": "Department of sociology",
+      "total_credits": 130,
+      "course_descriptions": {
+        "Compulsory General Courses": {
+          "total_credits": 18,
+          "courses": [
+            {"course_code": "ENG 100", "course_title": "Spoken English", "credit_hours": 3},
+            {"course_code": "ENG 101", "course_title": "Basic English", "credit_hours": 3},
+            {"course_code": "ENG 102", "course_title": "Composition and Communication Skills", "credit_hours": 3},
+            {"course_code": "CSE 101", "course_title": "Introduction to Computer", "credit_hours": 3},
+            {"course_code": "GEN 226", "course_title": "Emergence of Bangladesh", "credit_hours": 3},
+            {"course_code": "GEN 224", "course_title": "Bangla Language", "credit_hours": 3}
+          ]
+        },
+        "Compulsory Foundation Courses": {
+          "total_credits": 9,
+          "courses": [
+            {"course_code": "SOC 101", "course_title": "Introduction to Sociology", "credit_hours": 3},
+            {"course_code": "SOC 102", "course_title": "Introduction to Anthropology", "credit_hours": 3},
+            {"course_code": "SOC 106", "course_title": "Historical Sociology", "credit_hours": 3}
+          ]
+        },
+        "Required Core Courses (19 Courses)": {
+          "total_credits": 57,
+          "courses": [
+            {"course_code": "SOC 104", "course_title": "Social Problems", "credit_hours": 3},
+            {"course_code": "SOC 107", "course_title": "Social Problem and Analysis", "credit_hours": 3},
+            {"course_code": "SOC 201", "course_title": "Sociology of Family and Marriage", "credit_hours": 3},
+            {"course_code": "SOC 202", "course_title": "Social Psychology", "credit_hours": 3},
+            {"course_code": "SOC 205", "course_title": "Rural Sociology", "credit_hours": 3},
+            {"course_code": "SOC 206", "course_title": "Statistics for Sociology", "credit_hours": 3},
+            {"course_code": "SOC 210", "course_title": "Community, Communication, and Culture", "credit_hours": 3},
+            {"course_code": "SOC 218", "course_title": "Sociology of Gender", "credit_hours": 3},
+            {"course_code": "SOC 220", "course_title": "Quantitative Research Methodology", "credit_hours": 3},
+            {"course_code": "SOC 301", "course_title": "Qualitative Research Methodology", "credit_hours": 3},
+            {"course_code": "SOC 302", "course_title": "Social Structure of Bangladesh", "credit_hours": 3},
+            {"course_code": "SOC 303", "course_title": "Urban Sociology", "credit_hours": 3},
+            {"course_code": "SOC 304", "course_title": "Sociology of Environment", "credit_hours": 3},
+            {"course_code": "SOC 305", "course_title": "Medical Sociology", "credit_hours": 3},
+            {"course_code": "SOC 306", "course_title": "Social Problem Analysis", "credit_hours": 3},
+            {"course_code": "SOC 309", "course_title": "Sociology of Education", "credit_hours": 3},
+            {"course_code": "SOC 312", "course_title": "Social Demography", "credit_hours": 3},
+            {"course_code": "SOC 319", "course_title": "Early Social Thought", "credit_hours": 3},
+            {"course_code": "SOC 401", "course_title": "Classical Sociological Theories", "credit_hours": 3},
+            {"course_code": "SOC 406", "course_title": "Sociology of Development", "credit_hours": 3},
+            {"course_code": "SOC 407", "course_title": "Contemporary Sociological Theories", "credit_hours": 3}
+          ]
+        },
+        "Elective Courses (Choose any 11 courses)": {
+          "total_credits": 33,
+          "options": [
+            {"course_code": "SOC 105", "course_title": "Peasant Societies", "credit_hours": 3},
+            {"course_code": "SOC 203", "course_title": "Social Group and Social Development", "credit_hours": 3},
+            {"course_code": "SOC 208", "course_title": "Social Stratification and Inequality", "credit_hours": 3},
+            {"course_code": "SOC 209", "course_title": "Industrial Sociology", "credit_hours": 3},
+            {"course_code": "SOC 211", "course_title": "Social History and World Civilization", "credit_hours": 3},
+            {"course_code": "SOC 217", "course_title": "Religion, Ethnicity, Culture and Development in South Asia", "credit_hours": 3},
+            {"course_code": "SOC 219", "course_title": "Sociology of Race and Ethnicity", "credit_hours": 3},
+            {"course_code": "SOC 307", "course_title": "Bangladesh Society and Culture", "credit_hours": 3},
+            {"course_code": "SOC 308", "course_title": "Social Services in Bangladesh", "credit_hours": 3},
+            {"course_code": "SOC 310", "course_title": "Sociology of Organization", "credit_hours": 3},
+            {"course_code": "SOC 311", "course_title": "Feminist Thought", "credit_hours": 3},
+            {"course_code": "SOC 313", "course_title": "Criminology", "credit_hours": 3},
+            {"course_code": "SOC 314", "course_title": "Sociology of Aging", "credit_hours": 3},
+            {"course_code": "SOC 315", "course_title": "Principles of Economic Sociology", "credit_hours": 3},
+            {"course_code": "SOC 316", "course_title": "Globalization, Migration, Development and Refugee Issues", "credit_hours": 3},
+            {"course_code": "SOC 317", "course_title": "Sociology of Science and Technology", "credit_hours": 3},
+            {"course_code": "SOC 318", "course_title": "Sociology of Religion", "credit_hours": 3},
+            {"course_code": "SOC 320", "course_title": "Sociology of Gerontology", "credit_hours": 3},
+            {"course_code": "SOC 402", "course_title": "Sociology of Poverty", "credit_hours": 3},
+            {"course_code": "SOC 403", "course_title": "Political Sociology", "credit_hours": 3},
+            {"course_code": "SOC 404", "course_title": "Marxist Sociology", "credit_hours": 3},
+            {"course_code": "SOC 405", "course_title": "Social Forestry", "credit_hours": 3},
+            {"course_code": "SOC 408", "course_title": "Sociology of Gender Planning and Development", "credit_hours": 3},
+            {"course_code": "SOC 409", "course_title": "Sociology of Mass Communication", "credit_hours": 3},
+            {"course_code": "SOC 410", "course_title": "Community Development Organizations and Social Change", "credit_hours": 3},
+            {"course_code": "SOC 411", "course_title": "Human Rights and Social Justice", "credit_hours": 3},
+            {"course_code": "SOC 412", "course_title": "Social Interventions and Practice", "credit_hours": 3},
+            {"course_code": "SOC 415", "course_title": "Women, Society and Development", "credit_hours": 3},
+            {"course_code": "SOC 416", "course_title": "Social Changes in Bangladesh", "credit_hours": 3}
+          ]
+        },
+        "Individual Research/ Practicum/Internship (Choose either one)": {
+          "required": true,
+          "options": [
+            {"course_code": "SOC 413", "course_title": "Research Project/Monograph", "credit_hours": 6},
+            {"course_code": "SOC 414", "course_title": "Practicum and Internship", "credit_hours": 6}
+          ]
+        }
+      }
+    },
+
+    "Bachelor of Business Administration(BBA)":{
+        "Department" : "Department of Business Administration",
+        "total_credits": 130
+    },
+    
+    "Bachelor of Social Science (BSS) in Economics": {
+      "Department" : "Department of Economics",
+      "total_credits": 130,
+      "course_categories_summary": [
+        {"category": "Compulsory General Education Courses (CGED)", "credits": 24},
+        {"category": "Optional General Education and Sociology Courses (OGEC)", "credits": 9},
+        {"category": "Core Courses (CORE)", "credits": 54},
+        {"category": "Open Elective Course (OPEN)", "credits": 36}
+      ],
+      "course_descriptions": {
+        "Compulsory General Education Courses": {
+          "total_credits": 24,
+          "courses": [
+            {"course_code": "BUS 101", "course_title": "Introduction to Business", "credit": 3},
+            {"course_code": "CSE 101", "course_title": "Introduction to Computers I", "credit": 3},
+            {"course_code": "ENG 100", "course_title": "Spoken English/ Improving Oral Communication Skills", "credit": 3},
+            {"course_code": "ENG 101", "course_title": "Basic English", "credit": 3},
+            {"course_code": "ENG 102", "course_title": "Composition and Communication Skills", "credit": 3},
+            {"course_code": "ECO 104", "course_title": "Statistics for Business and Economics I", "credit": 3},
+            {"course_code": "GEN 226", "course_title": "Emergence of Bangladesh", "credit": 3},
+            {"course_code": "MAT 110", "course_title": "Mathematics For Business and Economics I", "credit": 3, "note": "* MAT 100 for those who have no Mathematics in HSC Level"}
+          ]
+        },
+        "Optional General Education Courses": {
+          "total_credits": 9,
+          "options": [
+            {"course_code": "CSE 102", "course_title": "Introduction to Computers II", "credit": 3},
+            {"course_code": "GEN 204", "course_title": "Western Thought", "credit": 3},
+            {"course_code": "GEN 201", "course_title": "Bangladesh Studies", "credit": 3},
+            {"course_code": "GEN 205", "course_title": "Introduction to Psychology", "credit": 3},
+            {"course_code": "GEN 207", "course_title": "Industrial Psychology", "credit": 3},
+            {"course_code": "GEN 210", "course_title": "International Relation", "credit": 3},
+            {"course_code": "GEN 211", "course_title": "Concepts of Journalism & Media Studies", "credit": 3},
+            {"course_code": "GEN 213", "course_title": "Introduction to German Language", "credit": 3},
+            {"course_code": "ACT 101", "course_title": "Financial Accounting", "credit": 3},
+            {"course_code": "ENG 145", "course_title": "Introduction to Linguistic", "credit": 3},
+            {"course_code": "ETE 101", "course_title": "Introduction to Telecommunication Engineering", "credit": 3},
+            {"course_code": "FIN 101", "course_title": "Principles of Finance", "credit": 3},
+            {"course_code": "MAT 101", "course_title": "Differential and Integral Calculus", "credit": 3},
+            {"course_code": "MAT 102", "course_title": "Differential Equation and Special Function", "credit": 3},
+            {"course_code": "MGT 101", "course_title": "Principles of Management", "credit": 3},
+            {"course_code": "MIS 101", "course_title": "Introduction to Management Information System", "credit": 3},
+            {"course_code": "MKT 101", "course_title": "Principles of Marketing", "credit": 3},
+            {"course_code": "MAT 100", "course_title": "College Mathematics", "credit": 3, "note": "* MAT 100 for those who have no Mathematics in HSC or equivalent Level"},
+            {"course_code": "SOC 101", "course_title": "Introduction to Sociology", "credit": 3},
+            {"course_code": "SOC 102", "course_title": "Introduction to Anthropology", "credit": 3},
+            {"course_code": "SOC 211", "course_title": "Eastern Culture and Heritage", "credit": 3},
+            {"course_code": "SOC 212", "course_title": "Social Ecology, Environment & Society", "credit": 3},
+            {"course_code": "SOC 215", "course_title": "Principles of Social & Public Relations", "credit": 3}
+          ]
+        },
+        "Core Courses": {
+          "total_credits": 54,
+          "courses": [
+            {"course_code": "ECO 101", "course_title": "Principles of Microeconomics", "credit": 3},
+            {"course_code": "ECO 102", "course_title": "Introduction to Macroeconomics", "credit": 3},
+            {"course_code": "ECO 260", "course_title": "Environmental & Natural Resource Economics", "credit": 3},
+            {"course_code": "ECO 301", "course_title": "Intermediate Microeconomic Theory I", "credit": 3},
+            {"course_code": "ECO 302", "course_title": "Intermediate Macroeconomic Theory I", "credit": 3},
+            {"course_code": "ECO 310", "course_title": "Money and Banking", "credit": 3},
+            {"course_code": "ECO 315", "course_title": "Public Finance", "credit": 3},
+            {"course_code": "ECO 328", "course_title": "International Trade and Finance", "credit": 3},
+            {"course_code": "ECO 349", "course_title": "Economics of Development", "credit": 3},
+            {"course_code": "ECO 360", "course_title": "Socio-Economic Profiles of Bangladesh", "credit": 3},
+            {"course_code": "ECO 465", "course_title": "Basic Econometrics", "credit": 3},
+            {"course_code": "ECO 467", "course_title": "Intermediate Microeconomic Theory II", "credit": 3},
+            {"course_code": "ECO 475", "course_title": "History of Economic Thought", "credit": 3},
+            {"course_code": "ECO 477", "course_title": "Intermediate Macroeconomic Theory II", "credit": 3},
+            {"course_code": "ECO 490", "course_title": "Research Methodology", "credit": 3},
+            {"course_code": "ECO 495", "course_title": "Supervised Research Paper", "credit": 3},
+            {"course_code": "MAT 211", "course_title": "Mathematics for Business and Economics II", "credit": 3},
+            {"course_code": "ECO 204", "course_title": "Statistics For Business & Economics II", "credit": 3}
+          ]
+        },
+        "Open Elective Courses": {
+          "total_credits": 36,
+          "pool_2xx": {
+            "total_credits_required": 6,
+            "options": [
+              {"course_code": "ACT 201", "course_title": "Management Accounting", "credit": 3},
+              {"course_code": "BUS 231", "course_title": "Business Communication", "credit": 3, "note": "**BUS 231 must be completed."},
+              {"course_code": "CSE 205", "course_title": "Discrete Mathematics", "credit": 3},
+              {"course_code": "ECO 200", "course_title": "Agricultural Economics", "credit": 3},
+              {"course_code": "ECO 220", "course_title": "Behavioral Economics", "credit": 3},
+              {"course_code": "ENG 200", "course_title": "Advanced Verbal Communication Skills", "credit": 3},
+              {"course_code": "FIN 201", "course_title": "Business Finance", "credit": 3},
+              {"course_code": "MAT 201", "course_title": "Linear Algebra", "credit": 3},
+              {"course_code": "MGT 251", "course_title": "Organizational Behavior", "credit": 3},
+              {"course_code": "MKT 201", "course_title": "Marketing Management", "credit": 3}
+            ]
+          },
+          "pool_3xx": {
+            "total_credits_required": 12,
+            "options": [
+              {"course_code": "ECO 304", "course_title": "Economics of Health", "credit": 3},
+              {"course_code": "ECO 312", "course_title": "Industrial Organization", "credit": 3},
+              {"course_code": "ECO 314", "course_title": "Public Sector Economics", "credit": 3},
+              {"course_code": "ECO 329", "course_title": "Contemporary Issues in International Economics", "credit": 3},
+              {"course_code": "ECO 353", "course_title": "Economics of Development in South Asia", "credit": 3},
+              {"course_code": "ECO 354", "course_title": "Environmental & Natural Resource Economics-II", "credit": 3},
+              {"course_code": "ECO 355", "course_title": "Blue Economics", "credit": 3},
+              {"course_code": "ECO 357", "course_title": "Mathematical Economics", "credit": 3},
+              {"course_code": "ECO 375", "course_title": "Foundations in Financial Economics", "credit": 3},
+              {"course_code": "ECO 382", "course_title": "Economic Valuation of Environment", "credit": 3},
+              {"course_code": "BUS 361", "course_title": "Legal Environment of Business", "credit": 3},
+              {"course_code": "ENG 313", "course_title": "English for the Media", "credit": 3},
+              {"course_code": "FIN 335", "course_title": "Financial Institution and Market", "credit": 3},
+              {"course_code": "FIN 350", "course_title": "Real State Finance", "credit": 3},
+              {"course_code": "FIN 380", "course_title": "Management of Commercial Bank", "credit": 3},
+              {"course_code": "HRM 301", "course_title": "Human Resource Management", "credit": 3},
+              {"course_code": "MGT 337", "course_title": "Production Operation Management", "credit": 3}
+            ]
+          },
+          "pool_4xx": {
+            "total_credits_required": 18,
+            "options": [
+              {"course_code": "ECO 406", "course_title": "International Economic Theory", "credit": 3},
+              {"course_code": "ECO 414", "course_title": "Trade Policy Analysis", "credit": 3},
+              {"course_code": "ECO 433", "course_title": "Gender and Development", "credit": 3},
+              {"course_code": "ECO 443", "course_title": "Social Mobilization, Rural Banking & Community Organization", "credit": 3},
+              {"course_code": "ECO 447", "course_title": "Applied Economics", "credit": 3},
+              {"course_code": "ECO 449", "course_title": "Economics of Information", "credit": 3},
+              {"course_code": "ECO 450", "course_title": "Labor Economics", "credit": 3},
+              {"course_code": "ECO 453", "course_title": "Game Theory and Applications", "credit": 3},
+              {"course_code": "ECO 455", "course_title": "Asian and Emerging Economies", "credit": 3},
+              {"course_code": "ECO 460", "course_title": "Managerial Economics", "credit": 3},
+              {"course_code": "ECO 461", "course_title": "Competition Law and Economics", "credit": 3},
+              {"course_code": "ECO 474", "course_title": "Mathematical Economics II", "credit": 3},
+              {"course_code": "ECO 480", "course_title": "Urban Economics", "credit": 3},
+              {"course_code": "ECO 484", "course_title": "Project Analysis and Evaluation", "credit": 3},
+              {"course_code": "ECO 485", "course_title": "Cost Benefit Analysis", "credit": 3},
+              {"course_code": "ECO 486", "course_title": "Energy Economics and Policy", "credit": 3},
+              {"course_code": "ECO 487", "course_title": "Applied Econometrics", "credit": 3},
+              {"course_code": "ECO 489", "course_title": "Forecasting Methods in Business and Economics", "credit": 3},
+              {"course_code": "ECO 491", "course_title": "Welfare Economics", "credit": 3},
+              {"course_code": "ECO 492", "course_title": "Law and Economics", "credit": 3},
+              {"course_code": "MAT 407", "course_title": "Advanced Calculus", "credit": 3},
+              {"course_code": "MAT 470", "course_title": "Real Analysis", "credit": 3},
+              {"course_code": "STA 427", "course_title": "Mathematical Statistics", "credit": 3},
+              {"course_code": "FIN 408", "course_title": "Financial Analysis and Control", "credit": 3},
+              {"course_code": "FIN 410", "course_title": "Risk Management and Insurance", "credit": 3},
+              {"course_code": "FIN 425", "course_title": "Investment Analysis and Management", "credit": 3},
+              {"course_code": "FIN 435", "course_title": "Managerial Finance", "credit": 3},
+              {"course_code": "FIN 450", "course_title": "Cases in Financial Management", "credit": 3},
+              {"course_code": "FIN 475", "course_title": "Option and Future", "credit": 3},
+              {"course_code": "HRM 411", "course_title": "Human Resource Planning", "credit": 3},
+              {"course_code": "HRM 414", "course_title": "Industrial Relations", "credit": 3},
+              {"course_code": "HRM 419", "course_title": "Leadership Power and Influence", "credit": 3},
+              {"course_code": "HRM 420", "course_title": "Organization Development", "credit": 3},
+              {"course_code": "MGT 402", "course_title": "Management Science", "credit": 3},
+              {"course_code": "MGT 405", "course_title": "Organizational Development and Change", "credit": 3},
+              {"course_code": "MGT 410", "course_title": "International Labor Market", "credit": 3},
+              {"course_code": "MKT 410", "course_title": "Consumer Behavior", "credit": 3},
+              {"course_code": "MKT 411", "course_title": "Export Import Management", "credit": 3},
+              {"course_code": "MKT 412", "course_title": "Service Marketing", "credit": 3},
+              {"course_code": "MKT 414", "course_title": "Marketing Research", "credit": 3},
+              {"course_code": "MKT 406", "course_title": "Brand Management", "credit": 3}
+            ]
+          }
+        }
+      }
+    }
+
+    },
+
+    "graduate_programs": {
+        "Master of Science in Computer Science and Engineering" : {
+        "Department" : "Department of Computer Science and Engineering",
+        "major_areas": [
+          "Data Science",
+          "Software Engineering",
+          "Networking",
+          "Systems Engineering"
+        ],
+        "study_tracks": [
+          "Thesis Track",
+          "Project Track"
+        ],
+        "track_details": {
+          "Thesis Track": {
+            "total_credits": 33,
+            "course_breakdown": [
+              {"category": "Compulsory Courses for all Major Areas", "number_of_courses": 3, "credit": 9},
+              {"category": "Compulsory Courses from Major Area", "number_of_courses": 2, "credit": 6},
+              {"category": "Elective Courses from Major Area", "number_of_courses": 3, "credit": 9},
+              {"category": "Master Thesis", "credit": 9}
+            ]
+          },
+          "Project Track": {
+            "total_credits": 33,
+            "course_breakdown": [
+              {"category": "Compulsory Courses for all Major Areas", "number_of_courses": 3, "credit": 9},
+              {"category": "Compulsory Courses from Major Area", "number_of_courses": 2, "credit": 6},
+              {"category": "Elective Courses from Major Area", "number_of_courses": 5, "credit": 15},
+              {"category": "Master Project", "credit": 3}
+            ]
+          }
+        },
+        "course_summary": {
+          "Compulsory Courses for all Major Areas": [
+            {"course": "CSE503 Data Structures", "credits": 3, "type": "Non-credit pre-requisite (if not done in the Bachelor program)"},
+            {"course": "CSE504 Algorithms", "credits": 3, "type": "Compulsory"},
+            {"course": "CSE505 Database Systems", "credits": 3, "type": "Compulsory"},
+            {"course": "CSE596 IT Project Management and Entrepreneurship", "credits": 3, "type": "Compulsory"}
+          ],
+          "major_area_details": [
+            {
+              "name": "Data Science",
+              "prerequisite": {"course": "CSE506 Artificial Intelligence", "credits": 3, "type": "Non-credit pre-requisite (if not done in the Bachelor program)"},
+              "compulsory_courses": [
+                {"course": "CSE520 Statistics for Data Science", "credits": 3},
+                {"course": "CSE521 Machine Learning", "credits": 3}
+              ],
+              "elective_courses": [
+                {"course": "CSE522 Data Mining", "credits": 3},
+                {"course": "CSE523 Digital Image Processing", "credits": 3},
+                {"course": "CSE524 Computer Vision", "credits": 3},
+                {"course": "CSE525 Pattern Recognition", "credits": 3},
+                {"course": "CSE526 Bioinformatics Algorithms", "credits": 3},
+                {"course": "CSE527 Big Data Analytics", "credits": 3},
+                {"course": "CSE560 Distributed Systems and Algorithms", "credits": 3}
+              ]
+            },
+            {
+              "name": "Software Engineering",
+              "prerequisite": {"course": "CSE507 Information System Analysis and Design", "credits": 3, "type": "Non-credit pre-requisite (if not done in the Bachelor program)"},
+              "compulsory_courses": [
+                {"course": "CSE550 Software Engineering", "credits": 3},
+                {"course": "CSE551 Software Testing and Quality Assurance", "credits": 3}
+              ],
+              "elective_courses": [
+                {"course": "CSE552 Simulation and Modeling", "credits": 3},
+                {"course": "CSE553 Software Architecture", "credits": 3},
+                {"course": "CSE554 Human Computer Interactions", "credits": 3},
+                {"course": "CSE555 Advanced Database System", "credits": 3},
+                {"course": "CSE556 Web Programming", "credits": 3},
+                {"course": "CSE560 Distributed Systems and Algorithms", "credits": 3},
+                {"course": "CSE565 Mobile Programming", "credits": 3},
+                {"course": "CSE521 Machine Learning", "credits": 3},
+                {"course": "CSE522 Data Mining", "credits": 3},
+                {"course": "CSE526 Bioinformatics Algorithms", "credits": 3},
+                {"course": "CSE527 Big Data Analytics", "credits": 3}
+              ]
+            },
+            {
+              "name": "Networking",
+              "prerequisite": {"course": "CSE508 Computer Networks", "credits": 3, "type": "Non-credit pre-requisite (if not done in the Bachelor program)"},
+              "compulsory_courses": [
+                {"course": "CSE560 Distributed Systems and Algorithms", "credits": 3},
+                {"course": "CSE561 Advanced Network Services and Management", "credits": 3}
+              ],
+              "elective_courses": [
+                {"course": "CSE562 Wireless Networks", "credits": 3},
+                {"course": "CSE563 Cellular Networks", "credits": 3},
+                {"course": "CSE564 Network Security and Systems", "credits": 3},
+                {"course": "CSE565 Mobile Programming", "credits": 3},
+                {"course": "CSE521 Machine Learning", "credits": 3},
+                {"course": "CSE522 Data Mining", "credits": 3},
+                {"course": "CSE527 Big Data Analytics", "credits": 3}
+              ]
+            },
+            {
+              "name": "Systems Engineering",
+              "prerequisite": {"course": "CSE509 Digital Logic Design", "credits": 3, "type": "Non-credit pre-requisite (if not done in the Bachelor program)"},
+              "compulsory_courses": [
+                {"course": "CSE5570 Internet of Things", "credits": 3},
+                {"course": "CSE571 Microprocessors and Microcontrollers", "credits": 3}
+              ],
+              "elective_courses": [
+                {"course": "CSE572 ASIC Design Using FPGA", "credits": 3},
+                {"course": "CSE573 VLSI Design", "credits": 3},
+                {"course": "CSE574 Robotics", "credits": 3},
+                {"course": "CSE575 Embedded Systems", "credits": 3},
+                {"course": "CSE521 Machine Learning", "credits": 3},
+                {"course": "CSE522 Data Mining", "credits": 3},
+                {"course": "CSE527 Big Data Analytics", "credits": 3},
+                {"course": "CSE560 Distributed Systems and Algorithms", "credits": 3},
+                {"course": "CSE561 Advanced Network Services and Management", "credits": 3}
+              ]
+            }
+          ]
+        },
+        "thesis_project_options": [
+          {"option": "CSE597 Master Project", "credit": 3},
+          {"option": "CSE599 Master Thesis", "credit": 9}
+        ]
+
+    },
+
+    "MS in Data Science & Analytics": {
+        "Department" : "Department of Mathematical and Physical Sciences",
+        "total_credits": 40,
+        "curriculum_summary": {
+          "categories": [
+            {"category": "Core Courses", "credits": 28},
+            {"category": "Elective Courses", "credits": 12}
+          ]
+        },
+        "course_details": {
+          "Core Courses": {
+            "total_credits": 28,
+            "rule": "Students must take all 8 courses listed below:",
+            "courses": [
+              {"course_code": "DSA5001", "course_title": "Statistical Methods and Probability", "credits": 3},
+              {"course_code": "DSA5002", "course_title": "Programming for Data Science", "credits": 3},
+              {"course_code": "DSA5003", "course_title": "Database Management Systems", "credits": 3},
+              {"course_code": "DSA5004", "course_title": "Regression Analysis", "credits": 3},
+              {"course_code": "DSA5005", "course_title": "Multivariate Statistical Analysis", "credits": 3},
+              {"course_code": "DSA5006", "course_title": "Machine Learning", "credits": 3},
+              {"course_code": "DSA5007", "course_title": "Big Data & Cloud Computing", "credits": 3},
+              {"course_code": "DSA5099", "course_title": "Research Project", "credits": 7}
+            ]
+          },
+          "Elective Courses": {
+            "total_credits": 12,
+            "rule": "Students must choose any 4 courses from the following list of courses.",
+            "courses": [
+              {"course_code": "DSA5011", "course_title": "AI & Deep Learning", "credits": 3},
+              {"course_code": "DSA5021", "course_title": "Time Series Analysis & Forecasting", "credits": 3},
+              {"course_code": "DSA5041", "course_title": "Applied Econometrics", "credits": 3},
+              {"course_code": "DSA5043", "course_title": "Business Process Analytics", "credits": 3},
+              {"course_code": "DSA5045", "course_title": "Machine Learning for Finance", "credits": 3},
+              {"course_code": "DSA5047", "course_title": "Data Analytics for Finance", "credits": 3},
+              {"course_code": "DSA5061", "course_title": "Environmental Data Analysis and Climate Change", "credits": 3},
+              {"course_code": "DSA5063", "course_title": "Bioinformatics", "credits": 3},
+              {"course_code": "DSA5065", "course_title": "Biostatistics & Epidemiology", "credits": 3},
+              {"course_code": "DSA5071", "course_title": "Generalized Linear Models", "credits": 3},
+              {"course_code": "DSA5073", "course_title": "Categorical Data Analysis", "credits": 3},
+              {"course_code": "DSA5075", "course_title": "Design of Experiment", "credits": 3},
+              {"course_code": "DSA5077", "course_title": "Actuarial Data Analysis", "credits": 3}
+            ]
+          }
+        }
+      },
+
+      "M. S. in Data Science and Analytics":{
+        "Department" : "Department of Mathematical and Physical Sciences",
+        "total_credits": 40
+      },
+
+      "MA in Teaching English to Speakers of Other Languages (TESOL)":{
+        "Department" : "Department of English",
+        "total_credits": "40, 42 and 48(Three different options)"
+      },
+
+      "MA in English":{
+        "Department" : "Department of English",
+        "total_credits": "40 and 45(Two different options)"
+      },
+
+      "M. Pharm in Clinical Pharmacy and Molecular Pharmacology":{
+        "Department" : "Department of Pharmacy",
+        "total_credits": 40
+      },
+      
+      "Master of Business Administration (Executive Program)-EMBA":{
+        "Department" : "Master of Business Administration",
+        "total_credits": 42
+      },
+
+      "Master of Business Administration (MBA)":{
+        "Department" : "Master of Business Administration",
+        "total_credits": 60
+      },
+
+      "Master in Development Studies (MDS)":{
+        "Department" : "Department of Economics",
+        "total_credits": 40
+      },
+
+      "MSS in Economics":{
+        "Department" : "Department of Economics",
+        "total_credits": 40
+      },
+
+      "Master of Laws (LL.M.)":{
+        "Department" : "Department of Law",
+        "total_credits": 40
+      },
+      
+      "Master of Population, Reproductive Health, Gender and Development (MPRHGD)":{
+        "Department" : "Department of Social Relations",
+        "total_credits": 48
+      }
+    },
+
+    "Diploma Programs":{
+      "Post Graduate Diploma in Entrepreneurship Development (PGDED)":{
+        "Department" : "Department of Economics",
+        "total_credits": 40
+      },
+
+      "Post Graduate Diploma in Population, Public Health and Disaster Management (PPDM)":{
+        "Department" : "Department of Social Relations",
+        "total_credits": 21
+      }
+
+    }
+
+  }

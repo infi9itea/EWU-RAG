@@ -1,0 +1,67 @@
+{
+  "institution": {
+    "name": "East West University (EWU)",
+    "location": "Dhaka, Bangladesh",
+    "website": "https://www.ewubd.edu"
+  },
+  "payment_procedure": {
+    "modes": [
+      "bank_counter_or_booth",
+      "online_gateway"
+    ],
+    "bank_counter_or_booth": {
+      "payment_methods": [
+        "cash",
+        "pay_order"
+      ],
+      "banks": [
+        "Bank Asia PLC",
+        "United Commercial Bank PLC",
+        "Brac Bank PLC",
+        "Mutual Trust Bank PLC",
+        "Dutch Bangla Bank PLC"
+      ],
+      "notes": [
+        "Deposit via Advising Slip (from student portal) or Manual Deposit Slip",
+        "For students with advance, arrear, scholarship, waiver, use Manual Deposit Slip and recalculate net amount",
+        "Students should not ask bank staff for Advising / Deposit slip; must print from portal if missing"  
+      ]
+    },
+    "online_gateway": {
+      "NexusPay": {
+        "platform": "NexusPay",
+        "instruction": "Select East West University from Bill Pay"
+      },
+      "ROCKET": {
+        "biller_id": "3220",
+        "note": "Agent Banking Biller ID is same: 3220"
+      }
+    },
+    "adjustment_rules": {
+      "order_of_adjustment": [
+        "scholarship / financial aid / regular waiver",
+        "special waiver (20%)",
+        "add other fees (laboratory, library, etc.)"
+      ],
+      "example": {
+        "tuition_fee": 44100,
+        "scholarship_or_waiver": 15000,
+        "after_adjustment": 29100,
+        "special_waiver_20_percent": 5820,
+        "net_tuition": 23280,
+        "add_lab_fee": 1000,
+        "add_library_fee": 500,
+        "final_amount": 24780
+      }
+    },
+    "important_guidelines": [
+      "Avoid depositing in large / principal / corporate branches that may not accept utility-bill type deposits",
+      "Avoid using agent banking systems except Dutch Bangla Bank (agent banking may not report properly)",
+      "Any advanced amount in student account will be adjusted to next semester; no cash refund is permissible",
+      "Students who lack an Advising Slip should print it from the portal"
+    ],
+    "help_contact": {
+      "email": "helpdesk-accounts@ewubd.edu"
+    }
+  }
+}

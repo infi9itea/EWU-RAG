@@ -1,0 +1,27 @@
+{
+  "grading_system": {
+    "title": "Uniform Recommended Grading System",
+    "description": "A student may earn five letter grades on the basis of his/her performance in a course. The letter grades A, B, C, and D are considered passing grades. The grade F is the failing grade.",
+    "grade_scale": [
+      {"numerical_score": "80% and above", "letter_grade": "A+", "grade_point": 4.00},
+      {"numerical_score": "75% to less than 80%", "letter_grade": "A", "grade_point": 3.75},
+      {"numerical_score": "70% to less than 75%", "letter_grade": "A-", "grade_point": 3.50},
+      {"numerical_score": "65% to less than 70%", "letter_grade": "B+", "grade_point": 3.25},
+      {"numerical_score": "60% to less than 65%", "letter_grade": "B", "grade_point": 3.00},
+      {"numerical_score": "55% to less than 60%", "letter_grade": "B-", "grade_point": 2.75},
+      {"numerical_score": "50% to less than 55%", "letter_grade": "C+", "grade_point": 2.50},
+      {"numerical_score": "45% to less than 50%", "letter_grade": "C", "grade_point": 2.25},
+      {"numerical_score": "40% to less than 45%", "letter_grade": "D", "grade_point": 2.00},
+      {"numerical_score": "Less than 40%", "letter_grade": "F", "grade_point": 0.00}
+    ],
+    "special_grades": [
+      {"grade": "F*", "description": "Failure", "grade_point": 0, "note": "A 0 grade point in F Letter Grade is applied only for the calculation of the grade point average"},
+      {"grade": "U*", "description": "Unsatisfactory", "grade_point": 0, "note": "Credits for courses with these grades do not apply towards graduation and are not used for the calculation of the grade point average"},
+      {"grade": "I**", "description": "Incomplete", "grade_point": 0, "note": "Credits for courses with these grades do not apply towards graduation and are not used for the calculation of the grade point average"},
+      {"grade": "P***", "description": "Pass", "grade_point": 0, "note": "Credits for courses with these grades are required for graduation but are not used for the calculation of the grade point average"},
+      {"grade": "R**", "description": "Repeat/Retake", "grade_point": 0, "note": "Credits for courses with these grades do not apply towards graduation and are not used for the calculation of the grade point average"},
+      {"grade": "S***", "description": "Satisfactory", "grade_point": 0, "note": "Credits for courses with these grades are required for graduation but are not used for the calculation of the grade point average"},
+      {"grade": "W**", "description": "Withdrawal", "grade_point": 0, "note": "Credits for courses with these grades do not apply towards graduation and are not used for the calculation of the grade point average"}
+    ]
+  }
+}

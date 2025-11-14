@@ -1,0 +1,47 @@
+{
+    "campus_life_facilities": {
+        "title": "Campus Life & Facilities",
+        "facilities": [
+            {
+                "name": "Parking",
+                "description": "Parking facility available for students, faculty, and visitors."
+            },
+            {
+                "name": "Cafeteria",
+                "description": "Modern cafeteria inaugurated in August 2023, with capacity to serve 500 consumers simultaneously and prepare food for 10,000 people daily. Features artistic decoration, central air conditioning, and automatic fire extinguishing system. Provides fresh food in a pleasant environment to support students' nutritional needs and focus on studies.",
+                "url": "https://www.ewubd.edu/news/ewu-inaugurated-its-newly-constructed-modern-cafeteria"
+            },
+            {
+                "name": "Library",
+                "description": "Dr. S. R. Lasker Library serving as the central library with extensive physical books and online archives, observing events like National Library Day and Open Access Week.",
+                "url": "http://lib.ewubd.edu/"
+            },
+            {
+                "name": "Common Room",
+                "description": "Separate common rooms for boys and girls, re-opened after renovations in April 2024. Equipped with state-of-the-art amenities including table tennis, chess, carom, and other recreational options. Features comfortable seating arrangements to foster relaxation, camaraderie, and student well-being.",
+                "url": "https://www.ewubd.edu/news/east-west-university-re-opened-its-common-rooms-after-renovations"
+            },
+            {
+                "name": "Career Counseling Center",
+                "description": "Center dedicated to establishing links between prospective employers and EWU students, offering career guidance, job placement support, events, and workshops.",
+                "url": "https://www.ewubd.edu/page/career-counseling-center"
+            },
+            {
+                "name": "Indoor Games",
+                "description": "Facilities for indoor games available in common rooms, including table tennis, chess, carom, and other recreational activities to promote student engagement and relaxation.",
+                "url": "https://www.ewubd.edu/page/indoor-games"
+            },
+            {
+                "name": "Islam Prayer Room",
+                "description": "Dedicated prayer rooms for Islamic worship, recently extended and renovated in December 2024, providing a serene space for students.",
+                "url": "https://www.ewubd.edu/page/prayers-room"
+            }
+        ],
+        "not_available": [
+            {
+                "name": "Transportation System",
+                "description": "The university does not provide an internal transportation system; it promotes the use of public transportation, cycling, and walking to minimize carbon emissions."
+            }
+        ]
+    }
+}

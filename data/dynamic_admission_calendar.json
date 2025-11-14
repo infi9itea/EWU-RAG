@@ -1,0 +1,39 @@
+{
+  "page_info": {
+    "title": "Admission Deadlines and Test Dates",
+    "institution": "East West University",
+    "semester": "Fall 2025",
+    "disclaimer": "Dates are subject to change as per university authority announcements"
+  },
+  "undergraduate_admission": [
+    { "program": "Bachelor of Business Administration (BBA)", "application_deadline": "Aug 27, 2025", "admission_test": "Saturday, 30 August 2025 at 10:00 AM" },
+    { "program": "BSS in Economics", "application_deadline": "Aug 27, 2025", "admission_test": "Saturday, 30 August 2025 at 10:00 AM" },
+    { "program": "BA in English", "application_deadline": "Aug 27, 2025", "admission_test": "Saturday, 30 August 2025 at 10:00 AM" },
+    { "program": "LLB (Hons)", "application_deadline": "May 14, 2025", "admission_test": "Saturday, 17 May 2025 at 10:00 AM" },
+    { "program": "BSS in Sociology", "application_deadline": "Aug 27, 2025", "admission_test": "Saturday, 30 August 2025 at 10:00 AM" },
+    { "program": "BSS in Information Studies", "application_deadline": "Aug 27, 2025", "admission_test": "Saturday, 30 August 2025 at 10:00 AM" },
+    { "program": "BSS in Population and Public Health Sciences", "application_deadline": "Aug 27, 2025", "admission_test": "Saturday, 30 August 2025 at 10:00 AM" },
+    { "program": "B.Sc. in CSE", "application_deadline": "Aug 27, 2025", "admission_test": "Saturday, 30 August 2025 at 02:30 PM" },
+    { "program": "B.Sc. in ICE", "application_deadline": "Aug 27, 2025", "admission_test": "Saturday, 30 August 2025 at 02:30 PM" },
+    { "program": "B.Sc. in EEE", "application_deadline": "Aug 27, 2025", "admission_test": "Saturday, 30 August 2025 at 02:30 PM" },
+    { "program": "Bachelor of Pharmacy", "application_deadline": "May 14, 2025", "admission_test": "Saturday, 17 May 2025 at 02:30 PM" },
+    { "program": "B.Sc. in Genetic Engineering and Biotechnology", "application_deadline": "Aug 27, 2025", "admission_test": "Saturday, 30 August 2025 at 02:30 PM" },
+    { "program": "B.Sc. in Civil Engineering", "application_deadline": "Aug 27, 2025", "admission_test": "Saturday, 30 August 2025 at 02:30 PM" },
+    { "program": "B.Sc. (Hons) in Mathematics", "application_deadline": "Aug 27, 2025", "admission_test": "Saturday, 30 August 2025 at 02:30 PM" },
+    { "program": "B.Sc. in Data Science and Analytics", "application_deadline": "Aug 27, 2025", "admission_test": "Saturday, 30 August 2025 at 02:30 PM" }
+  ],
+  "graduate_admission": [
+    { "program": "Master of Business Administration (MBA)", "application_deadline": "Aug 29, 2025", "admission_test": "Saturday, 30 August 2025 at 02:30 PM" },
+    { "program": "Executive MBA (EMBA)", "application_deadline": "Sep 27, 2025", "admission_test": "Will be notified later" },
+    { "program": "Master of Development Studies (MDS)", "application_deadline": "Sep 23, 2025", "admission_test": "Wednesday, 24 September 2025 at 06:30 PM" },
+    { "program": "MSS in Economics", "application_deadline": "Sep 23, 2025", "admission_test": "Wednesday, 24 September 2025 at 06:30 PM" },
+    { "program": "MA in English", "application_deadline": "Sep 22, 2025", "admission_test": "Tuesday, 23 September 2025 at 05:30 PM" },
+    { "program": "MA in TESOL", "application_deadline": "Sep 22, 2025", "admission_test": "Tuesday, 23 September 2025 at 05:30 PM" },
+    { "program": "MPRHGD", "application_deadline": "Sep 25, 2025", "admission_test": "Will be notified later" },
+    { "program": "LLM", "application_deadline": "Aug 07, 2025", "admission_test": "Will be notified later" },
+    { "program": "MS in CSE", "application_deadline": "Sep 22, 2025", "admission_test": "Tuesday, 23 September 2025 at 03:00 PM" },
+    { "program": "M. S. in Data Science and Analytics", "application_deadline": "Sep 18, 2025", "admission_test": "Friday, 19 September 2025 at 09:00 AM" },
+    { "program": "Master of Pharmacy", "application_deadline": "Jul 31, 2025", "admission_test": "Friday, 01 August 2025 at 10:00 AM" },
+    { "program": "Post Graduate Diploma in Population, Public Health & Disaster Management (PPDM)", "application_deadline": "Sep 25, 2025", "admission_test": "Will be notified later" }
+  ]
+}

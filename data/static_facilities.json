@@ -1,0 +1,65 @@
+{
+  "university_name": "East West University (EWU), Dhaka, Bangladesh",
+  "campus_facilities": {
+    "academic_and_research": [
+      {
+        "facility_name": "Dr. S. R. Lasker Library",
+        "details": "A rich collection of over 29,000+ print books, 1,00,000+ e-books, and 45,000+ online journals/e-resources (accessible via My Athens Remote Access Service). Provides various services including Information Literacy programs."
+      },
+      {
+        "facility_name": "Specialized Laboratories",
+        "details": "Numerous state-of-the-art labs for hands-on experience and research, including: \n- **Computer Labs:** Multiple general and departmental labs (e.g., Software Engineering Lab, Digital Systems Lab) with high-configuration computers and industry-standard software (e.g., MATLAB, SPSS, AutoCAD, Oracle).\n- **Engineering Labs:** Electrical Circuits, Electronics, Digital Systems, Telecommunication, Computer Communications & Networking, High Voltage/Machine, Power System, VLSI Lab, and extensive Civil Engineering Labs (e.g., Surveying, Geotechnical, Environmental, Strength of Materials).\n- **Science Labs:** Pharmacy Labs (equipped with HPLC, GC, FTIR), Genetic Engineering & Biotechnology Labs, and Physics Laboratory.\n- **Language Laboratory:** Dedicated facility to facilitate English language learning."
+      },
+      {
+        "facility_name": "Center for Research and Training (EWUCRT)",
+        "details": "Dedicated center to advance academic research and community engagement. Includes a Research Hub with state-of-the-art computers and various research software (e.g., Turnitin, Endnote, SPSS, STATA)."
+      },
+      {
+        "facility_name": "Classrooms and Learning Spaces",
+        "details": "Clean, spacious, and fully air-conditioned classrooms equipped with modern multimedia projectors and overhead projectors."
+      }
+    ],
+    "information_technology": [
+      {
+        "facility_name": "High-Speed Internet and Wi-Fi",
+        "details": "High-speed internet (512 Mbps dedicated full-duplex) with free open **wireless network** available throughout almost all parts of the campus (both indoors and outdoors)."
+      },
+      {
+        "facility_name": "University Data Centre",
+        "details": "Provides a secure, reliable ICT infrastructure for core IT services, network stability, IP telephony, and server virtualization."
+      },
+      {
+        "facility_name": "Web and Email Services",
+        "details": "Maintenance of the official website, online grade reporting, online admission system, and a dedicated email system for students, faculty, and staff."
+      }
+    ],
+    "student_life_and_welfare": [
+      {
+        "facility_name": "Department of Student Welfare (DSW)",
+        "details": "Oversees student activities and manages **18 student clubs** and organizations, organizing cultural events, sports tournaments (Cricket, Football, Indoor Games), seminars, and workshops."
+      },
+      {
+        "facility_name": "Career Counseling Center (CCC)",
+        "details": "Aids students in development, liaises with employers, and arranges **internships and job placements** through job fairs and workshops."
+      },
+      {
+        "facility_name": "EWU Medical Centre",
+        "details": "Provides **free medical services** (full-time facility) to students and staff."
+      },
+      {
+        "facility_name": "Sports and Recreation",
+        "details": "Facilities include an **indoor sports area** for various games."
+      },
+      {
+        "facility_name": "Prayer Rooms",
+        "details": "Dedicated common rooms for prayer."
+      }
+    ]
+  },
+  "other_support_services": [
+    "Engineering & Maintenance Department",
+    "Office of The Internal Auditor",
+    "Office of The IQAC (Institutional Quality Assurance Cell)",
+    "Office of The HR & Logistics"
+  ]
+}

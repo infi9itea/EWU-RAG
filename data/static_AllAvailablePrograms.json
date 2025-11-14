@@ -1,0 +1,185 @@
+{
+  "university": "East West University (EWU), Bangladesh",
+  "website": "https://www.ewubd.edu",
+  "programs": [
+    {
+      "faculty": "Faculty of Science and Engineering",
+      "department": "Department of Computer Science and Engineering (CSE)",
+      "degrees": [
+        {
+          "level": "Undergraduate",
+          "title": "Bachelor of Science in Computer Science and Engineering (B.Sc. in CSE)"
+        },
+        {
+          "level": "Postgraduate",
+          "title": "Master of Science in Computer Science and Engineering (M.Sc. in CSE)"
+        }
+      ]
+    },
+    {
+      "faculty": "Faculty of Science and Engineering",
+      "department": "Department of Electrical and Electronic Engineering (EEE)",
+      "degrees": [
+        {
+          "level": "Undergraduate",
+          "title": "Bachelor of Science in Electrical and Electronic Engineering (B.Sc. in EEE)"
+        },
+        {
+          "level": "Postgraduate",
+          "title": "Master of Science in Electrical and Electronic Engineering (M.Sc. in EEE)"
+        }
+      ]
+    },
+    {
+      "faculty": "Faculty of Science and Engineering",
+      "department": "Department of Civil Engineering (CE)",
+      "degrees": [
+        {
+          "level": "Undergraduate",
+          "title": "Bachelor of Science in Civil Engineering (B.Sc. in CE)"
+        }
+      ]
+    },
+    {
+      "faculty": "Faculty of Science and Engineering",
+      "department": "Department of Mathematics and Physical Sciences",
+      "degrees": [
+        {
+          "level": "Undergraduate",
+          "title": "Bachelor of Science in Mathematics"
+        },
+        {
+          "level": "Undergraduate",
+          "title": "Bachelor of Science in Physics"
+        },
+        {
+          "level": "Postgraduate",
+          "title": "Master of Science in Mathematics"
+        },
+        {
+          "level": "Postgraduate",
+          "title": "Master of Science in Physics"
+        }
+      ]
+    },
+    {
+      "faculty": "Faculty of Business and Economics",
+      "department": "Department of Business Administration",
+      "degrees": [
+        {
+          "level": "Undergraduate",
+          "title": "Bachelor of Business Administration (BBA)"
+        },
+        {
+          "level": "Postgraduate",
+          "title": "Master of Business Administration (MBA)"
+        },
+        {
+          "level": "Postgraduate",
+          "title": "Master of Science in Management Information Systems (M.Sc. in MIS)"
+        }
+      ]
+    },
+    {
+      "faculty": "Faculty of Business and Economics",
+      "department": "Department of Economics",
+      "degrees": [
+        {
+          "level": "Undergraduate",
+          "title": "Bachelor of Social Science in Economics (B.S.S. in Economics)"
+        },
+        {
+          "level": "Postgraduate",
+          "title": "Master of Social Science in Economics (M.S.S. in Economics)"
+        }
+      ]
+    },
+    {
+      "faculty": "Faculty of Arts and Social Sciences",
+      "department": "Department of English",
+      "degrees": [
+        {
+          "level": "Undergraduate",
+          "title": "Bachelor of Arts in English (B.A. in English)"
+        },
+        {
+          "level": "Postgraduate",
+          "title": "Master of Arts in English (M.A. in English)"
+        }
+      ]
+    },
+    {
+      "faculty": "Faculty of Arts and Social Sciences",
+      "department": "Department of Law",
+      "degrees": [
+        {
+          "level": "Undergraduate",
+          "title": "Bachelor of Laws (LL.B. Hons)"
+        },
+        {
+          "level": "Postgraduate",
+          "title": "Master of Laws (LL.M.)"
+        }
+      ]
+    },
+    {
+      "faculty": "Faculty of Arts and Social Sciences",
+      "department": "Department of Media and Communication",
+      "degrees": [
+        {
+          "level": "Undergraduate",
+          "title": "Bachelor of Social Science in Media and Communication (B.S.S. in Media and Communication)"
+        }
+      ]
+    },
+    {
+      "faculty": "Faculty of Arts and Social Sciences",
+      "department": "Department of Sociology and Anthropology",
+      "degrees": [
+        {
+          "level": "Undergraduate",
+          "title": "Bachelor of Social Science in Sociology (B.S.S. in Sociology)"
+        }
+      ]
+    },
+    {
+      "faculty": "Faculty of Arts and Social Sciences",
+      "department": "Department of Government and Politics",
+      "degrees": [
+        {
+          "level": "Undergraduate",
+          "title": "Bachelor of Social Science in Government and Politics (B.S.S. in Government and Politics)"
+        }
+      ]
+    },
+    {
+      "faculty": "Other Academic Units",
+      "department": "Institute of Education and Research (IER)",
+      "degrees": [
+        {
+          "level": "Undergraduate",
+          "title": "Bachelor of Education (B.Ed.)"
+        },
+        {
+          "level": "Postgraduate",
+          "title": "Master of Education (M.Ed.)"
+        }
+      ]
+    },
+    {
+      "faculty": "Other Academic Units",
+      "department": "Department of Pharmacy",
+      "degrees": [
+        {
+          "level": "Undergraduate",
+          "title": "Bachelor of Pharmacy (B.Pharm.)"
+        },
+        {
+          "level": "Postgraduate",
+          "title": "Master of Philosophy in Pharmacy (M.Phil in Pharmacy)"
+        }
+      ]
+    }
+  ],
+  "note": "Program offerings and structure are subject to change. For the most accurate and updated information, please refer to the official East West University website: https://www.ewubd.edu"
+}

@@ -1,0 +1,53 @@
+{
+  "university_name": "East West University (EWU)",
+  "general_conduct_rules": {
+    "expected_behavior": [
+      "Be of good moral character.",
+      "Observe general rules of discipline, honesty, and punctuality.",
+      "Show respect for the rights of others.",
+      "Willful violation seriously disturbs the academic environment."
+    ],
+    "id_card_requirement": "Students must display their photo identification cards on campus at all times for safety and security."
+  },
+  "academic_misconduct": {
+    "description": "Viewed as a grave breach of discipline with zero tolerance.",
+    "examples": [
+      "Cheating at the examination by any method or means.",
+      "Helping other students to cheat in examinations.",
+      "Plagiarism (reproducing the work of others as one's own).",
+      "Fabrication or the falsification of any information with the intent to deceive.",
+      "Forgery, alteration, or misuse of university documents or records."
+    ],
+    "attendance_requirement": "Students must attend a reasonable portion (not less than 80%) of the lectures, tutorials, and practical classes."
+  },
+  "social_misconduct": {
+    "examples": [
+      "Abusive or disorderly conduct.",
+      "Sexual harassment.",
+      "Physical assault in any form.",
+      "Direct and indirect threat of violence.",
+      "Verbal, mental, and physical harassment.",
+      "Participation in any activity that may disrupt any function of the university."
+    ]
+  },
+  "health_and_safety_violations": {
+    "examples": [
+      "Smoking inside university buildings.",
+      "Possession or use of alcoholic drinks and drugs.",
+      "Possession of sharp weapons and firearms."
+    ]
+  },
+  "academic_status_and_disciplinary_action": {
+    "probation_and_dismissal": {
+      "undergraduate": "CGPA below 2.25 leads to probation; CGPA below 1.0 after the first two or any subsequent semesters leads to automatic dismissal.",
+      "graduate": "CGPA below 2.60 leads to probation; failure to raise it after two consecutive semesters leads to dismissal."
+    },
+    "general_penalties": [
+      "Warning (written or verbal notice).",
+      "Cancellation of the examination and/or an assignment.",
+      "Expulsion for one or more semesters.",
+      "Expulsion from the university (final dismissal)."
+    ],
+    "disciplinary_procedure": "Allegations are examined by the Discipline Committee, which recommends penalties to the authority. Penalties are reflected in the student's Academic Transcripts/documents."
+  }
+}

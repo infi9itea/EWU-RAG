@@ -1,0 +1,119 @@
+{
+  "university": "East West University (EWU)",
+  "admission_requirements": {
+    "undergraduate": {
+      "general_programs_except_bpharm": {
+        "ssc_hsc": "Minimum GPA 3.00 in both SSC and HSC.",
+        "diploma": "Minimum GPA 2.40 in Diploma in Engineering under Bangladesh Technical Education Board.",
+        "o_a_levels": {
+          "requirement": "Passed GCE O Level in at least 5 subjects and A Level in at least 2 subjects.",
+          "grading_scale": { "A": 5, "B": 4, "C": 3, "D": 2, "E": 1 },
+          "condition": "Best 5 O Level + best 2 A Level subjects considered. At least 4 subjects must have GPA 4.0 (grade B) and remaining 3 subjects GPA 3.5 (grade C)."
+        },
+        "american_high_school_diploma": "Accepted (GED not acceptable).",
+        "freedom_fighter_quota": "Total GPA 5.00 in both SSC and HSC for children of Freedom Fighters.",
+        "admission_test": {
+          "weightage": {
+            "admission_test": "75%",
+            "ssc_o_level": "10%",
+            "hsc_a_level": "15%"
+          }
+        },
+        "subject_requirements": {
+          "cse": "Mathematics & Physics in HSC or A Level",
+          "ice": "Mathematics & Physics in HSC or A Level",
+          "eee": "Mathematics & Physics in HSC or A Level",
+          "geb": "Physics, Chemistry, Biology/Mathematics in HSC or equivalent; Biology in SSC",
+          "civil": "Mathematics, Chemistry & Physics in HSC or A Level",
+          "mathematics": "Mathematics in HSC or equivalent",
+          "data_science": "Mathematics in HSC or equivalent"
+        }
+      },
+      "bpharm": {
+        "citizenship": "Must be Bangladeshi citizen (foreign students only via Govt. allocated seats).",
+        "ssc_hsc": {
+          "aggregate": "Minimum GPA 8.00 (on scale of 10)",
+          "minimum_each": "Not less than GPA 3.50 in any examination."
+        },
+        "subject_gpa": {
+          "chemistry": "Min GPA 3.5",
+          "biology": "Min GPA 3.5",
+          "physics": "Min GPA 3.0",
+          "mathematics": "Min GPA 3.0"
+        },
+        "o_a_level_grades": {
+          "chemistry": "Grade B",
+          "biology": "Grade B",
+          "mathematics": "Grade C",
+          "physics": "Grade C"
+        },
+        "special_note": "If student did not take Mathematics in HSC/A Level, they must complete an extra 3-credit Math course.",
+        "year_of_pass": "HSC or equivalent must be passed in 2023 or 2024.",
+        "foreign_students": {
+          "schooling": "Must have completed 12 academic years.",
+          "equivalency": "Certificate required from Pharmacy Council of Bangladesh (PCB)."
+        },
+        "assessment": {
+          "written_test": "Mandatory competitive written test.",
+          "oral_test": "May also be taken for further assessment."
+        },
+        "pcb_requirement": "New students must complete online pre-registration with PCB within first 3 months of first semester."
+      }
+    },
+    "waivers": {
+      "sat_waiver": {
+        "requirement": "Minimum total SAT score of 1500 (Critical Reading, Math, Writing).",
+        "science_engineering_additional": "Min GPA 3.5 in Math and Physics separately in HSC/A Level."
+      }
+    },
+    "foreign_students": {
+      "schooling": "Must have 12 years of schooling.",
+      "sat": "SAT score 1100 OR upper 50% marks/grade in their education system.",
+      "assessment": "Equivalence committee will assess eligibility and may recommend scholarships/financial aid."
+    },
+    "graduate": {
+      "mba_emba": {
+        "degree": "Successful completion of at least a Bachelor degree from a reputed University.",
+        "ssc_hsc_gpa": "Minimum GPA 2.50 in both SSC and HSC.",
+        "o_a_levels": {
+          "requirement": "Passed O Level in at least 5 subjects and A Level in at least 2 subjects.",
+          "condition": "At least 4B's (GPA 4.0) and 3C's (GPA 3.5) among the 7 subjects."
+        },
+        "ged": "GED not acceptable.",
+        "mba": {
+          "work_experience": "Preferred but not essential."
+        },
+        "emba": {
+          "work_experience": "Minimum 2 years after graduation in executive position.",
+          "admission_basis": "Interview-based selection."
+        },
+        "test_exemptions": {
+          "ewu_graduates": "UG CGPA ≥ 3.00 exempt from written admission test.",
+          "other_universities": "CGPA ≥ 3.50 exempt from written admission test."
+        },
+        "selection_criteria_points": {
+          "ssc_hsc": {
+            "1st_div_gpa>=3.5": 3,
+            "2nd_div_gpa>=2.5": 2,
+            "3rd_div_gpa>=2.0": 1
+          },
+          "bachelor": {
+            "1st_div_gpa>=3.0": 5,
+            "2nd_div_gpa>=2.5": 3,
+            "3rd_div_gpa>=2.0": 1
+          },
+          "masters": {
+            "1st_div_gpa>=3.0": 1,
+            "2nd_div_gpa>=2.5": 1,
+            "3rd_div_gpa>=2.0": 0
+          }
+        }
+      }
+    },
+    "required_documents": [
+      "Original and photocopies of all academic certificates",
+      "Original and photocopies of all mark sheets/transcripts",
+      "Originals returned after verification"
+    ]
+  }
+}

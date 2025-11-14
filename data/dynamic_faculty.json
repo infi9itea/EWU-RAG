@@ -1,0 +1,2797 @@
+{
+  "faculty": [
+    {
+      "name": "Dr. Md. Mozammel Huq Azad Khan",
+      "designation": "Professor",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/mhakhan",
+      "text": "Dr. Md. Mozammel Huq Azad Khan, Professor, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/mhakhan"
+    },
+    {
+      "name": "Dr. Shamim H Ripon",
+      "designation": "Professor",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/dshr",
+      "text": "Dr. Shamim H Ripon, Professor, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/dshr"
+    },
+    {
+      "name": "Dr. Md. Nawab Yousuf Ali",
+      "designation": "Professor",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/nawab",
+      "text": "Dr. Md. Nawab Yousuf Ali, Professor, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/nawab"
+    },
+    {
+      "name": "Dr. Ahmed Wasif Reza",
+      "designation": "Dean, Professor",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/wasif",
+      "text": "Dr. Ahmed Wasif Reza, Dean, Professor, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/wasif"
+    },
+    {
+      "name": "Dr. Taskeed Jabid",
+      "designation": "Professor",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/taskeed",
+      "text": "Dr. Taskeed Jabid, Professor, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/taskeed"
+    },
+    {
+      "name": "Dr. Maheen Islam",
+      "designation": "Chairperson, Associate Professor",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/maheen",
+      "text": "Dr. Maheen Islam, Chairperson, Associate Professor, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/maheen"
+    },
+    {
+      "name": "Dr. Mohammad Rezwanul Huq",
+      "designation": "Associate Professor",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/mrhuq",
+      "text": "Dr. Mohammad Rezwanul Huq, Associate Professor, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/mrhuq"
+    },
+    {
+      "name": "Dr. Anisur Rahman",
+      "designation": "Associate Professor",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/anis",
+      "text": "Dr. Anisur Rahman, Associate Professor, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/anis"
+    },
+    {
+      "name": "Dr. Anup Kumar Paul",
+      "designation": "Associate Professor",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/anuppaul",
+      "text": "Dr. Anup Kumar Paul, Associate Professor, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/anuppaul"
+    },
+    {
+      "name": "Dr. Sarwar Jahan",
+      "designation": "Associate Professor",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/sjahan",
+      "text": "Dr. Sarwar Jahan, Associate Professor, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/sjahan"
+    },
+    {
+      "name": "Dr. Mohammad Salah Uddin",
+      "designation": "Associate Professor",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/uddin",
+      "text": "Dr. Mohammad Salah Uddin, Associate Professor, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/uddin"
+    },
+    {
+      "name": "Dr. Md Sawkat Ali",
+      "designation": "Associate Professor",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/alim",
+      "text": "Dr. Md Sawkat Ali, Associate Professor, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/alim"
+    },
+    {
+      "name": "Dr. Raihan Ul Islam",
+      "designation": "Associate Professor",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/raihan.islam",
+      "text": "Dr. Raihan Ul Islam, Associate Professor, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/raihan.islam"
+    },
+    {
+      "name": "Dr. Md Mostofa Kamal Rasel",
+      "designation": "Associate Professor",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/mostofa.kamal",
+      "text": "Dr. Md Mostofa Kamal Rasel, Associate Professor, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/mostofa.kamal"
+    },
+    {
+      "name": "Dr. Mohammad Rifat Ahmmad Rashid",
+      "designation": "Associate Professor",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/rifat.rashid",
+      "text": "Dr. Mohammad Rifat Ahmmad Rashid, Associate Professor, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/rifat.rashid"
+    },
+    {
+      "name": "Dr. Mohammad Manzurul Islam",
+      "designation": "Assistant Professor",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/mohammad.islam",
+      "text": "Dr. Mohammad Manzurul Islam, Assistant Professor, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/mohammad.islam"
+    },
+    {
+      "name": "Dr. Md. Hasanul Ferdaus",
+      "designation": "Assistant Professor",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/hasanul.ferdaus",
+      "text": "Dr. Md. Hasanul Ferdaus, Assistant Professor, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/hasanul.ferdaus"
+    },
+    {
+      "name": "Dr. Hasan Mahmood Aminul Islam",
+      "designation": "Assistant Professor",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/hasan.mahmood",
+      "text": "Dr. Hasan Mahmood Aminul Islam, Assistant Professor, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/hasan.mahmood"
+    },
+    {
+      "name": "Dr. Md. Atiqur Rahman",
+      "designation": "Assistant Professor",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/atiqur.rahman",
+      "text": "Dr. Md. Atiqur Rahman, Assistant Professor, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/atiqur.rahman"
+    },
+    {
+      "name": "Dr. Md. Tauhid Bin Iqbal",
+      "designation": "Assistant Professor",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/tauhid.iqbal",
+      "text": "Dr. Md. Tauhid Bin Iqbal, Assistant Professor, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/tauhid.iqbal"
+    },
+    {
+      "name": "Dr. Tania Sultana",
+      "designation": "Assistant Professor",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/tania.sultana",
+      "text": "Dr. Tania Sultana, Assistant Professor, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/tania.sultana"
+    },
+    {
+      "name": "Dr. Farhana Huq",
+      "designation": "Assistant Professor",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/farhana.huq",
+      "text": "Dr. Farhana Huq, Assistant Professor, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/farhana.huq"
+    },
+    {
+      "name": "Dr. Nafis Sadeq",
+      "designation": "Assistant Professor",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/nafis.sadeq",
+      "text": "Dr. Nafis Sadeq, Assistant Professor, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/nafis.sadeq"
+    },
+    {
+      "name": "Md. Sarwar Kamal",
+      "designation": "Senior Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/skamal",
+      "text": "Md. Sarwar Kamal, Senior Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/skamal"
+    },
+    {
+      "name": "Rashedul Amin Tuhin",
+      "designation": "Senior Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/mcctuhin",
+      "text": "Rashedul Amin Tuhin, Senior Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/mcctuhin"
+    },
+    {
+      "name": "Surajit Das Barman",
+      "designation": "Senior Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/surajitbarman012",
+      "text": "Surajit Das Barman, Senior Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/surajitbarman012"
+    },
+    {
+      "name": "Fahmida Azmi",
+      "designation": "Senior Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/fazmi",
+      "text": "Fahmida Azmi, Senior Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/fazmi"
+    },
+    {
+      "name": "Amit Kumar Das",
+      "designation": "Senior Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/akdas",
+      "text": "Amit Kumar Das, Senior Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/akdas"
+    },
+    {
+      "name": "Tanni Mittra",
+      "designation": "Senior Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/tanni",
+      "text": "Tanni Mittra, Senior Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/tanni"
+    },
+    {
+      "name": "Khan Mohammad Habibullah",
+      "designation": "Senior Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/h.rana10",
+      "text": "Khan Mohammad Habibullah, Senior Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/h.rana10"
+    },
+    {
+      "name": "M. Saddam Hossain Khan",
+      "designation": "Senior Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/saddam.cse",
+      "text": "M. Saddam Hossain Khan, Senior Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/saddam.cse"
+    },
+    {
+      "name": "Musharrat Khan",
+      "designation": "Senior Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/musharrat.khan",
+      "text": "Musharrat Khan, Senior Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/musharrat.khan"
+    },
+    {
+      "name": "Mahamudul Hasan",
+      "designation": "Senior Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/mahamudul",
+      "text": "Mahamudul Hasan, Senior Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/mahamudul"
+    },
+    {
+      "name": "Md. Mohsin Uddin",
+      "designation": "Senior Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/mmuddin",
+      "text": "Md. Mohsin Uddin, Senior Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/mmuddin"
+    },
+    {
+      "name": "Jesan Ahammed Ovi",
+      "designation": "Senior Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/jesan",
+      "text": "Jesan Ahammed Ovi, Senior Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/jesan"
+    },
+    {
+      "name": "Md Al-Imran",
+      "designation": "Senior Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/al.imran",
+      "text": "Md Al-Imran, Senior Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/al.imran"
+    },
+    {
+      "name": "Sadia Nowrin",
+      "designation": "Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/sadia",
+      "text": "Sadia Nowrin, Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/sadia"
+    },
+    {
+      "name": "Kowshika Sarker",
+      "designation": "Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/kowshika",
+      "text": "Kowshika Sarker, Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/kowshika"
+    },
+    {
+      "name": "Muhit Islam Emon",
+      "designation": "Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/muhit.emon",
+      "text": "Muhit Islam Emon, Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/muhit.emon"
+    },
+    {
+      "name": "Yeasir Rayhan",
+      "designation": "Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/yrp111",
+      "text": "Yeasir Rayhan, Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/yrp111"
+    },
+    {
+      "name": "Mostofa Rafid Uddin",
+      "designation": "Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/rafid_duran",
+      "text": "Mostofa Rafid Uddin, Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/rafid_duran"
+    },
+    {
+      "name": "Md. Mahir Ashhab",
+      "designation": "Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/mahir.ashhab",
+      "text": "Md. Mahir Ashhab, Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/mahir.ashhab"
+    },
+    {
+      "name": "Sadika Islam Sneha",
+      "designation": "Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/sadika.sneha",
+      "text": "Sadika Islam Sneha, Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/sadika.sneha"
+    },
+    {
+      "name": "Md. Khalid Mahbub Khan",
+      "designation": "Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/khalid.khan",
+      "text": "Md. Khalid Mahbub Khan, Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/khalid.khan"
+    },
+    {
+      "name": "Amit Mandal",
+      "designation": "Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/amit.mandal",
+      "text": "Amit Mandal, Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/amit.mandal"
+    },
+    {
+      "name": "Nishat Tasnim Niloy",
+      "designation": "Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/nishat.niloy",
+      "text": "Nishat Tasnim Niloy, Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/nishat.niloy"
+    },
+    {
+      "name": "Mahmuda Rawnak Jahan",
+      "designation": "Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/mahmuda.jahan",
+      "text": "Mahmuda Rawnak Jahan, Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/mahmuda.jahan"
+    },
+    {
+      "name": "Ahmed Abdal Shafi Rasel",
+      "designation": "Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/ahmed.shafi",
+      "text": "Ahmed Abdal Shafi Rasel, Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/ahmed.shafi"
+    },
+    {
+      "name": "Sadia Nur Amin",
+      "designation": "Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/sadian.amin",
+      "text": "Sadia Nur Amin, Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/sadian.amin"
+    },
+    {
+      "name": "Fouzia Risdin",
+      "designation": "Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/fouzia.risdin",
+      "text": "Fouzia Risdin, Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/fouzia.risdin"
+    },
+    {
+      "name": "Md. Arman Hossain",
+      "designation": "Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/arman.hossain",
+      "text": "Md. Arman Hossain, Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/arman.hossain"
+    },
+    {
+      "name": "Puja Chakraborty",
+      "designation": "Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/puja.chakraborty",
+      "text": "Puja Chakraborty, Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/puja.chakraborty"
+    },
+    {
+      "name": "Khairum Islam",
+      "designation": "Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/khairum.islam",
+      "text": "Khairum Islam, Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/khairum.islam"
+    },
+    {
+      "name": "Nishat Tasnim",
+      "designation": "Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/nishat.tasnim",
+      "text": "Nishat Tasnim, Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/nishat.tasnim"
+    },
+    {
+      "name": "Md. Ashraful Haider Chowdhury",
+      "designation": "Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/ashraful.chowdhury",
+      "text": "Md. Ashraful Haider Chowdhury, Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/ashraful.chowdhury"
+    },
+    {
+      "name": "Md. Asif Khan Rifat",
+      "designation": "Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/asif.rifat",
+      "text": "Md. Asif Khan Rifat, Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/asif.rifat"
+    },
+    {
+      "name": "Md Sabbir Hossain",
+      "designation": "Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/sabbir.hossain",
+      "text": "Md Sabbir Hossain, Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/sabbir.hossain"
+    },
+    {
+      "name": "Yasin Sazid",
+      "designation": "Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/yasin.sazid",
+      "text": "Yasin Sazid, Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/yasin.sazid"
+    },
+    {
+      "name": "Rabea Khatun",
+      "designation": "Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/rabea.khatun",
+      "text": "Rabea Khatun, Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/rabea.khatun"
+    },
+    {
+      "name": "Shatabdi Roy Moon",
+      "designation": "Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/shatabdi.moon",
+      "text": "Shatabdi Roy Moon, Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/shatabdi.moon"
+    },
+    {
+      "name": "Sanzana Karim Lora",
+      "designation": "Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/sanzana.lora",
+      "text": "Sanzana Karim Lora, Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/sanzana.lora"
+    },
+    {
+      "name": "Mahmudul Islam Rakib",
+      "designation": "Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/mahmudul.rakib",
+      "text": "Mahmudul Islam Rakib, Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/mahmudul.rakib"
+    },
+    {
+      "name": "K. M. Safin Kamal",
+      "designation": "Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/safin.kamal",
+      "text": "K. M. Safin Kamal, Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/safin.kamal"
+    },
+    {
+      "name": "Md. Adnan Morshed",
+      "designation": "Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/adnan.morshed",
+      "text": "Md. Adnan Morshed, Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/adnan.morshed"
+    },
+    {
+      "name": "Asraf Ullah Rahat",
+      "designation": "Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/asraf.rahat",
+      "text": "Asraf Ullah Rahat, Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/asraf.rahat"
+    },
+    {
+      "name": "Antu Chowdhury",
+      "designation": "Lecturer",
+      "department": "Computer Science Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/antu.chowdhury",
+      "text": "Antu Chowdhury, Lecturer, Department of Computer Science Engineering. Profile: https://fse.ewubd.edu/faculty-view/antu.chowdhury"
+    },
+    {
+      "name": "Dr. Anisul Haque",
+      "designation": "Professor",
+      "department": "Electrical Electronic Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/ahaque",
+      "text": "Dr. Anisul Haque, Professor, Department of Electrical Electronic Engineering. Profile: https://fse.ewubd.edu/faculty-view/ahaque"
+    },
+    {
+      "name": "Khairul Alam, PhD",
+      "designation": "Chairperson, Professor",
+      "department": "Electrical Electronic Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/kalam",
+      "text": "Khairul Alam, PhD, Chairperson, Professor, Department of Electrical Electronic Engineering. Profile: https://fse.ewubd.edu/faculty-view/kalam"
+    },
+    {
+      "name": "Dr. Mohammad Mojammel Al Hakim",
+      "designation": "Professor",
+      "department": "Electrical Electronic Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/dmmah",
+      "text": "Dr. Mohammad Mojammel Al Hakim, Professor, Department of Electrical Electronic Engineering. Profile: https://fse.ewubd.edu/faculty-view/dmmah"
+    },
+    {
+      "name": "Dr. Mohammad Ryyan Khan",
+      "designation": "Associate Professor",
+      "department": "Electrical Electronic Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/ryyan",
+      "text": "Dr. Mohammad Ryyan Khan, Associate Professor, Department of Electrical Electronic Engineering. Profile: https://fse.ewubd.edu/faculty-view/ryyan"
+    },
+    {
+      "name": "Dr. Mohammed Moseeur Rahman",
+      "designation": "Associate Professor",
+      "department": "Electrical Electronic Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/moseeur",
+      "text": "Dr. Mohammed Moseeur Rahman, Associate Professor, Department of Electrical Electronic Engineering. Profile: https://fse.ewubd.edu/faculty-view/moseeur"
+    },
+    {
+      "name": "Dr. Ratil Hasnat",
+      "designation": "Associate Professor",
+      "department": "Electrical Electronic Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/ratil.hasnat",
+      "text": "Dr. Ratil Hasnat, Associate Professor, Department of Electrical Electronic Engineering. Profile: https://fse.ewubd.edu/faculty-view/ratil.hasnat"
+    },
+    {
+      "name": "Dr. Muhammed Mazharul Islam",
+      "designation": "Assistant Professor",
+      "department": "Electrical Electronic Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/mmai",
+      "text": "Dr. Muhammed Mazharul Islam, Assistant Professor, Department of Electrical Electronic Engineering. Profile: https://fse.ewubd.edu/faculty-view/mmai"
+    },
+    {
+      "name": "Dr. Halima Begum",
+      "designation": "Assistant Professor",
+      "department": "Electrical Electronic Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/hab",
+      "text": "Dr. Halima Begum, Assistant Professor, Department of Electrical Electronic Engineering. Profile: https://fse.ewubd.edu/faculty-view/hab"
+    },
+    {
+      "name": "Dr. Fakir Mashuque Alamgir",
+      "designation": "Assistant Professor",
+      "department": "Electrical Electronic Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/fma",
+      "text": "Dr. Fakir Mashuque Alamgir, Assistant Professor, Department of Electrical Electronic Engineering. Profile: https://fse.ewubd.edu/faculty-view/fma"
+    },
+    {
+      "name": "Dr. Farhana Parveen",
+      "designation": "Assistant Professor",
+      "department": "Electrical Electronic Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/farhana.parveen",
+      "text": "Dr. Farhana Parveen, Assistant Professor, Department of Electrical Electronic Engineering. Profile: https://fse.ewubd.edu/faculty-view/farhana.parveen"
+    },
+    {
+      "name": "Kamanashis Saha",
+      "designation": "Lecturer",
+      "department": "Electrical Electronic Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/kamanashis.saha",
+      "text": "Kamanashis Saha, Lecturer, Department of Electrical Electronic Engineering. Profile: https://fse.ewubd.edu/faculty-view/kamanashis.saha"
+    },
+    {
+      "name": "S. M. Raiyan Chowdhury",
+      "designation": "Lecturer",
+      "department": "Electrical Electronic Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/raiyan",
+      "text": "S. M. Raiyan Chowdhury, Lecturer, Department of Electrical Electronic Engineering. Profile: https://fse.ewubd.edu/faculty-view/raiyan"
+    },
+    {
+      "name": "Rizwan Shaikh",
+      "designation": "Lecturer",
+      "department": "Electrical Electronic Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/rshaikh",
+      "text": "Rizwan Shaikh, Lecturer, Department of Electrical Electronic Engineering. Profile: https://fse.ewubd.edu/faculty-view/rshaikh"
+    },
+    {
+      "name": "Md. Abdur Rahman",
+      "designation": "Lecturer",
+      "department": "Electrical Electronic Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/abdur.rahman",
+      "text": "Md. Abdur Rahman, Lecturer, Department of Electrical Electronic Engineering. Profile: https://fse.ewubd.edu/faculty-view/abdur.rahman"
+    },
+    {
+      "name": "Shovon Talukder",
+      "designation": "Lecturer",
+      "department": "Electrical Electronic Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/shovon.talukder",
+      "text": "Shovon Talukder, Lecturer, Department of Electrical Electronic Engineering. Profile: https://fse.ewubd.edu/faculty-view/shovon.talukder"
+    },
+    {
+      "name": "Sidrat Muntaha Nur Pranto",
+      "designation": "Lecturer",
+      "department": "Electrical Electronic Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/sidrat.pranto",
+      "text": "Sidrat Muntaha Nur Pranto, Lecturer, Department of Electrical Electronic Engineering. Profile: https://fse.ewubd.edu/faculty-view/sidrat.pranto"
+    },
+    {
+      "name": "Dr. Md. Mohiuddin Kabir",
+      "designation": "Associate Professor",
+      "department": "Genetic Engineering Biotechnology",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/mmkabir",
+      "text": "Dr. Md. Mohiuddin Kabir, Associate Professor, Department of Genetic Engineering Biotechnology. Profile: https://fse.ewubd.edu/faculty-view/mmkabir"
+    },
+    {
+      "name": "Suraia Nusrin",
+      "designation": "Chairperson, Associate Professor",
+      "department": "Genetic Engineering Biotechnology",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/sunewu",
+      "text": "Suraia Nusrin, Chairperson, Associate Professor, Department of Genetic Engineering Biotechnology. Profile: https://fse.ewubd.edu/faculty-view/sunewu"
+    },
+    {
+      "name": "Mst Murshida Mahbub",
+      "designation": "Assistant Professor",
+      "department": "Genetic Engineering Biotechnology",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/murshida",
+      "text": "Mst Murshida Mahbub, Assistant Professor, Department of Genetic Engineering Biotechnology. Profile: https://fse.ewubd.edu/faculty-view/murshida"
+    },
+    {
+      "name": "Dr. Md. Hamed Hussain",
+      "designation": "Assistant Professor",
+      "department": "Genetic Engineering Biotechnology",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/hamed.hussain",
+      "text": "Dr. Md. Hamed Hussain, Assistant Professor, Department of Genetic Engineering Biotechnology. Profile: https://fse.ewubd.edu/faculty-view/hamed.hussain"
+    },
+    {
+      "name": "Dr. Afsana Bhuiyan Toma",
+      "designation": "Assistant Professor",
+      "department": "Genetic Engineering Biotechnology",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/afsana.toma",
+      "text": "Dr. Afsana Bhuiyan Toma, Assistant Professor, Department of Genetic Engineering Biotechnology. Profile: https://fse.ewubd.edu/faculty-view/afsana.toma"
+    },
+    {
+      "name": "Roushney Fatima Mukti",
+      "designation": "Senior Lecturer",
+      "department": "Genetic Engineering Biotechnology",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/roushney",
+      "text": "Roushney Fatima Mukti, Senior Lecturer, Department of Genetic Engineering Biotechnology. Profile: https://fse.ewubd.edu/faculty-view/roushney"
+    },
+    {
+      "name": "Zinat Farzana",
+      "designation": "Senior Lecturer",
+      "department": "Genetic Engineering Biotechnology",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/zfarzana",
+      "text": "Zinat Farzana, Senior Lecturer, Department of Genetic Engineering Biotechnology. Profile: https://fse.ewubd.edu/faculty-view/zfarzana"
+    },
+    {
+      "name": "Nusrat Jahan Antora",
+      "designation": "Senior Lecturer",
+      "department": "Genetic Engineering Biotechnology",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/nusrat.antu",
+      "text": "Nusrat Jahan Antora, Senior Lecturer, Department of Genetic Engineering Biotechnology. Profile: https://fse.ewubd.edu/faculty-view/nusrat.antu"
+    },
+    {
+      "name": "Tasmia Islam",
+      "designation": "Senior Lecturer",
+      "department": "Genetic Engineering Biotechnology",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/tasmia.islam",
+      "text": "Tasmia Islam, Senior Lecturer, Department of Genetic Engineering Biotechnology. Profile: https://fse.ewubd.edu/faculty-view/tasmia.islam"
+    },
+    {
+      "name": "Md. Taufiqul Islam",
+      "designation": "Lecturer",
+      "department": "Genetic Engineering Biotechnology",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/taufiqul.islam",
+      "text": "Md. Taufiqul Islam, Lecturer, Department of Genetic Engineering Biotechnology. Profile: https://fse.ewubd.edu/faculty-view/taufiqul.islam"
+    },
+    {
+      "name": "Md. Anwar Hossain Adib",
+      "designation": "Lecturer",
+      "department": "Genetic Engineering Biotechnology",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/anwar.adib",
+      "text": "Md. Anwar Hossain Adib, Lecturer, Department of Genetic Engineering Biotechnology. Profile: https://fse.ewubd.edu/faculty-view/anwar.adib"
+    },
+    {
+      "name": "Md. Aminul Islam",
+      "designation": "Lecturer",
+      "department": "Genetic Engineering Biotechnology",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/mdaminul.islam",
+      "text": "Md. Aminul Islam, Lecturer, Department of Genetic Engineering Biotechnology. Profile: https://fse.ewubd.edu/faculty-view/mdaminul.islam"
+    },
+    {
+      "name": "Dr. Chowdhury Faiz Hossain",
+      "designation": "Professor",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/faiz",
+      "text": "Dr. Chowdhury Faiz Hossain, Professor, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/faiz"
+    },
+    {
+      "name": "Dr. Shamsun Nahar Khan",
+      "designation": "Professor",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/shamsun",
+      "text": "Dr. Shamsun Nahar Khan, Professor, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/shamsun"
+    },
+    {
+      "name": "Dr. Md. Amirul Islam",
+      "designation": "Chairperson, Professor",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/amirul.islam",
+      "text": "Dr. Md. Amirul Islam, Chairperson, Professor, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/amirul.islam"
+    },
+    {
+      "name": "Dr. Farhana Rizwan",
+      "designation": "Associate Professor",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/frezwan",
+      "text": "Dr. Farhana Rizwan, Associate Professor, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/frezwan"
+    },
+    {
+      "name": "Dr. Nazia Hoque",
+      "designation": "Associate Professor",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/nzh",
+      "text": "Dr. Nazia Hoque, Associate Professor, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/nzh"
+    },
+    {
+      "name": "Dr. Rejina Afrin",
+      "designation": "Associate Professor",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/drja",
+      "text": "Dr. Rejina Afrin, Associate Professor, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/drja"
+    },
+    {
+      "name": "Dr. Farjana Khatun",
+      "designation": "Associate Professor",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/fkh",
+      "text": "Dr. Farjana Khatun, Associate Professor, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/fkh"
+    },
+    {
+      "name": "Nishat Nasrin",
+      "designation": "Assistant Professor",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/nishat",
+      "text": "Nishat Nasrin, Assistant Professor, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/nishat"
+    },
+    {
+      "name": "Md. Anisur Rahman",
+      "designation": "Assistant Professor",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/arr",
+      "text": "Md. Anisur Rahman, Assistant Professor, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/arr"
+    },
+    {
+      "name": "Dr. Shawkat Md Aminul Islam",
+      "designation": "Assistant Professor",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/dsislam",
+      "text": "Dr. Shawkat Md Aminul Islam, Assistant Professor, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/dsislam"
+    },
+    {
+      "name": "Nigar Sultana Tithi",
+      "designation": "Senior Lecturer",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/ngst",
+      "text": "Nigar Sultana Tithi, Senior Lecturer, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/ngst"
+    },
+    {
+      "name": "Mst. Marium Begum",
+      "designation": "Senior Lecturer",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/mrb",
+      "text": "Mst. Marium Begum, Senior Lecturer, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/mrb"
+    },
+    {
+      "name": "Meena Afroze Shanta",
+      "designation": "Senior Lecturer",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/masa",
+      "text": "Meena Afroze Shanta, Senior Lecturer, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/masa"
+    },
+    {
+      "name": "Nafisa Tanjia",
+      "designation": "Senior Lecturer",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/nafisa",
+      "text": "Nafisa Tanjia, Senior Lecturer, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/nafisa"
+    },
+    {
+      "name": "Najneen Ahmed",
+      "designation": "Senior Lecturer",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/nna",
+      "text": "Najneen Ahmed, Senior Lecturer, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/nna"
+    },
+    {
+      "name": "Kushal Biswas",
+      "designation": "Senior Lecturer",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/ksb",
+      "text": "Kushal Biswas, Senior Lecturer, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/ksb"
+    },
+    {
+      "name": "Marjana Khalil",
+      "designation": "Senior Lecturer",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/mznk",
+      "text": "Marjana Khalil, Senior Lecturer, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/mznk"
+    },
+    {
+      "name": "Mohammad Saleh Yunus",
+      "designation": "Senior Lecturer",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/sya",
+      "text": "Mohammad Saleh Yunus, Senior Lecturer, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/sya"
+    },
+    {
+      "name": "Sanzana Fareen Rivu",
+      "designation": "Senior Lecturer",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/szfr",
+      "text": "Sanzana Fareen Rivu, Senior Lecturer, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/szfr"
+    },
+    {
+      "name": "Ms. Tasnova Tasnim Nova",
+      "designation": "Senior Lecturer",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/ttm",
+      "text": "Ms. Tasnova Tasnim Nova, Senior Lecturer, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/ttm"
+    },
+    {
+      "name": "Mamunur Rahman",
+      "designation": "Senior Lecturer",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/mnr",
+      "text": "Mamunur Rahman, Senior Lecturer, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/mnr"
+    },
+    {
+      "name": "Rupali Ghosh",
+      "designation": "Senior Lecturer",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/rg",
+      "text": "Rupali Ghosh, Senior Lecturer, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/rg"
+    },
+    {
+      "name": "Shahnaz Siddiqua",
+      "designation": "Senior Lecturer",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/shahnaz",
+      "text": "Shahnaz Siddiqua, Senior Lecturer, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/shahnaz"
+    },
+    {
+      "name": "Parisa Tamannur Rashid",
+      "designation": "Senior Lecturer",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/parisa.rashid",
+      "text": "Parisa Tamannur Rashid, Senior Lecturer, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/parisa.rashid"
+    },
+    {
+      "name": "Ms. Samiha Tamanna",
+      "designation": "Lecturer",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/samiha.tamanna",
+      "text": "Ms. Samiha Tamanna, Lecturer, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/samiha.tamanna"
+    },
+    {
+      "name": "Omar Faruk",
+      "designation": "Lecturer",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/omar.faruk",
+      "text": "Omar Faruk, Lecturer, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/omar.faruk"
+    },
+    {
+      "name": "Nazifa Tabassum",
+      "designation": "Lecturer",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/nazifa.tabassum",
+      "text": "Nazifa Tabassum, Lecturer, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/nazifa.tabassum"
+    },
+    {
+      "name": "Basrat Jahan Deea",
+      "designation": "Lecturer",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/basrat.deea",
+      "text": "Basrat Jahan Deea, Lecturer, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/basrat.deea"
+    },
+    {
+      "name": "Farhana Akter",
+      "designation": "Lecturer",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/farhana.akter",
+      "text": "Farhana Akter, Lecturer, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/farhana.akter"
+    },
+    {
+      "name": "Rashmia Nargis Reyda",
+      "designation": "Lecturer",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/rashmia.reyda",
+      "text": "Rashmia Nargis Reyda, Lecturer, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/rashmia.reyda"
+    },
+    {
+      "name": "Sowkat Jahan Shipa",
+      "designation": "Lecturer",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/sowkat.shipa",
+      "text": "Sowkat Jahan Shipa, Lecturer, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/sowkat.shipa"
+    },
+    {
+      "name": "Md. Zahirul Islam",
+      "designation": "Lecturer",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/mzi",
+      "text": "Md. Zahirul Islam, Lecturer, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/mzi"
+    },
+    {
+      "name": "Md. Jahid Hossain",
+      "designation": "Lecturer",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/jahid.hossain",
+      "text": "Md. Jahid Hossain, Lecturer, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/jahid.hossain"
+    },
+    {
+      "name": "Abida Sultana",
+      "designation": "Lecturer",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/abida.sultana",
+      "text": "Abida Sultana, Lecturer, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/abida.sultana"
+    },
+    {
+      "name": "Ripa Kundu",
+      "designation": "Lecturer",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/ripa.kundu",
+      "text": "Ripa Kundu, Lecturer, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/ripa.kundu"
+    },
+    {
+      "name": "Joya Rani",
+      "designation": "Lecturer",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/joya.rani",
+      "text": "Joya Rani, Lecturer, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/joya.rani"
+    },
+    {
+      "name": "Susmita Das",
+      "designation": "Lecturer",
+      "department": "Pharmacy Department",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/susmita.das",
+      "text": "Susmita Das, Lecturer, Department of Pharmacy Department. Profile: https://fse.ewubd.edu/faculty-view/susmita.das"
+    },
+    {
+      "name": "Dr. Md. Saiful Islam",
+      "designation": "Professor",
+      "department": "Civil Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/msaiful.islam",
+      "text": "Dr. Md. Saiful Islam, Professor, Department of Civil Engineering. Profile: https://fse.ewubd.edu/faculty-view/msaiful.islam"
+    },
+    {
+      "name": "Dr. Md. Naimul Haque",
+      "designation": "Chairperson, Associate Professor",
+      "department": "Civil Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/naimul",
+      "text": "Dr. Md. Naimul Haque, Chairperson, Associate Professor, Department of Civil Engineering. Profile: https://fse.ewubd.edu/faculty-view/naimul"
+    },
+    {
+      "name": "Dr. Md. Tawfiq Sarwar",
+      "designation": "Associate Professor",
+      "department": "Civil Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/mdtawfiq",
+      "text": "Dr. Md. Tawfiq Sarwar, Associate Professor, Department of Civil Engineering. Profile: https://fse.ewubd.edu/faculty-view/mdtawfiq"
+    },
+    {
+      "name": "Dr. Md. Alhaz Uddin",
+      "designation": "Associate Professor",
+      "department": "Civil Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/alhaz.uddin",
+      "text": "Dr. Md. Alhaz Uddin, Associate Professor, Department of Civil Engineering. Profile: https://fse.ewubd.edu/faculty-view/alhaz.uddin"
+    },
+    {
+      "name": "Dr. Engr. Mohammad Kamruzzaman Talukder",
+      "designation": "Assistant Professor",
+      "department": "Civil Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/mktalukder",
+      "text": "Dr. Engr. Mohammad Kamruzzaman Talukder, Assistant Professor, Department of Civil Engineering. Profile: https://fse.ewubd.edu/faculty-view/mktalukder"
+    },
+    {
+      "name": "Dr. Khondoker Al Sabbir Billah",
+      "designation": "Assistant Professor",
+      "department": "Civil Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/khondoker.billah",
+      "text": "Dr. Khondoker Al Sabbir Billah, Assistant Professor, Department of Civil Engineering. Profile: https://fse.ewubd.edu/faculty-view/khondoker.billah"
+    },
+    {
+      "name": "Dr. Sadik Rahman",
+      "designation": "Assistant Professor",
+      "department": "Civil Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/sadik.rahman",
+      "text": "Dr. Sadik Rahman, Assistant Professor, Department of Civil Engineering. Profile: https://fse.ewubd.edu/faculty-view/sadik.rahman"
+    },
+    {
+      "name": "Fuad Yasin Huda",
+      "designation": "Senior Lecturer",
+      "department": "Civil Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/fuad.huda",
+      "text": "Fuad Yasin Huda, Senior Lecturer, Department of Civil Engineering. Profile: https://fse.ewubd.edu/faculty-view/fuad.huda"
+    },
+    {
+      "name": "Md. Rizwane Muztaba Khan",
+      "designation": "Lecturer",
+      "department": "Civil Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/rizwane.khan",
+      "text": "Md. Rizwane Muztaba Khan, Lecturer, Department of Civil Engineering. Profile: https://fse.ewubd.edu/faculty-view/rizwane.khan"
+    },
+    {
+      "name": "Sajedur Rahman",
+      "designation": "Lecturer",
+      "department": "Civil Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/sajedur.rahman",
+      "text": "Sajedur Rahman, Lecturer, Department of Civil Engineering. Profile: https://fse.ewubd.edu/faculty-view/sajedur.rahman"
+    },
+    {
+      "name": "Md Taki Tajwar",
+      "designation": "Lecturer",
+      "department": "Civil Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/taki.tajwar",
+      "text": "Md Taki Tajwar, Lecturer, Department of Civil Engineering. Profile: https://fse.ewubd.edu/faculty-view/taki.tajwar"
+    },
+    {
+      "name": "Engineer AKM Ibrahim",
+      "designation": "Adjunct Faculty",
+      "department": "Civil Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/akm.ibrahim",
+      "text": "Engineer AKM Ibrahim, Adjunct Faculty, Department of Civil Engineering. Profile: https://fse.ewubd.edu/faculty-view/akm.ibrahim"
+    },
+    {
+      "name": "Dr. Ripon Hore",
+      "designation": "Adjunct Faculty",
+      "department": "Civil Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/ripon.hore",
+      "text": "Dr. Ripon Hore, Adjunct Faculty, Department of Civil Engineering. Profile: https://fse.ewubd.edu/faculty-view/ripon.hore"
+    },
+    {
+      "name": "Dr. Muhammad Mukhlesur Rahman",
+      "designation": "Adjunct Faculty",
+      "department": "Civil Engineering",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/mukhlesur.rahman",
+      "text": "Dr. Muhammad Mukhlesur Rahman, Adjunct Faculty, Department of Civil Engineering. Profile: https://fse.ewubd.edu/faculty-view/mukhlesur.rahman"
+    },
+    {
+      "name": "M. Ruhul Amin",
+      "designation": "Professor",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/ramin",
+      "text": "M. Ruhul Amin, Professor, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/ramin"
+    },
+    {
+      "name": "Dr. Gurudas Mandal",
+      "designation": "Professor",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/gdmandal",
+      "text": "Dr. Gurudas Mandal, Professor, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/gdmandal"
+    },
+    {
+      "name": "Dr. Anindita Paul",
+      "designation": "Chairperson, Professor",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/apaul",
+      "text": "Dr. Anindita Paul, Chairperson, Professor, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/apaul"
+    },
+    {
+      "name": "Dr. Fazlul Karim",
+      "designation": "Professor",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/fkarim",
+      "text": "Dr. Fazlul Karim, Professor, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/fkarim"
+    },
+    {
+      "name": "Dr. Md. Sohel Rana",
+      "designation": "Professor",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/srana",
+      "text": "Dr. Md. Sohel Rana, Professor, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/srana"
+    },
+    {
+      "name": "Dr. Zubair Hasan",
+      "designation": "Associate Professor",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/zhasan",
+      "text": "Dr. Zubair Hasan, Associate Professor, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/zhasan"
+    },
+    {
+      "name": "Dr. Md. Nazmul Abedin Khan",
+      "designation": "Associate Professor",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/nazmul.ch",
+      "text": "Dr. Md. Nazmul Abedin Khan, Associate Professor, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/nazmul.ch"
+    },
+    {
+      "name": "Dr. Thamina Acter",
+      "designation": "Associate Professor",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/aktermina10",
+      "text": "Dr. Thamina Acter, Associate Professor, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/aktermina10"
+    },
+    {
+      "name": "Dr. A. K. M. Nazimuddin",
+      "designation": "Assistant Professor",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/nazimuddin",
+      "text": "Dr. A. K. M. Nazimuddin, Assistant Professor, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/nazimuddin"
+    },
+    {
+      "name": "Dr. Sonia Akter Ema",
+      "designation": "Assistant Professor",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/sonia.ema",
+      "text": "Dr. Sonia Akter Ema, Assistant Professor, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/sonia.ema"
+    },
+    {
+      "name": "Dr. Md. Sahidul Islam",
+      "designation": "Assistant Professor",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/sis",
+      "text": "Dr. Md. Sahidul Islam, Assistant Professor, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/sis"
+    },
+    {
+      "name": "Dr. Nasima Akter Mukta",
+      "designation": "Assistant Professor",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/nasima.mukta",
+      "text": "Dr. Nasima Akter Mukta, Assistant Professor, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/nasima.mukta"
+    },
+    {
+      "name": "Dr. Md. Mongur Hossain",
+      "designation": "Assistant Professor",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/mongur.hossain",
+      "text": "Dr. Md. Mongur Hossain, Assistant Professor, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/mongur.hossain"
+    },
+    {
+      "name": "M H M Imrul Kabir",
+      "designation": "Senior Lecturer",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/ikabir",
+      "text": "M H M Imrul Kabir, Senior Lecturer, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/ikabir"
+    },
+    {
+      "name": "Shamima Hossain",
+      "designation": "Senior Lecturer",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/shh",
+      "text": "Shamima Hossain, Senior Lecturer, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/shh"
+    },
+    {
+      "name": "Afsana- Al- Sharmin",
+      "designation": "Senior Lecturer",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/aas",
+      "text": "Afsana- Al- Sharmin, Senior Lecturer, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/aas"
+    },
+    {
+      "name": "Kazi Md. Farhad Mahmud",
+      "designation": "Senior Lecturer",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/kmfm",
+      "text": "Kazi Md. Farhad Mahmud, Senior Lecturer, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/kmfm"
+    },
+    {
+      "name": "Saima Jahan",
+      "designation": "Senior Lecturer",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/sjjahan",
+      "text": "Saima Jahan, Senior Lecturer, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/sjjahan"
+    },
+    {
+      "name": "F. M. Arifur Rahman",
+      "designation": "Senior Lecturer",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/fmar",
+      "text": "F. M. Arifur Rahman, Senior Lecturer, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/fmar"
+    },
+    {
+      "name": "Ms. Nazia Afrin",
+      "designation": "Senior Lecturer",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/n.afrin",
+      "text": "Ms. Nazia Afrin, Senior Lecturer, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/n.afrin"
+    },
+    {
+      "name": "Ms. Nahid Farzana Juthi",
+      "designation": "Lecturer",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/nahid.farzana",
+      "text": "Ms. Nahid Farzana Juthi, Lecturer, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/nahid.farzana"
+    },
+    {
+      "name": "Trishna Datta",
+      "designation": "Lecturer",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/trishna.datta",
+      "text": "Trishna Datta, Lecturer, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/trishna.datta"
+    },
+    {
+      "name": "Kazi Nusrat Islam",
+      "designation": "Lecturer",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/nusrat.islam",
+      "text": "Kazi Nusrat Islam, Lecturer, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/nusrat.islam"
+    },
+    {
+      "name": "Nazia Ahmed",
+      "designation": "Lecturer",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/nazia.ahmed",
+      "text": "Nazia Ahmed, Lecturer, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/nazia.ahmed"
+    },
+    {
+      "name": "Nilufar Yasmin",
+      "designation": "Lecturer",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/nilufar.yasmin",
+      "text": "Nilufar Yasmin, Lecturer, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/nilufar.yasmin"
+    },
+    {
+      "name": "Kazi Mehedi Mohammad",
+      "designation": "Lecturer",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/mehedi.mohammad",
+      "text": "Kazi Mehedi Mohammad, Lecturer, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/mehedi.mohammad"
+    },
+    {
+      "name": "Asad Mahdi",
+      "designation": "Lecturer",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/asad.mahdi",
+      "text": "Asad Mahdi, Lecturer, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/asad.mahdi"
+    },
+    {
+      "name": "Aswariya Roy",
+      "designation": "Lecturer",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/aswariya.roy",
+      "text": "Aswariya Roy, Lecturer, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/aswariya.roy"
+    },
+    {
+      "name": "Shobha Islam",
+      "designation": "Lecturer",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/shobha.islam",
+      "text": "Shobha Islam, Lecturer, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/shobha.islam"
+    },
+    {
+      "name": "Apurbo Roy Chowdhury",
+      "designation": "Lecturer",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/apurbo.roy",
+      "text": "Apurbo Roy Chowdhury, Lecturer, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/apurbo.roy"
+    },
+    {
+      "name": "Bitu Joydhar",
+      "designation": "Lecturer",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/bitu.joydhar",
+      "text": "Bitu Joydhar, Lecturer, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/bitu.joydhar"
+    },
+    {
+      "name": "Sumaiya Akter",
+      "designation": "Lecturer",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/sumaiya.akter",
+      "text": "Sumaiya Akter, Lecturer, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/sumaiya.akter"
+    },
+    {
+      "name": "Asifur Rahman",
+      "designation": "Lecturer",
+      "department": "Mathematical Physical Science",
+      "profile_url": "https://fse.ewubd.edu/faculty-view/asifur.rahman",
+      "text": "Asifur Rahman, Lecturer, Department of Mathematical Physical Science. Profile: https://fse.ewubd.edu/faculty-view/asifur.rahman"
+    },
+    {
+      "name": "Professor Shams Rahman",
+      "designation": "Vice Chancellor, Professor",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/shams.rahman",
+      "text": "Professor Shams Rahman, Vice Chancellor, Professor, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/shams.rahman"
+    },
+    {
+      "name": "Dr. Tanbir Ahmed Chowdhury",
+      "designation": "Professor",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/tanbir",
+      "text": "Dr. Tanbir Ahmed Chowdhury, Professor, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/tanbir"
+    },
+    {
+      "name": "Dr. Anup Chowdhury",
+      "designation": "Dean, Professor",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/anup",
+      "text": "Dr. Anup Chowdhury, Dean, Professor, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/anup"
+    },
+    {
+      "name": "Dr. Jashim Uddin",
+      "designation": "Professor",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/juddin",
+      "text": "Dr. Jashim Uddin, Professor, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/juddin"
+    },
+    {
+      "name": "Dr. Farhana Ferdousi",
+      "designation": "Chairperson, Professor",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/farhana",
+      "text": "Dr. Farhana Ferdousi, Chairperson, Professor, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/farhana"
+    },
+    {
+      "name": "Dr. Nikhil Chandra Shil",
+      "designation": "Professor",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/nikhil",
+      "text": "Dr. Nikhil Chandra Shil, Professor, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/nikhil"
+    },
+    {
+      "name": "Dr. M Sayeed Alam",
+      "designation": "Associate Professor, Coordinator",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/sayeed",
+      "text": "Dr. M Sayeed Alam, Associate Professor, Coordinator, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/sayeed"
+    },
+    {
+      "name": "Dr. Rumana Afroze",
+      "designation": "Associate Professor",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/rua",
+      "text": "Dr. Rumana Afroze, Associate Professor, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/rua"
+    },
+    {
+      "name": "Dr. Md. Rashidul Islam",
+      "designation": "Associate Professor",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/mrdi",
+      "text": "Dr. Md. Rashidul Islam, Associate Professor, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/mrdi"
+    },
+    {
+      "name": "Dr. Quazi Sagota Samina",
+      "designation": "Associate Professor",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/qss",
+      "text": "Dr. Quazi Sagota Samina, Associate Professor, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/qss"
+    },
+    {
+      "name": "Dr. Md. Atiqur Rahman Sarker",
+      "designation": "Associate Professor",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/mars",
+      "text": "Dr. Md. Atiqur Rahman Sarker, Associate Professor, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/mars"
+    },
+    {
+      "name": "Dr. Salma Akter",
+      "designation": "Associate Professor",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/drsalma",
+      "text": "Dr. Salma Akter, Associate Professor, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/drsalma"
+    },
+    {
+      "name": "Dr. Mohammad Zakaria Masud",
+      "designation": "Associate Professor",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/zakaria.masud",
+      "text": "Dr. Mohammad Zakaria Masud, Associate Professor, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/zakaria.masud"
+    },
+    {
+      "name": "Md. Kamrul Hassan",
+      "designation": "Assistant Professor",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/kamrul",
+      "text": "Md. Kamrul Hassan, Assistant Professor, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/kamrul"
+    },
+    {
+      "name": "Mr. Omar Faruq",
+      "designation": "Assistant Professor",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/omar",
+      "text": "Mr. Omar Faruq, Assistant Professor, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/omar"
+    },
+    {
+      "name": "Ms. Kohinoor Biswas",
+      "designation": "Assistant Professor",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/kohinoor",
+      "text": "Ms. Kohinoor Biswas, Assistant Professor, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/kohinoor"
+    },
+    {
+      "name": "Dr Mohammad Al Mamun",
+      "designation": "Assistant Professor",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/alm",
+      "text": "Dr Mohammad Al Mamun, Assistant Professor, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/alm"
+    },
+    {
+      "name": "Md. Farhan Faruqui",
+      "designation": "Assistant Professor",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/farhan",
+      "text": "Md. Farhan Faruqui, Assistant Professor, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/farhan"
+    },
+    {
+      "name": "Md. Anamul Hoque",
+      "designation": "Assistant Professor",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/a_haque",
+      "text": "Md. Anamul Hoque, Assistant Professor, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/a_haque"
+    },
+    {
+      "name": "Abu Sadat Muhammad Ashif",
+      "designation": "Assistant Professor",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/ashif",
+      "text": "Abu Sadat Muhammad Ashif, Assistant Professor, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/ashif"
+    },
+    {
+      "name": "Laila Zaman",
+      "designation": "Assistant Professor",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/lz",
+      "text": "Laila Zaman, Assistant Professor, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/lz"
+    },
+    {
+      "name": "Md. Sajjad Hossain",
+      "designation": "Assistant Professor",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/md.sajjad",
+      "text": "Md. Sajjad Hossain, Assistant Professor, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/md.sajjad"
+    },
+    {
+      "name": "Silvia Akter",
+      "designation": "Assistant Professor",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/silvia",
+      "text": "Silvia Akter, Assistant Professor, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/silvia"
+    },
+    {
+      "name": "Dr. Mohammad Masudur Rahman",
+      "designation": "Assistant Professor",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/masudur",
+      "text": "Dr. Mohammad Masudur Rahman, Assistant Professor, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/masudur"
+    },
+    {
+      "name": "Dr. Mahnoor Sattar",
+      "designation": "Assistant Professor",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/mahnoor",
+      "text": "Dr. Mahnoor Sattar, Assistant Professor, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/mahnoor"
+    },
+    {
+      "name": "Dr. Shabiha Akter",
+      "designation": "Assistant Professor",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/shabiha.akter",
+      "text": "Dr. Shabiha Akter, Assistant Professor, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/shabiha.akter"
+    },
+    {
+      "name": "Mashruha Zabeen",
+      "designation": "Senior Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/mhz",
+      "text": "Mashruha Zabeen, Senior Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/mhz"
+    },
+    {
+      "name": "Muhammad Ataur Rahman",
+      "designation": "Senior Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/ataur",
+      "text": "Muhammad Ataur Rahman, Senior Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/ataur"
+    },
+    {
+      "name": "Leo Vashkor Dewri",
+      "designation": "Senior Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/lvd",
+      "text": "Leo Vashkor Dewri, Senior Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/lvd"
+    },
+    {
+      "name": "Tamanna Parvin Eva",
+      "designation": "Senior Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/tamanna",
+      "text": "Tamanna Parvin Eva, Senior Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/tamanna"
+    },
+    {
+      "name": "Shakib Hossain Shuvo",
+      "designation": "Senior Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/shakib",
+      "text": "Shakib Hossain Shuvo, Senior Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/shakib"
+    },
+    {
+      "name": "Nazmul Hassan",
+      "designation": "Senior Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/n.hassan",
+      "text": "Nazmul Hassan, Senior Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/n.hassan"
+    },
+    {
+      "name": "Naharin Binte Rab",
+      "designation": "Senior Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/naharin",
+      "text": "Naharin Binte Rab, Senior Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/naharin"
+    },
+    {
+      "name": "Tania Hamid",
+      "designation": "Senior Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/thd",
+      "text": "Tania Hamid, Senior Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/thd"
+    },
+    {
+      "name": "Reaz Hafiz",
+      "designation": "Senior Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/reazhafiz",
+      "text": "Reaz Hafiz, Senior Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/reazhafiz"
+    },
+    {
+      "name": "Rehnuma Hoque Moutushi",
+      "designation": "Senior Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/rehnuma",
+      "text": "Rehnuma Hoque Moutushi, Senior Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/rehnuma"
+    },
+    {
+      "name": "Rashedul Hasan",
+      "designation": "Senior Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/rashedulhasan",
+      "text": "Rashedul Hasan, Senior Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/rashedulhasan"
+    },
+    {
+      "name": "Bushra Humyra Esha",
+      "designation": "Senior Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/esha_bushra",
+      "text": "Bushra Humyra Esha, Senior Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/esha_bushra"
+    },
+    {
+      "name": "Tanveer Kabir",
+      "designation": "Senior Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/tanveer.kabir",
+      "text": "Tanveer Kabir, Senior Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/tanveer.kabir"
+    },
+    {
+      "name": "Md. Humayun Kabir",
+      "designation": "Senior Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/humayun.kabir",
+      "text": "Md. Humayun Kabir, Senior Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/humayun.kabir"
+    },
+    {
+      "name": "Sunny Saha",
+      "designation": "Senior Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/sunnysaha",
+      "text": "Sunny Saha, Senior Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/sunnysaha"
+    },
+    {
+      "name": "Nurun Naher Popy",
+      "designation": "Senior Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/nnp_mkt",
+      "text": "Nurun Naher Popy, Senior Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/nnp_mkt"
+    },
+    {
+      "name": "Fariza Binte Mahbub",
+      "designation": "Senior Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/fariza.mahbub",
+      "text": "Fariza Binte Mahbub, Senior Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/fariza.mahbub"
+    },
+    {
+      "name": "Jannatul Ferdous Shetu",
+      "designation": "Senior Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/shetu",
+      "text": "Jannatul Ferdous Shetu, Senior Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/shetu"
+    },
+    {
+      "name": "Md Shafiqul Islam",
+      "designation": "Senior Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/shafiqul",
+      "text": "Md Shafiqul Islam, Senior Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/shafiqul"
+    },
+    {
+      "name": "Dewan Mehrab Ashrafi",
+      "designation": "Senior Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/dewan.ashrafi",
+      "text": "Dewan Mehrab Ashrafi, Senior Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/dewan.ashrafi"
+    },
+    {
+      "name": "Md. Miad Uddin Fahim",
+      "designation": "Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/miad.fahim",
+      "text": "Md. Miad Uddin Fahim, Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/miad.fahim"
+    },
+    {
+      "name": "Ms. Rafayat Jalal",
+      "designation": "Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/rafayat.jalal",
+      "text": "Ms. Rafayat Jalal, Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/rafayat.jalal"
+    },
+    {
+      "name": "Faizaa Zainab Khundker",
+      "designation": "Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/faizaa.khundker",
+      "text": "Faizaa Zainab Khundker, Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/faizaa.khundker"
+    },
+    {
+      "name": "Abdullah Al Sayed",
+      "designation": "Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/abdullah.sayed",
+      "text": "Abdullah Al Sayed, Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/abdullah.sayed"
+    },
+    {
+      "name": "Ahmad Asif Sami",
+      "designation": "Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/ahmad.sami",
+      "text": "Ahmad Asif Sami, Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/ahmad.sami"
+    },
+    {
+      "name": "Munira Parvin",
+      "designation": "Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/munira.parvin",
+      "text": "Munira Parvin, Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/munira.parvin"
+    },
+    {
+      "name": "Md Farvez Mosharrof",
+      "designation": "Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/farvez.mosharrof",
+      "text": "Md Farvez Mosharrof, Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/farvez.mosharrof"
+    },
+    {
+      "name": "Ummea Sahera Noume",
+      "designation": "Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/ummea.noume",
+      "text": "Ummea Sahera Noume, Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/ummea.noume"
+    },
+    {
+      "name": "Zahra Zubair Huq",
+      "designation": "Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/zahra.huq",
+      "text": "Zahra Zubair Huq, Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/zahra.huq"
+    },
+    {
+      "name": "Shabiha Afrin Sharna",
+      "designation": "Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/shabiha.sharna",
+      "text": "Shabiha Afrin Sharna, Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/shabiha.sharna"
+    },
+    {
+      "name": "Sheedad Rahman",
+      "designation": "Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/sheedad.rahman",
+      "text": "Sheedad Rahman, Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/sheedad.rahman"
+    },
+    {
+      "name": "Tasneem Nabila Islam",
+      "designation": "Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/tasneem.islam",
+      "text": "Tasneem Nabila Islam, Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/tasneem.islam"
+    },
+    {
+      "name": "Md. Kawsar",
+      "designation": "Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/md.kawsar",
+      "text": "Md. Kawsar, Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/md.kawsar"
+    },
+    {
+      "name": "Jawad Md. Asadullah",
+      "designation": "Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/jawad.asadullah",
+      "text": "Jawad Md. Asadullah, Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/jawad.asadullah"
+    },
+    {
+      "name": "Nusrat Jahan Toma",
+      "designation": "Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/nusrat.toma",
+      "text": "Nusrat Jahan Toma, Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/nusrat.toma"
+    },
+    {
+      "name": "Fairose Farin",
+      "designation": "Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/fairose.farin",
+      "text": "Fairose Farin, Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/fairose.farin"
+    },
+    {
+      "name": "Moshiour Rahman",
+      "designation": "Lecturer",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/moshiour.rahman",
+      "text": "Moshiour Rahman, Lecturer, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/moshiour.rahman"
+    },
+    {
+      "name": "Advisor",
+      "designation": "N/A",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/business-administration/faculty-members",
+      "text": "Advisor, N/A, Department of Business Administration. Profile: https://fbe.ewubd.edu/business-administration/faculty-members"
+    },
+    {
+      "name": "Dr. Abul H. M. G. Azam",
+      "designation": "Professor-cum-Adviser",
+      "department": "Business Administration",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/abul.azam",
+      "text": "Dr. Abul H. M. G. Azam, Professor-cum-Adviser, Department of Business Administration. Profile: https://fbe.ewubd.edu/faculty-view/abul.azam"
+    },
+    {
+      "name": "Professor Dr. Mohammed Farashuddin",
+      "designation": "Professor, Advisor, Coordinator",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/farashuddin",
+      "text": "Professor Dr. Mohammed Farashuddin, Professor, Advisor, Coordinator, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/farashuddin"
+    },
+    {
+      "name": "Dr. A.M. Tanvir Hussain",
+      "designation": "Associate Professor",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/hussain",
+      "text": "Dr. A.M. Tanvir Hussain, Associate Professor, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/hussain"
+    },
+    {
+      "name": "Dr. Iftekharul Huq",
+      "designation": "Chairperson, Associate Professor",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/ihuq",
+      "text": "Dr. Iftekharul Huq, Chairperson, Associate Professor, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/ihuq"
+    },
+    {
+      "name": "Dr. Biva Arani Mallik",
+      "designation": "Associate Professor",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/biva",
+      "text": "Dr. Biva Arani Mallik, Associate Professor, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/biva"
+    },
+    {
+      "name": "Dr. Muntasir Chaudhury",
+      "designation": "Associate Professor",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/muntasir",
+      "text": "Dr. Muntasir Chaudhury, Associate Professor, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/muntasir"
+    },
+    {
+      "name": "Dr. Md. Nazmul Hoque",
+      "designation": "Assistant Professor, Moderator, Economics Club",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/nazmul24",
+      "text": "Dr. Md. Nazmul Hoque, Assistant Professor, Moderator, Economics Club, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/nazmul24"
+    },
+    {
+      "name": "Parvez Karim Abbasi",
+      "designation": "Assistant Professor",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/pkabbasi",
+      "text": "Parvez Karim Abbasi, Assistant Professor, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/pkabbasi"
+    },
+    {
+      "name": "Imrana Sharmin",
+      "designation": "Assistant Professor",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/sharmin",
+      "text": "Imrana Sharmin, Assistant Professor, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/sharmin"
+    },
+    {
+      "name": "Dr. Md. Abdullah Al Mashrur",
+      "designation": "Assistant Professor",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/abdullah.mashrur",
+      "text": "Dr. Md. Abdullah Al Mashrur, Assistant Professor, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/abdullah.mashrur"
+    },
+    {
+      "name": "Saiyeeda Saniya Munim",
+      "designation": "Senior Lecturer",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/ssmunim",
+      "text": "Saiyeeda Saniya Munim, Senior Lecturer, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/ssmunim"
+    },
+    {
+      "name": "Asiya Siddica",
+      "designation": "Senior Lecturer",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/asc",
+      "text": "Asiya Siddica, Senior Lecturer, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/asc"
+    },
+    {
+      "name": "Biplob Kumar Nandi",
+      "designation": "Senior Lecturer",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/biplab.ewu",
+      "text": "Biplob Kumar Nandi, Senior Lecturer, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/biplab.ewu"
+    },
+    {
+      "name": "Gazi Quamrul Hasan",
+      "designation": "Senior Lecturer",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/quamrulgazi",
+      "text": "Gazi Quamrul Hasan, Senior Lecturer, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/quamrulgazi"
+    },
+    {
+      "name": "Abeer Khandker",
+      "designation": "Senior Lecturer",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/akh",
+      "text": "Abeer Khandker, Senior Lecturer, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/akh"
+    },
+    {
+      "name": "Ehsanur Rauf Prince",
+      "designation": "Senior Lecturer",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/ehsanur",
+      "text": "Ehsanur Rauf Prince, Senior Lecturer, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/ehsanur"
+    },
+    {
+      "name": "Jeenat Mehareen",
+      "designation": "Senior Lecturer",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/jeenat.mehareen",
+      "text": "Jeenat Mehareen, Senior Lecturer, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/jeenat.mehareen"
+    },
+    {
+      "name": "Sarah Enamul Haque",
+      "designation": "Senior Lecturer, Moderator, Economics Club",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/sehaque",
+      "text": "Sarah Enamul Haque, Senior Lecturer, Moderator, Economics Club, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/sehaque"
+    },
+    {
+      "name": "Afia Fahmida Daizy",
+      "designation": "Senior Lecturer",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/afiadaizy",
+      "text": "Afia Fahmida Daizy, Senior Lecturer, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/afiadaizy"
+    },
+    {
+      "name": "Sayeeda Jahan",
+      "designation": "Senior Lecturer",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/sayeedajahan",
+      "text": "Sayeeda Jahan, Senior Lecturer, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/sayeedajahan"
+    },
+    {
+      "name": "Muhammad Nazmul Khan",
+      "designation": "Senior Lecturer",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/nazmul.khan",
+      "text": "Muhammad Nazmul Khan, Senior Lecturer, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/nazmul.khan"
+    },
+    {
+      "name": "Umme Marzana",
+      "designation": "Lecturer, Moderator, Economics Club",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/marzana",
+      "text": "Umme Marzana, Lecturer, Moderator, Economics Club, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/marzana"
+    },
+    {
+      "name": "Pooja Agnes Gomes",
+      "designation": "Lecturer",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/agnes.gomes",
+      "text": "Pooja Agnes Gomes, Lecturer, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/agnes.gomes"
+    },
+    {
+      "name": "Proma Paromita Chowdhury",
+      "designation": "Lecturer",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/proma.chowdhury",
+      "text": "Proma Paromita Chowdhury, Lecturer, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/proma.chowdhury"
+    },
+    {
+      "name": "Sadia Anjum",
+      "designation": "Lecturer",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/sadia.anjum",
+      "text": "Sadia Anjum, Lecturer, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/sadia.anjum"
+    },
+    {
+      "name": "Md. Abdus Sattar Moin",
+      "designation": "Lecturer",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/sattar.moin",
+      "text": "Md. Abdus Sattar Moin, Lecturer, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/sattar.moin"
+    },
+    {
+      "name": "Kazi Maneeha Muzib",
+      "designation": "Lecturer",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/kazi.muzib",
+      "text": "Kazi Maneeha Muzib, Lecturer, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/kazi.muzib"
+    },
+    {
+      "name": "Ms. Tamanna Abdullah",
+      "designation": "Lecturer",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/tamanna.abdullah",
+      "text": "Ms. Tamanna Abdullah, Lecturer, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/tamanna.abdullah"
+    },
+    {
+      "name": "Sanjana Afroze",
+      "designation": "Lecturer",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/sanjana.afroze",
+      "text": "Sanjana Afroze, Lecturer, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/sanjana.afroze"
+    },
+    {
+      "name": "Shaikh Tanvir Hossain",
+      "designation": "Lecturer",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/tanvir.hossain",
+      "text": "Shaikh Tanvir Hossain, Lecturer, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/tanvir.hossain"
+    },
+    {
+      "name": "Sadman Saber Chowdhury",
+      "designation": "Lecturer",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/sadman.saber",
+      "text": "Sadman Saber Chowdhury, Lecturer, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/sadman.saber"
+    },
+    {
+      "name": "Sumiya Tasnim Oyshee",
+      "designation": "Lecturer",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/sumiya.oyshee",
+      "text": "Sumiya Tasnim Oyshee, Lecturer, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/sumiya.oyshee"
+    },
+    {
+      "name": "Abonti Barkat",
+      "designation": "Lecturer",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/abonti.barkat",
+      "text": "Abonti Barkat, Lecturer, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/abonti.barkat"
+    },
+    {
+      "name": "Dr. Bijoy P. Barua",
+      "designation": "Adjunct Faculty",
+      "department": "Economics Department",
+      "profile_url": "https://fbe.ewubd.edu/faculty-view/bbarua",
+      "text": "Dr. Bijoy P. Barua, Adjunct Faculty, Department of Economics Department. Profile: https://fbe.ewubd.edu/faculty-view/bbarua"
+    },
+    {
+      "name": "Dr. Fakrul Alam",
+      "designation": "Professor, Advisor",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/falam1951",
+      "text": "Dr. Fakrul Alam, Professor, Advisor, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/falam1951"
+    },
+    {
+      "name": "Dr. Muhammed Shahriar Haque",
+      "designation": "Professor",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/shahriar",
+      "text": "Dr. Muhammed Shahriar Haque, Professor, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/shahriar"
+    },
+    {
+      "name": "Dr. Moriam Quadir",
+      "designation": "Professor",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/moriam",
+      "text": "Dr. Moriam Quadir, Professor, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/moriam"
+    },
+    {
+      "name": "Dr. Farzana Akhter",
+      "designation": "Dean, Professor",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/farzana",
+      "text": "Dr. Farzana Akhter, Dean, Professor, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/farzana"
+    },
+    {
+      "name": "Dr. Akhter Jahan",
+      "designation": "Chairperson, Associate Professor",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/akjahan",
+      "text": "Dr. Akhter Jahan, Chairperson, Associate Professor, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/akjahan"
+    },
+    {
+      "name": "Dr. Md Abu Shahid Abdullah",
+      "designation": "Associate Professor",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/sabdullah",
+      "text": "Dr. Md Abu Shahid Abdullah, Associate Professor, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/sabdullah"
+    },
+    {
+      "name": "Dr. Farzana Sharmin Pamela Islam",
+      "designation": "Associate Professor",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/farzanasp",
+      "text": "Dr. Farzana Sharmin Pamela Islam, Associate Professor, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/farzanasp"
+    },
+    {
+      "name": "Masrufa Nusrat",
+      "designation": "Assistant Professor",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/manusrat",
+      "text": "Masrufa Nusrat, Assistant Professor, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/manusrat"
+    },
+    {
+      "name": "Zohur Ahmed",
+      "designation": "Assistant Professor",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/zohur",
+      "text": "Zohur Ahmed, Assistant Professor, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/zohur"
+    },
+    {
+      "name": "Israt Jahan",
+      "designation": "Assistant Professor",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/shantiewu",
+      "text": "Israt Jahan, Assistant Professor, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/shantiewu"
+    },
+    {
+      "name": "Dr. Afia Arafat",
+      "designation": "Assistant Professor",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/afia",
+      "text": "Dr. Afia Arafat, Assistant Professor, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/afia"
+    },
+    {
+      "name": "Dr. Syeda Nadia Hasan",
+      "designation": "Assistant Professor",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/nadia",
+      "text": "Dr. Syeda Nadia Hasan, Assistant Professor, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/nadia"
+    },
+    {
+      "name": "Dr. Ariful Islam",
+      "designation": "Assistant Professor",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/masharifju",
+      "text": "Dr. Ariful Islam, Assistant Professor, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/masharifju"
+    },
+    {
+      "name": "Tara Shankar Sinha",
+      "designation": "Senior Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/tssinha",
+      "text": "Tara Shankar Sinha, Senior Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/tssinha"
+    },
+    {
+      "name": "Chowdhury Omar Sharif",
+      "designation": "Senior Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/omarsharif",
+      "text": "Chowdhury Omar Sharif, Senior Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/omarsharif"
+    },
+    {
+      "name": "Md. Tahamid Ar Rabbi",
+      "designation": "Senior Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/tahamid",
+      "text": "Md. Tahamid Ar Rabbi, Senior Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/tahamid"
+    },
+    {
+      "name": "Mohammad Hasan Jan",
+      "designation": "Senior Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/hasanjan",
+      "text": "Mohammad Hasan Jan, Senior Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/hasanjan"
+    },
+    {
+      "name": "Mohammad Rejaul Karim",
+      "designation": "Senior Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/mrkarim",
+      "text": "Mohammad Rejaul Karim, Senior Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/mrkarim"
+    },
+    {
+      "name": "Shamima Akter Shanta",
+      "designation": "Senior Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/shamima.akter",
+      "text": "Shamima Akter Shanta, Senior Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/shamima.akter"
+    },
+    {
+      "name": "Ms. Saifa Haque",
+      "designation": "Senior Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/saifa.haque",
+      "text": "Ms. Saifa Haque, Senior Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/saifa.haque"
+    },
+    {
+      "name": "Syed Mahmudur Rahman",
+      "designation": "Senior Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/s.mahmudurrahman",
+      "text": "Syed Mahmudur Rahman, Senior Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/s.mahmudurrahman"
+    },
+    {
+      "name": "Naushin Nazifa Islam",
+      "designation": "Senior Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/naushin",
+      "text": "Naushin Nazifa Islam, Senior Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/naushin"
+    },
+    {
+      "name": "Kaniz Fatema",
+      "designation": "Senior Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/kaniz",
+      "text": "Kaniz Fatema, Senior Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/kaniz"
+    },
+    {
+      "name": "Monisha Biswas",
+      "designation": "Senior Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/monisha",
+      "text": "Monisha Biswas, Senior Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/monisha"
+    },
+    {
+      "name": "Md. Shazed Ul Hoq Khan Abir",
+      "designation": "Senior Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/shkaabir",
+      "text": "Md. Shazed Ul Hoq Khan Abir, Senior Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/shkaabir"
+    },
+    {
+      "name": "Tamanna Sharmin Kabir",
+      "designation": "Senior Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/tamanna_sk",
+      "text": "Tamanna Sharmin Kabir, Senior Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/tamanna_sk"
+    },
+    {
+      "name": "Apala Biswas",
+      "designation": "Senior Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/apala.biswas",
+      "text": "Apala Biswas, Senior Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/apala.biswas"
+    },
+    {
+      "name": "Syeda Shabnam Mahmud",
+      "designation": "Senior Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/mahmud.shabnam",
+      "text": "Syeda Shabnam Mahmud, Senior Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/mahmud.shabnam"
+    },
+    {
+      "name": "Ms. Khadijatul Kaminy",
+      "designation": "Senior Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/kaminy27",
+      "text": "Ms. Khadijatul Kaminy, Senior Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/kaminy27"
+    },
+    {
+      "name": "Sadia Afreen",
+      "designation": "Senior Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/s.afreen",
+      "text": "Sadia Afreen, Senior Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/s.afreen"
+    },
+    {
+      "name": "Shahnaz Ameer",
+      "designation": "Senior Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/shahnazameer",
+      "text": "Shahnaz Ameer, Senior Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/shahnazameer"
+    },
+    {
+      "name": "Mehnaz Tabassum",
+      "designation": "Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/mehnaz",
+      "text": "Mehnaz Tabassum, Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/mehnaz"
+    },
+    {
+      "name": "Shuvo Saha",
+      "designation": "Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/shuvo.saha",
+      "text": "Shuvo Saha, Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/shuvo.saha"
+    },
+    {
+      "name": "Ms. Anowara Rayhan Arusha",
+      "designation": "Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/anowara.arusha",
+      "text": "Ms. Anowara Rayhan Arusha, Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/anowara.arusha"
+    },
+    {
+      "name": "Ms. Rohini Zakaria Oishee",
+      "designation": "Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/rohini.zakaria",
+      "text": "Ms. Rohini Zakaria Oishee, Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/rohini.zakaria"
+    },
+    {
+      "name": "Munshi Nazmus Sakib",
+      "designation": "Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/munshi.sakib",
+      "text": "Munshi Nazmus Sakib, Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/munshi.sakib"
+    },
+    {
+      "name": "Ms. Nazia Pervin Shefa",
+      "designation": "Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/nazia.shefa",
+      "text": "Ms. Nazia Pervin Shefa, Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/nazia.shefa"
+    },
+    {
+      "name": "Imran Jahan Digonto",
+      "designation": "Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/imran.digonto",
+      "text": "Imran Jahan Digonto, Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/imran.digonto"
+    },
+    {
+      "name": "Ms. Khadizatul Kobra",
+      "designation": "Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/khadizatul.kobra",
+      "text": "Ms. Khadizatul Kobra, Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/khadizatul.kobra"
+    },
+    {
+      "name": "Solika Akter",
+      "designation": "Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/solika.akter",
+      "text": "Solika Akter, Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/solika.akter"
+    },
+    {
+      "name": "Ms. Maria Mollah",
+      "designation": "Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/maria.mollah",
+      "text": "Ms. Maria Mollah, Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/maria.mollah"
+    },
+    {
+      "name": "Rehenuma Raysa",
+      "designation": "Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/rehenuma.raysa",
+      "text": "Rehenuma Raysa, Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/rehenuma.raysa"
+    },
+    {
+      "name": "Ms. Sanjida Tasnim Bithy",
+      "designation": "Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/sanjida.bithy",
+      "text": "Ms. Sanjida Tasnim Bithy, Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/sanjida.bithy"
+    },
+    {
+      "name": "Asif-Ul-Haque-Shanto",
+      "designation": "Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/asif.shanto",
+      "text": "Asif-Ul-Haque-Shanto, Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/asif.shanto"
+    },
+    {
+      "name": "Siamul Islam",
+      "designation": "Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/siamul.islam",
+      "text": "Siamul Islam, Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/siamul.islam"
+    },
+    {
+      "name": "Anisa Mehedi",
+      "designation": "Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/anisa.mehedi",
+      "text": "Anisa Mehedi, Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/anisa.mehedi"
+    },
+    {
+      "name": "Jarin Tasnim Raisa",
+      "designation": "Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/jarin.raisa",
+      "text": "Jarin Tasnim Raisa, Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/jarin.raisa"
+    },
+    {
+      "name": "Md. Arshad Shahriar",
+      "designation": "Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/arshad.shahriar",
+      "text": "Md. Arshad Shahriar, Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/arshad.shahriar"
+    },
+    {
+      "name": "Hridvika Paul",
+      "designation": "Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/hridvika.paul",
+      "text": "Hridvika Paul, Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/hridvika.paul"
+    },
+    {
+      "name": "Prokriti Das Srishti",
+      "designation": "Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/prokriti.srishti",
+      "text": "Prokriti Das Srishti, Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/prokriti.srishti"
+    },
+    {
+      "name": "Shamma Tasnim Rahman",
+      "designation": "Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/shamma.rahman",
+      "text": "Shamma Tasnim Rahman, Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/shamma.rahman"
+    },
+    {
+      "name": "Tansim Zannat",
+      "designation": "Lecturer",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/tansim.zannat",
+      "text": "Tansim Zannat, Lecturer, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/tansim.zannat"
+    },
+    {
+      "name": "Dr. Bhishmadeb Choudhury",
+      "designation": "Professor",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/dbc",
+      "text": "Dr. Bhishmadeb Choudhury, Professor, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/dbc"
+    },
+    {
+      "name": "Dr. Nurul Huda Abul Monsur",
+      "designation": "Professor",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/nham",
+      "text": "Dr. Nurul Huda Abul Monsur, Professor, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/nham"
+    },
+    {
+      "name": "Dr. Akm Zakaria",
+      "designation": "Professor",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/dz",
+      "text": "Dr. Akm Zakaria, Professor, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/dz"
+    },
+    {
+      "name": "Mian Md. Naushaad Kabir",
+      "designation": "Associate Professor",
+      "department": "English Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/naushaad.kabir",
+      "text": "Mian Md. Naushaad Kabir, Associate Professor, Department of English Department. Profile: https://flass.ewubd.edu/faculty-view/naushaad.kabir"
+    },
+    {
+      "name": "Dr. Muhammad Ekramul Haque",
+      "designation": "Professor & Adviser",
+      "department": "Law Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/ekramul.haque",
+      "text": "Dr. Muhammad Ekramul Haque, Professor & Adviser, Department of Law Department. Profile: https://flass.ewubd.edu/faculty-view/ekramul.haque"
+    },
+    {
+      "name": "Dr. Nabaat Tasnima Mahbub",
+      "designation": "Chairperson, Associate Professor",
+      "department": "Law Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/nabaatmahbub",
+      "text": "Dr. Nabaat Tasnima Mahbub, Chairperson, Associate Professor, Department of Law Department. Profile: https://flass.ewubd.edu/faculty-view/nabaatmahbub"
+    },
+    {
+      "name": "Dr. Md. Mehedi Hasan",
+      "designation": "Associate Professor",
+      "department": "Law Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/mehedihasan",
+      "text": "Dr. Md. Mehedi Hasan, Associate Professor, Department of Law Department. Profile: https://flass.ewubd.edu/faculty-view/mehedihasan"
+    },
+    {
+      "name": "Adity Rahman Shah",
+      "designation": "Senior Lecturer",
+      "department": "Law Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/adityshah",
+      "text": "Adity Rahman Shah, Senior Lecturer, Department of Law Department. Profile: https://flass.ewubd.edu/faculty-view/adityshah"
+    },
+    {
+      "name": "Monira Nazmi Jahan",
+      "designation": "Senior Lecturer",
+      "department": "Law Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/monira",
+      "text": "Monira Nazmi Jahan, Senior Lecturer, Department of Law Department. Profile: https://flass.ewubd.edu/faculty-view/monira"
+    },
+    {
+      "name": "Md. Khairul Islam",
+      "designation": "Senior Lecturer",
+      "department": "Law Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/k.islam",
+      "text": "Md. Khairul Islam, Senior Lecturer, Department of Law Department. Profile: https://flass.ewubd.edu/faculty-view/k.islam"
+    },
+    {
+      "name": "Mohammed Shahjalal",
+      "designation": "Senior Lecturer",
+      "department": "Law Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/shahjalal",
+      "text": "Mohammed Shahjalal, Senior Lecturer, Department of Law Department. Profile: https://flass.ewubd.edu/faculty-view/shahjalal"
+    },
+    {
+      "name": "Md. Pizuar Hossain",
+      "designation": "Senior Lecturer",
+      "department": "Law Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/pizuar",
+      "text": "Md. Pizuar Hossain, Senior Lecturer, Department of Law Department. Profile: https://flass.ewubd.edu/faculty-view/pizuar"
+    },
+    {
+      "name": "Riad Mahmud",
+      "designation": "Senior Lecturer",
+      "department": "Law Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/riad.law",
+      "text": "Riad Mahmud, Senior Lecturer, Department of Law Department. Profile: https://flass.ewubd.edu/faculty-view/riad.law"
+    },
+    {
+      "name": "Nabila Farhin",
+      "designation": "Senior Lecturer",
+      "department": "Law Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/nabilafarhin",
+      "text": "Nabila Farhin, Senior Lecturer, Department of Law Department. Profile: https://flass.ewubd.edu/faculty-view/nabilafarhin"
+    },
+    {
+      "name": "Mridul Bepari",
+      "designation": "Senior Lecturer",
+      "department": "Law Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/bepari",
+      "text": "Mridul Bepari, Senior Lecturer, Department of Law Department. Profile: https://flass.ewubd.edu/faculty-view/bepari"
+    },
+    {
+      "name": "Nadia Rahaman",
+      "designation": "Senior Lecturer",
+      "department": "Law Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/nadiarahaman",
+      "text": "Nadia Rahaman, Senior Lecturer, Department of Law Department. Profile: https://flass.ewubd.edu/faculty-view/nadiarahaman"
+    },
+    {
+      "name": "Sayeed Hossain Sarwar",
+      "designation": "Senior Lecturer",
+      "department": "Law Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/sayeedsarwar",
+      "text": "Sayeed Hossain Sarwar, Senior Lecturer, Department of Law Department. Profile: https://flass.ewubd.edu/faculty-view/sayeedsarwar"
+    },
+    {
+      "name": "Ms. Shamshad Bashar",
+      "designation": "Lecturer",
+      "department": "Law Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/shamshad.bashar",
+      "text": "Ms. Shamshad Bashar, Lecturer, Department of Law Department. Profile: https://flass.ewubd.edu/faculty-view/shamshad.bashar"
+    },
+    {
+      "name": "Ali Mashraf",
+      "designation": "Lecturer",
+      "department": "Law Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/ali.mashraf",
+      "text": "Ali Mashraf, Lecturer, Department of Law Department. Profile: https://flass.ewubd.edu/faculty-view/ali.mashraf"
+    },
+    {
+      "name": "Farzana Rifat Siddique",
+      "designation": "Lecturer",
+      "department": "Law Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/farzana.siddique",
+      "text": "Farzana Rifat Siddique, Lecturer, Department of Law Department. Profile: https://flass.ewubd.edu/faculty-view/farzana.siddique"
+    },
+    {
+      "name": "Shah Maruf Uddin Ahmad",
+      "designation": "Lecturer",
+      "department": "Law Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/shah.ahmad",
+      "text": "Shah Maruf Uddin Ahmad, Lecturer, Department of Law Department. Profile: https://flass.ewubd.edu/faculty-view/shah.ahmad"
+    },
+    {
+      "name": "Khandker Saad At Tanbir",
+      "designation": "Lecturer",
+      "department": "Law Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/khandker.tanbir",
+      "text": "Khandker Saad At Tanbir, Lecturer, Department of Law Department. Profile: https://flass.ewubd.edu/faculty-view/khandker.tanbir"
+    },
+    {
+      "name": "Nur-A Ariya Alam",
+      "designation": "Lecturer",
+      "department": "Law Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/ariya.alam",
+      "text": "Nur-A Ariya Alam, Lecturer, Department of Law Department. Profile: https://flass.ewubd.edu/faculty-view/ariya.alam"
+    },
+    {
+      "name": "Mashraba Naziat",
+      "designation": "Lecturer",
+      "department": "Law Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/mashraba.naziat",
+      "text": "Mashraba Naziat, Lecturer, Department of Law Department. Profile: https://flass.ewubd.edu/faculty-view/mashraba.naziat"
+    },
+    {
+      "name": "Shaikh Mirazur Rahman",
+      "designation": "Lecturer",
+      "department": "Law Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/shaikh.rahman",
+      "text": "Shaikh Mirazur Rahman, Lecturer, Department of Law Department. Profile: https://flass.ewubd.edu/faculty-view/shaikh.rahman"
+    },
+    {
+      "name": "Oishe Rahman",
+      "designation": "Lecturer",
+      "department": "Law Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/oishe.rahman",
+      "text": "Oishe Rahman, Lecturer, Department of Law Department. Profile: https://flass.ewubd.edu/faculty-view/oishe.rahman"
+    },
+    {
+      "name": "Dr. Shahnaz Huda",
+      "designation": "",
+      "department": "Law Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/shahnaz.huda",
+      "text": "Dr. Shahnaz Huda, , Department of Law Department. Profile: https://flass.ewubd.edu/faculty-view/shahnaz.huda"
+    },
+    {
+      "name": "Professor Dr. Shima Zaman",
+      "designation": "",
+      "department": "Law Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/shima",
+      "text": "Professor Dr. Shima Zaman, , Department of Law Department. Profile: https://flass.ewubd.edu/faculty-view/shima"
+    },
+    {
+      "name": "Dr. Nakib Muhammad Nasrullah",
+      "designation": "",
+      "department": "Law Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/nakib.nasrullah",
+      "text": "Dr. Nakib Muhammad Nasrullah, , Department of Law Department. Profile: https://flass.ewubd.edu/faculty-view/nakib.nasrullah"
+    },
+    {
+      "name": "Dr. Rumana Islam",
+      "designation": "",
+      "department": "Law Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/rumana.islam",
+      "text": "Dr. Rumana Islam, , Department of Law Department. Profile: https://flass.ewubd.edu/faculty-view/rumana.islam"
+    },
+    {
+      "name": "Sk. Samidul Islam",
+      "designation": "",
+      "department": "Law Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/samidul.islam",
+      "text": "Sk. Samidul Islam, , Department of Law Department. Profile: https://flass.ewubd.edu/faculty-view/samidul.islam"
+    },
+    {
+      "name": "Quazi Mahfujul Hoque Supan",
+      "designation": "",
+      "department": "Law Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/hoque.supam",
+      "text": "Quazi Mahfujul Hoque Supan, , Department of Law Department. Profile: https://flass.ewubd.edu/faculty-view/hoque.supam"
+    },
+    {
+      "name": "Christine Richardson",
+      "designation": "",
+      "department": "Law Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/christine",
+      "text": "Christine Richardson, , Department of Law Department. Profile: https://flass.ewubd.edu/faculty-view/christine"
+    },
+    {
+      "name": "Mohammad Faruque",
+      "designation": "",
+      "department": "Law Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/mohammad.faruque1",
+      "text": "Mohammad Faruque, , Department of Law Department. Profile: https://flass.ewubd.edu/faculty-view/mohammad.faruque1"
+    },
+    {
+      "name": "Dr. Rafiqul Huda Chaudhury",
+      "designation": "Advisor, Honorary Professor, Coordinator",
+      "department": "Social Relations Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/rhchaudhury",
+      "text": "Dr. Rafiqul Huda Chaudhury, Advisor, Honorary Professor, Coordinator, Department of Social Relations Department. Profile: https://flass.ewubd.edu/faculty-view/rhchaudhury"
+    },
+    {
+      "name": "Dr. Md. Mobarak Hossain Khan",
+      "designation": "Professor",
+      "department": "Social Relations Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/mmhkhan",
+      "text": "Dr. Md. Mobarak Hossain Khan, Professor, Department of Social Relations Department. Profile: https://flass.ewubd.edu/faculty-view/mmhkhan"
+    },
+    {
+      "name": "Touhida Tasnima, PhD",
+      "designation": "Chairperson, Associate Professor",
+      "department": "Social Relations Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/touhida",
+      "text": "Touhida Tasnima, PhD, Chairperson, Associate Professor, Department of Social Relations Department. Profile: https://flass.ewubd.edu/faculty-view/touhida"
+    },
+    {
+      "name": "Md. Sanaul Haque Mondal, PhD",
+      "designation": "Assistant Professor",
+      "department": "Social Relations Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/shmondal",
+      "text": "Md. Sanaul Haque Mondal, PhD, Assistant Professor, Department of Social Relations Department. Profile: https://flass.ewubd.edu/faculty-view/shmondal"
+    },
+    {
+      "name": "Dr. Marzia Zaman Sultana",
+      "designation": "Senior Lecturer",
+      "department": "Social Relations Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/drmarzia.sultana",
+      "text": "Dr. Marzia Zaman Sultana, Senior Lecturer, Department of Social Relations Department. Profile: https://flass.ewubd.edu/faculty-view/drmarzia.sultana"
+    },
+    {
+      "name": "Rubayat Kabir",
+      "designation": "Senior Lecturer",
+      "department": "Social Relations Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/krubayat",
+      "text": "Rubayat Kabir, Senior Lecturer, Department of Social Relations Department. Profile: https://flass.ewubd.edu/faculty-view/krubayat"
+    },
+    {
+      "name": "Ms. Ruhun Wasata",
+      "designation": "Senior Lecturer",
+      "department": "Social Relations Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/ruhun.wasata",
+      "text": "Ms. Ruhun Wasata, Senior Lecturer, Department of Social Relations Department. Profile: https://flass.ewubd.edu/faculty-view/ruhun.wasata"
+    },
+    {
+      "name": "Md. Rezwan Siddiqui",
+      "designation": "Senior Lecturer",
+      "department": "Social Relations Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/rezsid",
+      "text": "Md. Rezwan Siddiqui, Senior Lecturer, Department of Social Relations Department. Profile: https://flass.ewubd.edu/faculty-view/rezsid"
+    },
+    {
+      "name": "Nishat Anjum Bini",
+      "designation": "Lecturer",
+      "department": "Social Relations Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/nishat.bini",
+      "text": "Nishat Anjum Bini, Lecturer, Department of Social Relations Department. Profile: https://flass.ewubd.edu/faculty-view/nishat.bini"
+    },
+    {
+      "name": "Md. Mahmudul Hasan",
+      "designation": "Lecturer",
+      "department": "Social Relations Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/mahmudul.hasan",
+      "text": "Md. Mahmudul Hasan, Lecturer, Department of Social Relations Department. Profile: https://flass.ewubd.edu/faculty-view/mahmudul.hasan"
+    },
+    {
+      "name": "Abdullah Al Mamun",
+      "designation": "Lecturer",
+      "department": "Social Relations Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/abdullahal.mamun",
+      "text": "Abdullah Al Mamun, Lecturer, Department of Social Relations Department. Profile: https://flass.ewubd.edu/faculty-view/abdullahal.mamun"
+    },
+    {
+      "name": "Quazi Maksudur Rahman",
+      "designation": "Lecturer",
+      "department": "Social Relations Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/quazi.rahman",
+      "text": "Quazi Maksudur Rahman, Lecturer, Department of Social Relations Department. Profile: https://flass.ewubd.edu/faculty-view/quazi.rahman"
+    },
+    {
+      "name": "Nazmin Akter Swarna",
+      "designation": "Lecturer",
+      "department": "Social Relations Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/nazmin.akter",
+      "text": "Nazmin Akter Swarna, Lecturer, Department of Social Relations Department. Profile: https://flass.ewubd.edu/faculty-view/nazmin.akter"
+    },
+    {
+      "name": "Kazi Nujhat Naila",
+      "designation": "Lecturer",
+      "department": "Social Relations Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/nujhat.naila",
+      "text": "Kazi Nujhat Naila, Lecturer, Department of Social Relations Department. Profile: https://flass.ewubd.edu/faculty-view/nujhat.naila"
+    },
+    {
+      "name": "Dr. Dilara Begum",
+      "designation": "Chairperson, Professor",
+      "department": "Information Studies Library Management",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/dilara",
+      "text": "Dr. Dilara Begum, Chairperson, Professor, Department of Information Studies Library Management. Profile: https://flass.ewubd.edu/faculty-view/dilara"
+    },
+    {
+      "name": "Dr. Md. Saiful Alam",
+      "designation": "Professor",
+      "department": "Information Studies Library Management",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/saiful.alam",
+      "text": "Dr. Md. Saiful Alam, Professor, Department of Information Studies Library Management. Profile: https://flass.ewubd.edu/faculty-view/saiful.alam"
+    },
+    {
+      "name": "Md. Hasinul Elahi",
+      "designation": "Senior Lecturer",
+      "department": "Information Studies Library Management",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/h.elahi",
+      "text": "Md. Hasinul Elahi, Senior Lecturer, Department of Information Studies Library Management. Profile: https://flass.ewubd.edu/faculty-view/h.elahi"
+    },
+    {
+      "name": "Abdur Rahaman Sumon",
+      "designation": "Senior Lecturer",
+      "department": "Information Studies Library Management",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/arsumon",
+      "text": "Abdur Rahaman Sumon, Senior Lecturer, Department of Information Studies Library Management. Profile: https://flass.ewubd.edu/faculty-view/arsumon"
+    },
+    {
+      "name": "Rumana Rahman",
+      "designation": "Senior Lecturer",
+      "department": "Information Studies Library Management",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/shithi",
+      "text": "Rumana Rahman, Senior Lecturer, Department of Information Studies Library Management. Profile: https://flass.ewubd.edu/faculty-view/shithi"
+    },
+    {
+      "name": "Raiyan Bin Reza",
+      "designation": "Lecturer",
+      "department": "Information Studies Library Management",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/raiyanb.reza",
+      "text": "Raiyan Bin Reza, Lecturer, Department of Information Studies Library Management. Profile: https://flass.ewubd.edu/faculty-view/raiyanb.reza"
+    },
+    {
+      "name": "Rezwana Nahar Raisa",
+      "designation": "Lecturer",
+      "department": "Information Studies Library Management",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/rezwana.raisa",
+      "text": "Rezwana Nahar Raisa, Lecturer, Department of Information Studies Library Management. Profile: https://flass.ewubd.edu/faculty-view/rezwana.raisa"
+    },
+    {
+      "name": "M. Nasiruddin Munshi, Ph.D.",
+      "designation": "Professor",
+      "department": "Information Studies Library Management",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/m.munshi",
+      "text": "M. Nasiruddin Munshi, Ph.D., Professor, Department of Information Studies Library Management. Profile: https://flass.ewubd.edu/faculty-view/m.munshi"
+    },
+    {
+      "name": "Kazi Mostak Gausul Hoq, Ph.D.",
+      "designation": "Professor",
+      "department": "Information Studies Library Management",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/gausul.hoq",
+      "text": "Kazi Mostak Gausul Hoq, Ph.D., Professor, Department of Information Studies Library Management. Profile: https://flass.ewubd.edu/faculty-view/gausul.hoq"
+    },
+    {
+      "name": "Md. Roknuzzaman, Ph.D.",
+      "designation": "Professor",
+      "department": "Information Studies Library Management",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/md.zaman",
+      "text": "Md. Roknuzzaman, Ph.D., Professor, Department of Information Studies Library Management. Profile: https://flass.ewubd.edu/faculty-view/md.zaman"
+    },
+    {
+      "name": "Dr. Fouzia Mannan",
+      "designation": "Chairperson, Professor",
+      "department": "Sociology Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/fouzia",
+      "text": "Dr. Fouzia Mannan, Chairperson, Professor, Department of Sociology Department. Profile: https://flass.ewubd.edu/faculty-view/fouzia"
+    },
+    {
+      "name": "Dr. Anisur Rahman Khan",
+      "designation": "Associate Professor",
+      "department": "Sociology Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/arkhan",
+      "text": "Dr. Anisur Rahman Khan, Associate Professor, Department of Sociology Department. Profile: https://flass.ewubd.edu/faculty-view/arkhan"
+    },
+    {
+      "name": "Dr. Mumita Tanjeela",
+      "designation": "Associate Professor",
+      "department": "Sociology Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/mtanjeela",
+      "text": "Dr. Mumita Tanjeela, Associate Professor, Department of Sociology Department. Profile: https://flass.ewubd.edu/faculty-view/mtanjeela"
+    },
+    {
+      "name": "Dr. Muhammad Rehan Masoom",
+      "designation": "Associate Professor",
+      "department": "Sociology Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/rehan.masoom",
+      "text": "Dr. Muhammad Rehan Masoom, Associate Professor, Department of Sociology Department. Profile: https://flass.ewubd.edu/faculty-view/rehan.masoom"
+    },
+    {
+      "name": "Dr. Rasel Hussain",
+      "designation": "Assistant Professor",
+      "department": "Sociology Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/raseldu1971",
+      "text": "Dr. Rasel Hussain, Assistant Professor, Department of Sociology Department. Profile: https://flass.ewubd.edu/faculty-view/raseldu1971"
+    },
+    {
+      "name": "Ms. Sifat-E Sultana",
+      "designation": "Senior Lecturer",
+      "department": "Sociology Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/sifat",
+      "text": "Ms. Sifat-E Sultana, Senior Lecturer, Department of Sociology Department. Profile: https://flass.ewubd.edu/faculty-view/sifat"
+    },
+    {
+      "name": "Masum Billah",
+      "designation": "Senior Lecturer",
+      "department": "Sociology Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/masum.soc",
+      "text": "Masum Billah, Senior Lecturer, Department of Sociology Department. Profile: https://flass.ewubd.edu/faculty-view/masum.soc"
+    },
+    {
+      "name": "Md. Helal Uddin",
+      "designation": "Senior Lecturer",
+      "department": "Sociology Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/helal",
+      "text": "Md. Helal Uddin, Senior Lecturer, Department of Sociology Department. Profile: https://flass.ewubd.edu/faculty-view/helal"
+    },
+    {
+      "name": "S. M. Anowarul Kayes Shimul",
+      "designation": "Senior Lecturer",
+      "department": "Sociology Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/kayes",
+      "text": "S. M. Anowarul Kayes Shimul, Senior Lecturer, Department of Sociology Department. Profile: https://flass.ewubd.edu/faculty-view/kayes"
+    },
+    {
+      "name": "Manzuma Ahsan",
+      "designation": "Senior Lecturer",
+      "department": "Sociology Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/manzuma",
+      "text": "Manzuma Ahsan, Senior Lecturer, Department of Sociology Department. Profile: https://flass.ewubd.edu/faculty-view/manzuma"
+    },
+    {
+      "name": "Ms. Ruma Parvin",
+      "designation": "Lecturer",
+      "department": "Sociology Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/ruma.parvin",
+      "text": "Ms. Ruma Parvin, Lecturer, Department of Sociology Department. Profile: https://flass.ewubd.edu/faculty-view/ruma.parvin"
+    },
+    {
+      "name": "Sadia Binta Zaman",
+      "designation": "Lecturer",
+      "department": "Sociology Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/sadiab.zaman",
+      "text": "Sadia Binta Zaman, Lecturer, Department of Sociology Department. Profile: https://flass.ewubd.edu/faculty-view/sadiab.zaman"
+    },
+    {
+      "name": "Ishtiaq Mohammod Fakhruddin",
+      "designation": "Lecturer",
+      "department": "Sociology Department",
+      "profile_url": "https://flass.ewubd.edu/faculty-view/ishtiaq.fakhruddin",
+      "text": "Ishtiaq Mohammod Fakhruddin, Lecturer, Department of Sociology Department. Profile: https://flass.ewubd.edu/faculty-view/ishtiaq.fakhruddin"
+    }
+  ]
+}

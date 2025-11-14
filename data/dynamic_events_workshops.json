@@ -1,0 +1,85 @@
+{
+  "page_info": {
+    "title": "Popular Events and Workshops - East West University",
+    "institution": "East West University",
+    "year": 2025,
+    "disclaimer": "Event details are subject to change as per university announcements"
+  },
+  "events_workshops": [
+    {
+      "title": "World Pharmacists Day 2025 Celebration at EWU",
+      "date": "2025-09-25",
+      "description": "On 25 September 2025, the Department of Pharmacy at East West University organized a vibrant day-long program to celebrate World Pharmacists Day."
+    },
+    {
+      "title": "East West University Welcomes Freshers for the Fall Semester 2025",
+      "date": "2025-09-25",
+      "description": "East West University (EWU) welcomed approximately 1,800 newly admitted students through a comprehensive Orientation Program for the Fall Semester 2025."
+    },
+    {
+      "title": "East West University Holds Orientation for Leather Goods and Footwear Management Program",
+      "date": "2025-09-11",
+      "description": "The Executive Development Center (EDC) at EWU organized an orientation session for the Leather Goods and Footwear Management Program under the SICIP initiative."
+    },
+    {
+      "title": "DCCI and EWU Sign MoC to Strengthen Industry-Academia Collaboration and Foster Entrepreneurship",
+      "date": "2025-09-08",
+      "description": "The Dhaka Chamber of Commerce & Industry (DCCI) and East West University (EWU) officially signed a Memorandum of Cooperation to enhance industry-academia collaboration."
+    },
+    {
+      "title": "East West University Successfully Conducts Admission Test for Fall 2025",
+      "date": "2025-08-30",
+      "description": "EWU successfully conducted its admission test for the Fall Semester 2025 at the EWU Campus."
+    },
+    {
+      "title": "FGD on GDLFM Program: Job Creation and Employment Opportunities",
+      "date": "2025-08-23",
+      "description": "The Executive Development Center (EDC) organized a Focus Group Discussion session titled ‘FGD on GDLFM Program: Job Creation and Employment Opportunities'."
+    },
+    {
+      "title": "Stepping into the Future: GDLFM Program Makes Strides at BLF Expo 2025",
+      "date": "2025-08-23",
+      "description": "The EDC under SICIP at EWU showcased progress of the GDLFM Program at the BLF Expo 2025."
+    },
+    {
+      "title": "East West University Advances Community Legal Literacy through the Street Law Program",
+      "date": "2025-08-21",
+      "description": "Street Law initiative by EWU aims to make legal knowledge accessible to the public, especially marginalized communities."
+    },
+    {
+      "title": "Intra-University Programming Contest - Summer 2025",
+      "date": "2025-08-11",
+      "description": "The Department of CSE organized the Intra-University Programming Contest - Summer 2025 to promote problem-solving skills among students."
+    },
+    {
+      "title": "Department of Sociology Hosts Seminar on Begum Rokeya's Sultana's Dream",
+      "date": "2025-08-10",
+      "description": "The Department of Sociology hosted a seminar to celebrate Begum Rokeya Sakhawat Hossain's seminal feminist work."
+    },
+    {
+      "title": "East West University Hosts Panel Discussion on Harnessing Information Systems for Business in Bangladesh",
+      "date": "2025-08-07",
+      "description": "The Department of Business Administration organized a high-profile panel discussion on information systems for business."
+    },
+    {
+      "title": "Teachers' Training Program on 'Teaching, Learning, and Research'",
+      "date": "2025-08-07",
+      "description": "A series of training modules were conducted as part of the Teachers' Training Program at EWU."
+    },
+    {
+      "title": "East West University Debating Club Secures Novice Runners-Up Title at Islamic University of Technology Inter Club Debate Tournament 2025",
+      "date": "2025-08-06",
+      "description": "EWU Debating Club won the Novice Runners-Up title at the IUT Inter Club Debate Tournament 2025."
+    },
+    {
+      "title": "National Final of the Astro-Olympiad Selection Held at East West University",
+      "date": "2025-07-28",
+      "description": "The Bangladesh Astronomical Association (BAA) concluded the final selection phase of its annual 'Astro-Olympiad' talent search program at EWU."
+    },
+    {
+      "title": "Workshop On 'Language of the Image' by Nayem Ali organized by East West University Photography Club",
+      "date": "2025-07-27",
+      "description": "EWU Photography Club successfully organized a workshop titled 'Language of the Image' by Nayem Ali."
+    }
+  ]
+}

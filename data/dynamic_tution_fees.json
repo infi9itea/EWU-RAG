@@ -1,0 +1,94 @@
+{
+  "page_info": {
+    "title": "Tuition Fees - Undergraduate, Graduate and Diploma Programs",
+    "institution": "East West University",
+    "applicable_from": "Fall semester 2024 and onwards",
+    "currency": "BDT (Bangladeshi Taka)",
+    "disclaimer": "Fees are subject to change as per university authority decisions"
+  },
+  "undergraduate_programs": {
+    "tuition_fees_per_credit": [
+      { "faculty": "Faculty of Business and Economics", "program": "BBA", "fee_per_credit": 6000 },
+      { "faculty": "Faculty of Business and Economics", "program": "BSS in Economics", "fee_per_credit": 5000 },
+      { "faculty": "Faculty of Liberal Arts and Social Sciences", "program": "BA in English", "fee_per_credit": 5000 },
+      { "faculty": "Faculty of Liberal Arts and Social Sciences", "program": "LL.B (Hon's)", "fee_per_credit": 5500 },
+      { "faculty": "Faculty of Liberal Arts and Social Sciences", "program": "BSS in Sociology", "fee_per_credit": 5000 },
+      { "faculty": "Faculty of Liberal Arts and Social Sciences", "program": "BSS in Information Studies", "fee_per_credit": 5000 },
+      { "faculty": "Faculty of Liberal Arts and Social Sciences", "program": "BSS in PPHS", "fee_per_credit": 4500 },
+      { "faculty": "Faculty of Sciences and Engineering", "program": "B. Sc. in ICE", "fee_per_credit": 6000 },
+      { "faculty": "Faculty of Sciences and Engineering", "program": "B. Sc. in CSE", "fee_per_credit": 6000 },
+      { "faculty": "Faculty of Sciences and Engineering", "program": "B. Sc. in EEE", "fee_per_credit": 6000 },
+      { "faculty": "Faculty of Sciences and Engineering", "program": "B. Pharm.", "fee_per_credit": 7000 },
+      { "faculty": "Faculty of Sciences and Engineering", "program": "B. Sc. in GEB", "fee_per_credit": 6000 },
+      { "faculty": "Faculty of Sciences and Engineering", "program": "B.Sc. in Civil Engineering", "fee_per_credit": 6000 },
+      { "faculty": "Faculty of Sciences and Engineering", "program": "B.Sc. (Hons.) in Mathematics", "fee_per_credit": 3000 },
+      { "faculty": "Faculty of Sciences and Engineering", "program": "B.Sc. in Data Science and Analytics", "fee_per_credit": 5000 }
+    ],
+    "detailed_fee_structure": [
+      { "program": "BBA", "credits": 130, "tuition_fees": 771000, "library_lab_activities_fees": 36800, "admission_fee": 20000, "grand_total": 827800 },
+      { "program": "BSS in Economics", "credits": 130, "tuition_fees": 674000, "library_lab_activities_fees": 36800, "admission_fee": 20000, "grand_total": 730800 },
+      { "program": "BA in English", "credits": 130, "tuition_fees": 674000, "library_lab_activities_fees": 36800, "admission_fee": 20000, "grand_total": 730800 },
+      { "program": "LL.B (Hon's)", "credits": 130, "tuition_fees": 716500, "library_lab_activities_fees": 39800, "admission_fee": 20000, "grand_total": 776300 },
+      { "program": "BSS in Sociology", "credits": 130, "tuition_fees": 668000, "library_lab_activities_fees": 36800, "admission_fee": 20000, "grand_total": 724800 },
+      { "program": "BSS in Information Studies", "credits": 130, "tuition_fees": 665000, "library_lab_activities_fees": 36800, "admission_fee": 20000, "grand_total": 721800 },
+      { "program": "BSS in PPHS", "credits": 130, "tuition_fees": 601500, "library_lab_activities_fees": 36800, "admission_fee": 20000, "grand_total": 658300 },
+      { "program": "B. Sc. in ICE", "credits": 140, "tuition_fees": 834000, "library_lab_activities_fees": 52788, "admission_fee": 20000, "grand_total": 906788 },
+      { "program": "B. Sc. in CSE", "credits": 140, "tuition_fees": 834000, "library_lab_activities_fees": 52788, "admission_fee": 20000, "grand_total": 906788 },
+      { "program": "B. Sc. in EEE", "credits": 140, "tuition_fees": 834000, "library_lab_activities_fees": 52788, "admission_fee": 20000, "grand_total": 906788 },
+      { "program": "B. Pharm.", "credits": 158, "tuition_fees": 1082000, "library_lab_activities_fees": 52800, "admission_fee": 20000, "grand_total": 1154800 },
+      { "program": "B. Sc. in GEB", "credits": 140, "tuition_fees": 834000, "library_lab_activities_fees": 52788, "admission_fee": 20000, "grand_total": 906788 },
+      { "program": "B.Sc. in Civil Engineering", "credits": 145, "tuition_fees": 864000, "library_lab_activities_fees": 52788, "admission_fee": 20000, "grand_total": 936788 },
+      { "program": "B.Sc. (Hons.) in Mathematics", "credits": 130, "tuition_fees": 447000, "library_lab_activities_fees": 52788, "admission_fee": 20000, "grand_total": 519788 },
+      { "program": "B.Sc. in Data Science and Analytics", "credits": 130, "tuition_fees": 683000, "library_lab_activities_fees": 52788, "admission_fee": 20000, "grand_total": 755788 }
+    ]
+  },
+  "graduate_programs": {
+    "tuition_fees_per_credit": [
+      { "faculty": "Faculty of Business and Economics", "program": "MBA", "fee_per_credit": 6000 },
+      { "faculty": "Faculty of Business and Economics", "program": "EMBA", "fee_per_credit": 6000 },
+      { "faculty": "Faculty of Business and Economics", "program": "MDS", "fee_per_credit": 5000 },
+      { "faculty": "Faculty of Business and Economics", "program": "MSS in Economics", "fee_per_credit": 5000 },
+      { "faculty": "Faculty of Liberal Arts and Social Sciences", "program": "MA in English", "fee_per_credit": 4500 },
+      { "faculty": "Faculty of Liberal Arts and Social Sciences", "program": "MA in TESOL", "fee_per_credit": 4500 },
+      { "faculty": "Faculty of Liberal Arts and Social Sciences", "program": "LL.M", "fee_per_credit": 4500 },
+      { "faculty": "Faculty of Liberal Arts and Social Sciences", "program": "MPRHGD", "fee_per_credit": 2500 },
+      { "faculty": "Faculty of Liberal Arts and Social Sciences", "program": "PPDM", "fee_per_credit": 2800 },
+      { "faculty": "Faculty of Sciences and Engineering", "program": "M. S. in Data Science and Analytics", "fee_per_credit": 5000 },
+      { "faculty": "Faculty of Sciences and Engineering", "program": "MS in CSE", "fee_per_credit": 6000 },
+      { "faculty": "Faculty of Sciences and Engineering", "program": "M. Pharm.", "fee_per_credit": 5000 },
+      { "faculty": "Faculty of Business and Economics", "program": "PGDED", "fee_per_credit": 3000 }
+    ],
+    "detailed_fee_structure": [
+      { "program": "MBA", "credits": 60, "tuition_fees": 360000, "library_lab_activities_fees": 12060, "admission_fee": 20000, "grand_total": 392060 },
+      { "program": "EMBA", "credits": 42, "tuition_fees": 252000, "library_lab_activities_fees": 12060, "admission_fee": 20000, "grand_total": 284060 },
+      { "program": "MDS", "credits": 40, "tuition_fees": 200000, "library_lab_activities_fees": 9060, "admission_fee": 20000, "grand_total": 229060 },
+      { "program": "MSS in Economics", "credits": 40, "tuition_fees": 200000, "library_lab_activities_fees": 9060, "admission_fee": 20000, "grand_total": 229060 },
+      { "program": "MA in English", "credits": 40, "tuition_fees": 180000, "library_lab_activities_fees": 9060, "admission_fee": 20000, "grand_total": 209060 },
+      { "program": "MA in English (Extended)", "credits": 45, "tuition_fees": 202500, "library_lab_activities_fees": 9060, "admission_fee": 20000, "grand_total": 231560 },
+      { "program": "MA in TESOL", "credits": 40, "tuition_fees": 180000, "library_lab_activities_fees": 9060, "admission_fee": 20000, "grand_total": 209060 },
+      { "program": "MA in TESOL", "credits": 42, "tuition_fees": 189000, "library_lab_activities_fees": 9060, "admission_fee": 20000, "grand_total": 218060 },
+      { "program": "MA in TESOL", "credits": 48, "tuition_fees": 216000, "library_lab_activities_fees": 9060, "admission_fee": 20000, "grand_total": 245060 },
+      { "program": "LL.M", "credits": 40, "tuition_fees": 180000, "library_lab_activities_fees": 9060, "admission_fee": 20000, "grand_total": 209060 },
+      { "program": "MPRHGD", "credits": 48, "tuition_fees": 120000, "library_lab_activities_fees": 9060, "admission_fee": 20000, "grand_total": 149060 },
+      { "program": "PPDM", "credits": 21, "tuition_fees": 58800, "library_lab_activities_fees": 3020, "admission_fee": 20000, "grand_total": 81820 },
+      { "program": "M. S. in Data Science and Analytics", "credits": 40, "tuition_fees": 200000, "library_lab_activities_fees": 12060, "admission_fee": 20000, "grand_total": 232060 },
+      { "program": "MS in CSE", "credits": 40, "tuition_fees": 240000, "library_lab_activities_fees": 9060, "admission_fee": 20000, "grand_total": 269060 },
+      { "program": "M. Pharm.", "credits": 40, "tuition_fees": 200000, "library_lab_activities_fees": 9045, "admission_fee": 20000, "grand_total": 229045 },
+      { "program": "PGDED", "credits": 40, "tuition_fees": 96000, "library_lab_activities_fees": 9060, "admission_fee": 20000, "grand_total": 125060 }
+    ]
+  },
+  "diploma_programs": {
+    "tuition_fees_per_credit": [
+      { "faculty": "Faculty of Liberal Arts and Social Sciences", "program": "Population, Public Health and Disaster Management (PPDM)", "fee_per_credit": 2800 }
+    ],
+    "detailed_fee_structure": [
+      { "program": "Population, Public Health and Disaster Management (PPDM)", "credits": 21, "tuition_fees": 58800, "library_lab_activities_fees": 3020, "admission_fee": 15000, "grand_total": 76820 }
+    ]
+  },
+  "fee_categories": {
+    "tuition_fee": "Per credit charges for academic instruction",
+    "library_lab_activities_fees": "Additional charges for library access, laboratory usage, and student activities",
+    "admission_fee": "One-time non-refundable admission fee (20,000 BDT for undergraduate & graduate, 15,000 BDT for diploma programs)",
+    "application_fee": "Tk. 1,500 (online processing fee, not included in grand total)"
+  }
+}

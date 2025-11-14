@@ -1,0 +1,42 @@
+{
+  "university": "East West University (EWU), Bangladesh",
+  "faculties": [
+    {
+      "name": "Faculty of Science and Engineering",
+      "departments": [
+        "Department of Computer Science and Engineering (CSE)",
+        "Department of Electrical and Electronic Engineering (EEE)",
+        "Department of Civil Engineering (CE)",
+        "Department of Mathematics and Physical Sciences"
+      ]
+    },
+    {
+      "name": "Faculty of Business and Economics",
+      "departments": [
+        "Department of Business Administration",
+        "Department of Economics"
+      ]
+    },
+    {
+      "name": "Faculty of Arts and Social Sciences",
+      "departments": [
+        "Department of English",
+        "Department of Law",
+        "Department of Media and Communication",
+        "Department of Sociology and Anthropology",
+        "Department of Government and Politics"
+      ]
+    }
+  ],
+  "other_academic_units": [
+    {
+      "name": "Institute of Education and Research (IER)",
+      "programs": ["B.Ed.", "M.Ed."]
+    },
+    {
+      "name": "Department of Pharmacy",
+      "programs": ["B.Pharm.", "M.Phil in Pharmacy"]
+    }
+  ],
+  "note": "The academic structure may be updated periodically. For the most current information, please visit the official EWU website: https://www.ewubd.edu"
+}

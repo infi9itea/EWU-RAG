@@ -1,0 +1,188 @@
+{
+  "university": "East West University (EWU)",
+  "admission_process": {
+    "application": {
+      "website_links": [
+        "http://www.ewubd.edu",
+        "http://admission.ewubd.edu"
+      ],
+      "browser_recommendation": [
+        "Google Chrome",
+        "Mozilla Firefox"
+      ],
+      "steps": [
+        {
+          "step": 1,
+          "action": "Visit EWU admission website",
+          "details": "Go to http://www.ewubd.edu or directly to http://admission.ewubd.edu"
+        },
+        {
+          "step": 2,
+          "action": "Create New Applicant",
+          "details": "Click 'Create New Applicant' and select desired program. Program cannot be changed later."
+        },
+        {
+          "step": 3,
+          "action": "Enter basic info",
+          "details": "Fill in Name, Mobile Number, Email (optional). A unique 'EWU Login ID' will be generated and shown on the next screen."
+        },
+        {
+          "step": 4,
+          "action": "Note EWU Login ID",
+          "details": "Example: 163354131. Required for payment and login. Also sent via email. Pay slip can be downloaded/printed."
+        },
+        {
+          "step": 5,
+          "action": "Pay Application Fee",
+          "details": {
+            "amount": "Tk 1500 (Non-refundable)",
+            "payment_methods": [
+              "Cash at EWU Admission Office",
+              "Online via bKash (processing fee applies)"
+            ]
+          }
+        },
+        {
+          "step": 6,
+          "action": "Sign In",
+          "details": "Use EWU Login ID and Mobile Number to sign in after payment clearance."
+        },
+        {
+          "step": 7,
+          "action": "Fill Online Admission Form",
+          "details": {
+            "instructions": [
+              "Fill carefully",
+              "Fields with * are mandatory",
+              "Applicant responsible for correctness of info",
+              "False info will cancel admission"
+            ],
+            "uploads_required": {
+              "photo": {
+                "description": "Recent passport size color photo",
+                "format": "jpg",
+                "max_size": "100Kb",
+                "dimensions": "240x300 pixels"
+              },
+              "signature": {
+                "description": "Scanned signature on white background",
+                "format": "jpg",
+                "max_size": "60Kb",
+                "dimensions": "300x80 pixels"
+              }
+            }
+          }
+        },
+        {
+          "step": 8,
+          "action": "Save / Preview / Submit",
+          "details": [
+            "Applicants may save form for review/edit",
+            "Preview option allows PDF download",
+            "Once submitted, no edits allowed",
+            "Buttons available: <Save> <Submit form> <Preview>"
+          ]
+        },
+        {
+          "step": 9,
+          "action": "Receive Confirmation",
+          "details": "After successful submission, a confirmation message appears: 'Your form has been submitted successfully. For obtaining the Admit Card click on the Admit Card'."
+        },
+        {
+          "step": 10,
+          "action": "Obtain Admit Card",
+          "details": [
+            "Download/print Admit Card any time using EWU Login ID + Mobile Number",
+            "Admit Card is mandatory for admission test"
+          ]
+        },
+        {
+          "step": 11,
+          "action": "Bring Documents",
+          "details": [
+            "Original HSC/Equivalent registration card OR A-Level statement of entry",
+            "Required during admission test and final admission (if qualified)"
+          ]
+        }
+      ]
+    },
+    "post_admission": {
+      "g_suite_activation": {
+        "note": "Students must activate their EWU G Suite email account. Personal email accounts will not be accepted.",
+        "link": "http://portal.ewubd.edu",
+        "instructions": [
+          "Go to http://portal.ewubd.edu using Chrome, Firefox, or Safari.",
+          "Click 'Activate Your ID First' button.",
+          "Enter Student ID in the Student ID field.",
+          "Receive OTP on registered mobile number.",
+          "Enter OTP and set password to activate portal access.",
+          "After activation, log in with Student ID, password, and captcha."
+        ]
+      },
+      "document_upload": {
+        "link": "http://portal.ewubd.edu",
+        "steps": [
+          "Log in to the portal",
+          "Go to 'UPLOAD DOCUMENT' menu",
+          "Click on 'UPLOAD DOCUMENT'"
+        ],
+        "required_documents": [
+          "SSC/O level/equivalent Certificate",
+          "SSC/O level/equivalent Mark Certificate",
+          "HSC/A level/equivalent Certificate",
+          "HSC/A level/equivalent Mark Certificate",
+          "NID/Birth Certificate/Passport",
+          "Degree Certificate (for Graduate Programs)",
+          "Degree Mark Certificate (for Graduate Programs)",
+          "Experience Certificate (for EMBA Program only)"
+        ],
+        "file_format": "PDF only"
+      },
+      "advising_slip": {
+        "instructions": [
+          "Log in to the portal at http://portal.ewubd.edu",
+          "Go to 'ADVISING' menu",
+          "Click on 'VIEW ADVISED COURSES' to see advising slip",
+          "Save or print advising slip as needed"
+        ],
+        "purpose": "Shows advised courses, class schedule, and routine based on academic calendar",
+        "academic_calendar_link": "https://www.ewubd.edu/academic-calendar"
+      },
+      "tuition_payment": {
+        "requirements": [
+          "Pay tuition fees within stipulated time mentioned in advising slip",
+          "Payment must be cleared to continue classes"
+        ],
+        "payment_methods": [
+          "Any branch of three designated banks (mentioned on advising slip)"
+        ],
+        "important_note": "Do not use agent banking systems. They do not report deposit information properly."
+      }
+    },
+    "important_notes": [
+      "Decision of EWU Admission Committee is final.",
+      "Applicant must provide valid and truthful information."
+    ],
+    "contacts": {
+      "admission_office": {
+        "address": "A/2 Jahurul Islam Avenue, Jahurul Islam City, Aftabnagar, Dhaka",
+        "phone": [
+          "55046678",
+          "09666775577",
+          "01755587224"
+        ],
+        "email": "admissions@ewubd.edu"
+      },
+      "support": {
+        "payment_issues": "helpdesk-accounts@ewubd.edu",
+        "technical_issues": "helpdesk-ics@ewubd.edu",
+        "advising_or_course_issues": "https://www.ewubd.edu/enquire"
+      }
+    },
+    "registrar": {
+      "name": "Mashfiqur Rahman",
+      "designation": "Registrar",
+      "university": "East West University"
+    }
+  }
+}

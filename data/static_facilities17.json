@@ -1,0 +1,102 @@
+{
+    "university": "East West University",
+    "source_url": "https://www.ewubd.edu/",
+    "last_updated": "2025-10-02",
+    "facilities": [
+        {
+            "name": "Library",
+            "type": "Academic Resource Center",
+            "url": "https://ewubd.edu/admin-office/library-personnel",
+            "description": "Central academic resource hub providing access to books, journals, e-resources, and research support for students and faculty.",
+            "services": [
+                "Physical and digital collections",
+                "Reading rooms",
+                "Research assistance",
+                "Inter-library loan (if available)"
+            ]
+        },
+        {
+            "name": "Center for Research and Training (CRT)",
+            "type": "Research Hub",
+            "url": "https://www.crtewu.org/",
+            "description": "Premier research center promoting academic inquiry, organizing seminars, conferences, and publishing scholarly work.",
+            "activities": [
+                "Research seminars",
+                "Training programs",
+                "National and international conferences",
+                "Research grants and publications",
+                "EWUCRT Research Fair"
+            ]
+        },
+        {
+            "name": "Information and Communication Services (ICS)",
+            "type": "IT Services",
+            "url": "https://www.ewubd.edu/admin-office/information-and-communication-services",
+            "description": "Manages university-wide IT infrastructure, including internet, software, hardware, and technical support.",
+            "services": [
+                "Campus-wide Wi-Fi",
+                "Computer labs maintenance",
+                "Email and portal support",
+                "Cybersecurity and network management",
+                "Technical helpdesk"
+            ]
+        },
+        {
+            "name": "Office of the Students' Welfare",
+            "type": "Student Support",
+            "url": "https://www.ewubd.edu/admin-office/office-of-the-students-welfare",
+            "description": "Oversees extracurricular activities, club management, student conduct, and holistic development through 18+ student clubs.",
+            "responsibilities": [
+                "Supervision of 18+ student clubs",
+                "Organizing cultural and social events",
+                "Promoting leadership and interpersonal skills",
+                "Coordinating volunteer and community service programs"
+            ]
+        },
+        {
+            "name": "EWU Medical Centre",
+            "type": "Healthcare",
+            "url": "https://www.ewubd.edu/admin-office/ewu-medical-centre",
+            "description": "On-campus medical facility providing basic healthcare, first aid, and health awareness services to students and staff.",
+            "services": [
+                "First aid and emergency care",
+                "Routine health check-ups",
+                "Medical counseling",
+                "Health and hygiene awareness campaigns"
+            ]
+        },
+        {
+            "name": "Career Counseling Center (CCC)",
+            "type": "Career Development",
+            "url": "https://www.ewubd.edu/career-counseling-center",
+            "description": "Supports students in career planning, skill development, internships, and job placements through workshops, fairs, and employer networking.",
+            "services": [
+                "Internship and job placement",
+                "Resume and interview workshops",
+                "Corporate presentations",
+                "On-campus job fairs",
+                "Career mentoring and guidance"
+            ]
+        },
+        {
+            "name": "Cafeteria",
+            "type": "Dining",
+            "url": null,
+            "description": "On-campus dining facility providing affordable and hygienic meals for students, faculty, and staff.",
+            "note": "Mentioned implicitly via campus life context; no dedicated public webpage found."
+        },
+        {
+            "name": "Green Spaces & Campus Environment",
+            "type": "Recreational & Environmental",
+            "url": null,
+            "description": "Well-maintained green areas, gardens, and open spaces supporting sustainability, relaxation, and outdoor activities.",
+            "related_initiatives": [
+                "Environmental Week (by EWUESC)",
+                "Tree plantation drives",
+                "Sustainable Climate Action Policy",
+                "Green Riders cycling group"
+            ],
+            "note": "Inferred from university sustainability policies and club activities (e.g., EWUESC); no standalone facility page."
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "institution": {
+        "name": "East West University (EWU)",
+        "location": "Dhaka, Bangladesh"
+    },
+    "department_helpdesks": {
+        "academic_departments": {
+            "civil_engineering": {
+                "department": "CE",
+                "full_name": "Civil Engineering",
+                "email": "helpdesk-ce@ewubd.edu"
+            },
+            "computer_science_engineering": {
+                "department": "CSE",
+                "full_name": "Computer Science and Engineering",
+                "email": "helpdesk-cse@ewubd.edu"
+            },
+            "business_administration": {
+                "department": "BBA",
+                "full_name": "Business Administration",
+                "email": "helpdesk-dba@ewubd.edu"
+            },
+            "social_relations": {
+                "department": "DSR",
+                "full_name": "Department of Social Relations",
+                "email": "helpdesk-dsr@ewubd.edu"
+            },
+            "economics": {
+                "department": "ECO",
+                "full_name": "Department of Economics",
+                "email": "helpdesk-eco@ewubd.edu"
+            },
+            "electrical_electronic_engineering": {
+                "department": "EEE",
+                "full_name": "Electrical and Electronic Engineering",
+                "email": "helpdesk-eee@ewubd.edu"
+            },
+            "genetic_engineering_biotechnology": {
+                "department": "GEB",
+                "full_name": "Genetic Engineering and Biotechnology",
+                "email": "helpdesk-geb@ewubd.edu"
+            },
+            "english": {
+                "department": "ENG",
+                "full_name": "Department of English",
+                "email": "helpdesk-eng@ewubd.edu"
+            },
+            "information_studies": {
+                "department": "DIS",
+                "full_name": "Department of Information Studies",
+                "email": "helpdesk-dis@ewubd.edu"
+            },
+            "law": {
+                "department": "Law",
+                "full_name": "Department of Law",
+                "email": "helpdesk-law@ewubd.edu"
+            },
+            "mba": {
+                "department": "MBA",
+                "full_name": "Master of Business Administration",
+                "email": "helpdesk-mba@ewubd.edu"
+            },
+            "mathematical_physical_sciences": {
+                "department": "MPS",
+                "full_name": "Department of Mathematical and Physical Sciences",
+                "email": "helpdesk-mps@ewubd.edu"
+            },
+            "pharmacy": {
+                "department": "PHRM",
+                "full_name": "Department of Pharmacy",
+                "email": "helpdesk-phrm@ewubd.edu"
+            },
+            "sociology": {
+                "department": "SOC",
+                "full_name": "Department of Sociology",
+                "email": "helpdesk-soc@ewubd.edu"
+            }
+        },
+        "administrative_offices": {
+            "accounts": {
+                "office": "Accounts",
+                "email": "helpdesk-accounts@ewubd.edu",
+                "purpose": "For tuition/ scholarship/ other financial issues"
+            },
+            "registrar": {
+                "office": "Registrar",
+                "email": "helpdesk-regoffice@ewubd.edu",
+                "purpose": "For registration/ other administrative issues"
+            },
+            "ics": {
+                "office": "ICS",
+                "email": "helpdesk-ics@ewubd.edu",
+                "purpose": "For relevant IT issues"
+            },
+            "coe": {
+                "office": "COE",
+                "email": "helpdesk-coe@ewubd.edu",
+                "purpose": "For Certificates/Transcripts/Grade Reports related issues"
+            }
+        }
+    },
+    "contact_guidelines": {
+        "email_format": "helpdesk-[department/office]@ewubd.edu",
+        "response_expectation": "Business hours response time",
+        "query_types": [
+            "Academic inquiries",
+            "Administrative procedures",
+            "Technical support",
+            "Document requests",
+            "General assistance"
+        ]
+    }
+}
