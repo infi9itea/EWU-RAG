@@ -1,0 +1,11 @@
+transformers
+sentence-transformers
+bitsandbytes
+accelerate
+langchain
+langchain-community
+faiss-cpu
+gradio
+beautifulsoup4
+requests
+torch
